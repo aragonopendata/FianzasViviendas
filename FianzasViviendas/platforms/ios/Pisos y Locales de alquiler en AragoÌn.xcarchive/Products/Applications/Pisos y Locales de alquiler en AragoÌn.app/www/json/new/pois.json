@@ -1,0 +1,6078 @@
+{
+  "structure":{
+    "tables":{
+      "pois":"([id] ,[etiqueta],[localidad],[long] REAL,[lat] REAL)"
+    },
+    "otherSQL": [
+      
+    ]
+  },
+  "data":{
+    "inserts":{
+      "pois": [
+  {
+    "id": 508,
+    "etiqueta": "Miguel Servet (Centro Educativo)",
+    "localidad": "Villanueva De Sigena",
+    "long": -604.022896629026,
+    "lat": 5118182.69155869
+  },
+  {
+    "id": 395,
+    "etiqueta": "C.R.A. Vero-Alcanadre",
+    "localidad": "Adahuesca",
+    "long": -1444.5908056345,
+    "lat": 5182368.73172215
+  },
+  {
+    "id": 686,
+    "etiqueta": "LOS MONCHONES (E.E.I.)",
+    "localidad": "Valdealgorfa",
+    "long": -3749.52431461898,
+    "lat": 5010471.50826506
+  },
+  {
+    "id": 414,
+    "etiqueta": "Compromiso De Caspe (Centro Educativo)",
+    "localidad": "Caspe",
+    "long": -4162.70218942692,
+    "lat": 5047136.87921643
+  },
+  {
+    "id": 77,
+    "etiqueta": "Santa Ana (Centro Educativo)",
+    "localidad": "Caspe",
+    "long": -4677.05834941687,
+    "lat": 5047523.24935618
+  },
+  {
+    "id": 268,
+    "etiqueta": "Joaquín Costa (C.P.E.P.A.)",
+    "localidad": "Caspe",
+    "long": -4836.83298816264,
+    "lat": 5047302.74071622
+  },
+  {
+    "id": 716,
+    "etiqueta": "Extensión De E.O.I.",
+    "localidad": "Caspe",
+    "long": -4877.64271348746,
+    "lat": 5046829.66436215
+  },
+  {
+    "id": 800,
+    "etiqueta": "Mar De Aragón (I.E.S.)",
+    "localidad": "Caspe",
+    "long": -4877.64271348746,
+    "lat": 5046829.66436215
+  },
+  {
+    "id": 287,
+    "etiqueta": "Alejo Lorén Albareda (Centro Educativo)",
+    "localidad": "Caspe",
+    "long": -5151.76028039645,
+    "lat": 5046700.09878985
+  },
+  {
+    "id": 285,
+    "etiqueta": "Alberto Galindo (Centro Educativo)",
+    "localidad": "Sena",
+    "long": -5192.13585970717,
+    "lat": 5118211.79502635
+  },
+  {
+    "id": 629,
+    "etiqueta": "E.E.I. DE CASPE",
+    "localidad": "Caspe",
+    "long": -5220.77725149337,
+    "lat": 5046865.56645582
+  },
+  {
+    "id": 324,
+    "etiqueta": "C.R.A. A Redolada",
+    "localidad": "Peralta De Alcofea",
+    "long": -7505.58197015261,
+    "lat": 5150551.47952917
+  },
+  {
+    "id": 672,
+    "etiqueta": "LA CODOÑERA (E.E.I.)",
+    "localidad": "Codoñera (La)",
+    "long": -9665.53854030247,
+    "lat": 5002780.61813082
+  },
+  {
+    "id": 328,
+    "etiqueta": "C.R.A. Alto Ara",
+    "localidad": "Broto",
+    "long": -13539.7106283474,
+    "lat": 5251806.82501159
+  },
+  {
+    "id": 429,
+    "etiqueta": "Emilio Diaz (Centro Educativo)",
+    "localidad": "Alcañiz",
+    "long": -13961.0805044828,
+    "lat": 5019612.19795756
+  },
+  {
+    "id": 278,
+    "etiqueta": "Río Guadalope (C.P.E.P.A.)",
+    "localidad": "Alcañiz",
+    "long": -13993.482268668,
+    "lat": 5020086.60650668
+  },
+  {
+    "id": 489,
+    "etiqueta": "Lucio Fabio Severo (Centro Educativo)",
+    "localidad": "Chiprana",
+    "long": -14082.2128083895,
+    "lat": 5051342.05771334
+  },
+  {
+    "id": 175,
+    "etiqueta": "VEO-VEO (Centro Educativo)",
+    "localidad": "Alcañiz",
+    "long": -14260.0468081267,
+    "lat": 5018819.97398169
+  },
+  {
+    "id": 701,
+    "etiqueta": "E.O.I. De Alcañiz",
+    "localidad": "Alcañiz",
+    "long": -14369.3068883403,
+    "lat": 5020059.30766184
+  },
+  {
+    "id": 760,
+    "etiqueta": "Bajo Aragón (I.E.S.)",
+    "localidad": "Alcañiz",
+    "long": -14369.3068883403,
+    "lat": 5020059.30766184
+  },
+  {
+    "id": 682,
+    "etiqueta": "LA SELVETA (E.E.I.)",
+    "localidad": "Alcañiz",
+    "long": -14396.4621649244,
+    "lat": 5020056.35089436
+  },
+  {
+    "id": 753,
+    "etiqueta": "Virgen De Pueyos (Centro Educativo)",
+    "localidad": "Alcañiz",
+    "long": -14398.6818755708,
+    "lat": 5019406.27361308
+  },
+  {
+    "id": 468,
+    "etiqueta": "Juan Lorenzo Palmireno (Centro Educativo)",
+    "localidad": "Alcañiz",
+    "long": -14493.2700468979,
+    "lat": 5019511.95345251
+  },
+  {
+    "id": 670,
+    "etiqueta": "Juan Lorenzo Palmireno (E.E.I.)",
+    "localidad": "Alcañiz",
+    "long": -14493.2700468979,
+    "lat": 5019511.95345251
+  },
+  {
+    "id": 27,
+    "etiqueta": "La Inmaculada (Centro Educativo)",
+    "localidad": "Alcañiz",
+    "long": -14570.8986938025,
+    "lat": 5019931.37478024
+  },
+  {
+    "id": 172,
+    "etiqueta": "SOLETES (Centro Educativo)",
+    "localidad": "Alcañiz",
+    "long": -14579.1407889009,
+    "lat": 5019997.89624366
+  },
+  {
+    "id": 66,
+    "etiqueta": "San Valero (Centro Educativo)",
+    "localidad": "Alcañiz",
+    "long": -14711.3337974128,
+    "lat": 5019717.8475631
+  },
+  {
+    "id": 602,
+    "etiqueta": "Conservatorio Profesional De Música",
+    "localidad": "Alcañiz",
+    "long": -14752.5631972179,
+    "lat": 5019786.1359654
+  },
+  {
+    "id": 654,
+    "etiqueta": "E.E.I. DE TORRECILLA DE ALCAÑIZ",
+    "localidad": "Torrecilla De Alcañiz",
+    "long": -14952.2848352348,
+    "lat": 5020021.0734654
+  },
+  {
+    "id": 315,
+    "etiqueta": "C.P. Juan Sobrarias",
+    "localidad": "Alcañiz",
+    "long": -15494.0756837308,
+    "lat": 5019727.6475142
+  },
+  {
+    "id": 630,
+    "etiqueta": "E.E.I. DE CASTELSERÁS",
+    "localidad": "Castelseras",
+    "long": -16079.9022963948,
+    "lat": 5009561.41633359
+  },
+  {
+    "id": 361,
+    "etiqueta": "C.R.A. L' Albada",
+    "localidad": "Bujaraloz",
+    "long": -16376.5531546301,
+    "lat": 5086004.44025432
+  },
+  {
+    "id": 351,
+    "etiqueta": "C.R.A. Del Mezquín",
+    "localidad": "Castelseras",
+    "long": -16466.9590526881,
+    "lat": 5009601.08545913
+  },
+  {
+    "id": 379,
+    "etiqueta": "C.R.A. MONTESNEGROS",
+    "localidad": "Peñalba",
+    "long": -16867.6936348151,
+    "lat": 5085405.64567639
+  },
+  {
+    "id": 808,
+    "etiqueta": "Monegros-Gaspar Lax (I.E.S.)",
+    "localidad": "Sariñena",
+    "long": -17039.6978328195,
+    "lat": 5129456.08658222
+  },
+  {
+    "id": 832,
+    "etiqueta": "Sección Del I.E.S. Mar De Aragón",
+    "localidad": "Bujaraloz",
+    "long": -17150.7045158436,
+    "lat": 5085880.9645084
+  },
+  {
+    "id": 480,
+    "etiqueta": "La Laguna (Centro Educativo)",
+    "localidad": "Sariñena",
+    "long": -17588.7511648948,
+    "lat": 5130324.05040734
+  },
+  {
+    "id": 275,
+    "etiqueta": "Monegros (C.P.E.P.A.)",
+    "localidad": "Sariñena",
+    "long": -17637.6404588614,
+    "lat": 5129442.09255463
+  },
+  {
+    "id": 579,
+    "etiqueta": "Valle Del Guarga (Centro Educativo)",
+    "localidad": "Aineto",
+    "long": -21455.2611323884,
+    "lat": 5219891.88740125
+  },
+  {
+    "id": 586,
+    "etiqueta": "Virgen Del Pilar (Centro Educativo)",
+    "localidad": "Calanda",
+    "long": -25493.9456167072,
+    "lat": 5003580.16022179
+  },
+  {
+    "id": 741,
+    "etiqueta": "Escuela De Música",
+    "localidad": "Calanda",
+    "long": -25529.798285107,
+    "lat": 5003335.98061635
+  },
+  {
+    "id": 628,
+    "etiqueta": "E.E.I. DE CALANDA",
+    "localidad": "Calanda",
+    "long": -25550.5560305553,
+    "lat": 5003320.92599477
+  },
+  {
+    "id": 852,
+    "etiqueta": "Valle Del Guadalope (I.E.S.)",
+    "localidad": "Calanda",
+    "long": -26346.4837105577,
+    "lat": 5004460.49375232
+  },
+  {
+    "id": 578,
+    "etiqueta": "Valero Serrano (Centro Educativo)",
+    "localidad": "Mas De Las Matas",
+    "long": -27076.2464248174,
+    "lat": 4987520.24934029
+  },
+  {
+    "id": 384,
+    "etiqueta": "C.R.A. Regallo",
+    "localidad": "Puigmoreno",
+    "long": -28002.6516799786,
+    "lat": 5028201.12195385
+  },
+  {
+    "id": 376,
+    "etiqueta": "C.R.A. Monegros-Hoya",
+    "localidad": "Lalueza",
+    "long": -28946.515170881,
+    "lat": 5137602.87917958
+  },
+  {
+    "id": 695,
+    "etiqueta": "TRIAMOLETA (E.E.I.)",
+    "localidad": "Panticosa",
+    "long": -31821.6516019966,
+    "lat": 5270103.10725754
+  },
+  {
+    "id": 344,
+    "etiqueta": "C.R.A. De Castellote",
+    "localidad": "Castellote",
+    "long": -35268.4748440556,
+    "lat": 4982771.46183943
+  },
+  {
+    "id": 329,
+    "etiqueta": "C.R.A. Alto Gállego",
+    "localidad": "Biescas",
+    "long": -35807.8021922203,
+    "lat": 5255544.42254576
+  },
+  {
+    "id": 834,
+    "etiqueta": "Sección De I.E.S Biello Aragón",
+    "localidad": "Biescas",
+    "long": -35815.4754447207,
+    "lat": 5255605.38968818
+  },
+  {
+    "id": 632,
+    "etiqueta": "E.E.I. DE ESCATRÓN",
+    "localidad": "Escatron",
+    "long": -35971.7936132773,
+    "lat": 5055123.88907526
+  },
+  {
+    "id": 551,
+    "etiqueta": "San Javier (Centro Educativo)",
+    "localidad": "Escatron",
+    "long": -35981.7734056269,
+    "lat": 5055194.92978963
+  },
+  {
+    "id": 625,
+    "etiqueta": "E.E.I. DE BIESCAS",
+    "localidad": "Biescas",
+    "long": -36143.3068923272,
+    "lat": 5255456.04842622
+  },
+  {
+    "id": 375,
+    "etiqueta": "C.R.A. Monegros Norte",
+    "localidad": "Lanaja",
+    "long": -36619.9524616161,
+    "lat": 5126486.49972172
+  },
+  {
+    "id": 663,
+    "etiqueta": "E.E.I. De Sallent De Gállego",
+    "localidad": "Sallent De Gallego",
+    "long": -37048.0059599787,
+    "lat": 5277350.27332258
+  },
+  {
+    "id": 838,
+    "etiqueta": "Sección Del I.E.S. Benjamín Jarnés",
+    "localidad": "Sastago",
+    "long": -38466.3799123365,
+    "lat": 5060134.90820439
+  },
+  {
+    "id": 419,
+    "etiqueta": "Daniel Federio (Centro Educativo)",
+    "localidad": "Sastago",
+    "long": -38518.6132438065,
+    "lat": 5060122.07157852
+  },
+  {
+    "id": 507,
+    "etiqueta": "Miguel Servet (Centro Educativo)",
+    "localidad": "Senegüe",
+    "long": -38648.0076803199,
+    "lat": 5244374.28591713
+  },
+  {
+    "id": 653,
+    "etiqueta": "E.E.I. DE TIERZ",
+    "localidad": "Tierz",
+    "long": -39338.3087482882,
+    "lat": 5180858.81821094
+  },
+  {
+    "id": 528,
+    "etiqueta": "Puente Sardas (Centro Educativo)",
+    "localidad": "Sabiñanigo",
+    "long": -40240.1803008736,
+    "lat": 5236528.92020408
+  },
+  {
+    "id": 764,
+    "etiqueta": "Biello Aragón (I.E.S.)",
+    "localidad": "Sabiñanigo",
+    "long": -40299.3098747982,
+    "lat": 5236560.98210108
+  },
+  {
+    "id": 827,
+    "etiqueta": "San Alberto Magno (I.E.S.)",
+    "localidad": "Sabiñanigo",
+    "long": -40503.9240044355,
+    "lat": 5239321.62775337
+  },
+  {
+    "id": 99,
+    "etiqueta": "San Jorge (Centro Educativo)",
+    "localidad": "Huesca",
+    "long": -40535.1068201965,
+    "lat": 5156681.58872386
+  },
+  {
+    "id": 74,
+    "etiqueta": "Santa Ana (Centro Educativo)",
+    "localidad": "Sabiñanigo",
+    "long": -40556.9120820531,
+    "lat": 5239175.12692075
+  },
+  {
+    "id": 243,
+    "etiqueta": "Alto Gállego (C.P.E.P.A.)",
+    "localidad": "Sabiñanigo",
+    "long": -40720.9235406185,
+    "lat": 5239091.99142459
+  },
+  {
+    "id": 565,
+    "etiqueta": "Santiago Apóstol (Centro Educativo)",
+    "localidad": "Grañen",
+    "long": -40728.7504140162,
+    "lat": 5152281.1591366
+  },
+  {
+    "id": 809,
+    "etiqueta": "Montes Negros (I.E.S.)",
+    "localidad": "Grañen",
+    "long": -40728.7504140162,
+    "lat": 5152281.1591366
+  },
+  {
+    "id": 514,
+    "etiqueta": "Montecorona (Centro Educativo)",
+    "localidad": "Sabiñanigo",
+    "long": -40799.2579530948,
+    "lat": 5239536.19878071
+  },
+  {
+    "id": 616,
+    "etiqueta": "CARDELINA (E.E.I.)",
+    "localidad": "Sabiñanigo",
+    "long": -40940.8552321889,
+    "lat": 5239251.40155832
+  },
+  {
+    "id": 705,
+    "etiqueta": "E.O.I. De Sabiñánigo",
+    "localidad": "Sabiñanigo",
+    "long": -41147.358453585,
+    "lat": 5239292.78112055
+  },
+  {
+    "id": 596,
+    "etiqueta": "Conservatorio Elemental De Música",
+    "localidad": "Sabiñanigo",
+    "long": -41268.2035532055,
+    "lat": 5239155.8170793
+  },
+  {
+    "id": 249,
+    "etiqueta": "C.P.E.P.A. De Alcorisa",
+    "localidad": "Alcorisa",
+    "long": -42320.7593949184,
+    "lat": 4996915.82009143
+  },
+  {
+    "id": 736,
+    "etiqueta": "Escuela De Música",
+    "localidad": "Alcorisa",
+    "long": -42320.7593949184,
+    "lat": 4996915.82009143
+  },
+  {
+    "id": 620,
+    "etiqueta": "E.E.I. DE ALCORISA",
+    "localidad": "Alcorisa",
+    "long": -42377.1749996575,
+    "lat": 4996742.47021489
+  },
+  {
+    "id": 491,
+    "etiqueta": "Luis Turón (Centro Educativo)",
+    "localidad": "Hijar",
+    "long": -42393.9809031825,
+    "lat": 5044971.73889071
+  },
+  {
+    "id": 771,
+    "etiqueta": "DAMIÁN FORMENT (I.E.S.)",
+    "localidad": "Alcorisa",
+    "long": -42606.4118874634,
+    "lat": 4996568.71992778
+  },
+  {
+    "id": 425,
+    "etiqueta": "El Justicia De Aragón (Centro Educativo)",
+    "localidad": "Alcorisa",
+    "long": -42673.4317868954,
+    "lat": 4996608.04603496
+  },
+  {
+    "id": 526,
+    "etiqueta": "Pío XII (Centro Educativo)",
+    "localidad": "Huesca",
+    "long": -44158.2657016466,
+    "lat": 5182294.01425924
+  },
+  {
+    "id": 860,
+    "etiqueta": "Montearagón (Centro Educativo)",
+    "localidad": "Huesca",
+    "long": -44505.4222128549,
+    "lat": 5180032.35642414
+  },
+  {
+    "id": 111,
+    "etiqueta": "CLUB MINNIE (Centro Educativo)",
+    "localidad": "Huesca",
+    "long": -44675.5517906342,
+    "lat": 5181613.02216089
+  },
+  {
+    "id": 527,
+    "etiqueta": "Pirineos-Pyrénées (Centro Educativo)",
+    "localidad": "Huesca",
+    "long": -44704.2332574371,
+    "lat": 5180549.89888209
+  },
+  {
+    "id": 606,
+    "etiqueta": "Escuela De Arte",
+    "localidad": "Huesca",
+    "long": -44754.7544951388,
+    "lat": 5182058.09391157
+  },
+  {
+    "id": 158,
+    "etiqueta": "PARCHÍS (Centro Educativo)",
+    "localidad": "Huesca",
+    "long": -44819.9164722695,
+    "lat": 5181110.7662936
+  },
+  {
+    "id": 843,
+    "etiqueta": "Sierra De Guara (I.E.S.)",
+    "localidad": "Huesca",
+    "long": -44830.538578081,
+    "lat": 5181340.47385259
+  },
+  {
+    "id": 273,
+    "etiqueta": "Miguel Hernández (C.P.E.P.A.)",
+    "localidad": "Huesca",
+    "long": -44924.4955678952,
+    "lat": 5180889.24971186
+  },
+  {
+    "id": 138,
+    "etiqueta": "KID'S GARDEN HUESCA (Centro Educativo)",
+    "localidad": "Huesca",
+    "long": -44934.2727587716,
+    "lat": 5180214.57528741
+  },
+  {
+    "id": 798,
+    "etiqueta": "Lucas Mallada (I.E.S.)",
+    "localidad": "Huesca",
+    "long": -44990.080559091,
+    "lat": 5181392.75785898
+  },
+  {
+    "id": 836,
+    "etiqueta": "Sección Del I.E.S. Segundo De Chomón",
+    "localidad": "Cantavieja",
+    "long": -45018.5883674883,
+    "lat": 4942233.98413956
+  },
+  {
+    "id": 863,
+    "etiqueta": "E.H. En C.R.I.E.T.",
+    "localidad": "Cantavieja",
+    "long": -45018.5883674883,
+    "lat": 4942233.98413956
+  },
+  {
+    "id": 562,
+    "etiqueta": "Sancho Ramírez (Centro Educativo)",
+    "localidad": "Huesca",
+    "long": -45038.0815235211,
+    "lat": 5181306.59575936
+  },
+  {
+    "id": 331,
+    "etiqueta": "C.R.A. Alto Maestrazgo",
+    "localidad": "Cantavieja",
+    "long": -45047.6883955765,
+    "lat": 4942379.6686998
+  },
+  {
+    "id": 704,
+    "etiqueta": "E.O.I. De Huesca",
+    "localidad": "Huesca",
+    "long": -45096.4196158662,
+    "lat": 5182514.80089395
+  },
+  {
+    "id": 182,
+    "etiqueta": "ZIMBEL (Centro Educativo)",
+    "localidad": "Huesca",
+    "long": -45303.01077966,
+    "lat": 5180695.11452899
+  },
+  {
+    "id": 560,
+    "etiqueta": "San Vicente (Centro Educativo)",
+    "localidad": "Huesca",
+    "long": -45347.5274440282,
+    "lat": 5182192.994685
+  },
+  {
+    "id": 523,
+    "etiqueta": "Pedro J. Rubio (Centro Educativo)",
+    "localidad": "Huesca",
+    "long": -45444.1794787146,
+    "lat": 5180426.36608259
+  },
+  {
+    "id": 210,
+    "etiqueta": "Alfred (Centro Educativo)",
+    "localidad": "Huesca",
+    "long": -45606.0313391585,
+    "lat": 5181779.36129208
+  },
+  {
+    "id": 168,
+    "etiqueta": "San José (Centro Educativo)",
+    "localidad": "Huesca",
+    "long": -45639.8780303342,
+    "lat": 5182488.24965652
+  },
+  {
+    "id": 72,
+    "etiqueta": "Santa Ana (Centro Educativo)",
+    "localidad": "Huesca",
+    "long": -45717.1382097244,
+    "lat": 5181906.7758856
+  },
+  {
+    "id": 145,
+    "etiqueta": "Las Ocas (Centro Educativo)",
+    "localidad": "Huesca",
+    "long": -45737.0788701102,
+    "lat": 5181625.08732835
+  },
+  {
+    "id": 754,
+    "etiqueta": "ESCRBCA-Huesca (Centro Educativo)",
+    "localidad": "Huesca",
+    "long": -45819.8415719303,
+    "lat": 5182032.51226767
+  },
+  {
+    "id": 426,
+    "etiqueta": "El Parque (Centro Educativo)",
+    "localidad": "Huesca",
+    "long": -45826.5329865219,
+    "lat": 5181758.13545049
+  },
+  {
+    "id": 60,
+    "etiqueta": "Salesiano San Bernardo (Centro Educativo)",
+    "localidad": "Huesca",
+    "long": -45841.9206797342,
+    "lat": 5182319.80528946
+  },
+  {
+    "id": 207,
+    "etiqueta": "ACEP ARAGÓN - HUESCA (Centro Educativo)",
+    "localidad": "Huesca",
+    "long": -45930.864952878,
+    "lat": 5181205.07779158
+  },
+  {
+    "id": 67,
+    "etiqueta": "San Viator (Centro Educativo)",
+    "localidad": "Huesca",
+    "long": -46107.6403042578,
+    "lat": 5181976.13531156
+  },
+  {
+    "id": 84,
+    "etiqueta": "Santa Rosa (Centro Educativo)",
+    "localidad": "Huesca",
+    "long": -46173.5180657143,
+    "lat": 5182416.94077143
+  },
+  {
+    "id": 187,
+    "etiqueta": "Altoaragón (Centro Educativo)",
+    "localidad": "Huesca",
+    "long": -46173.5180657143,
+    "lat": 5182416.94077143
+  },
+  {
+    "id": 159,
+    "etiqueta": "PASITO A PASO (Centro Educativo)",
+    "localidad": "Huesca",
+    "long": -46220.1820830599,
+    "lat": 5182552.94112188
+  },
+  {
+    "id": 821,
+    "etiqueta": "Ramón Y Cajal (I.E.S.)",
+    "localidad": "Huesca",
+    "long": -46337.7165410242,
+    "lat": 5181819.47869748
+  },
+  {
+    "id": 155,
+    "etiqueta": "Ntra.Sra.Del Pilar (Centro Educativo)",
+    "localidad": "Huesca",
+    "long": -46343.9749227966,
+    "lat": 5182648.87489105
+  },
+  {
+    "id": 286,
+    "etiqueta": "Alcoraz (Centro Educativo)",
+    "localidad": "Huesca",
+    "long": -46521.2990792659,
+    "lat": 5180546.34743617
+  },
+  {
+    "id": 600,
+    "etiqueta": "Conservatorio Profesional De Música",
+    "localidad": "Huesca",
+    "long": -46541.1261937711,
+    "lat": 5181505.20344824
+  },
+  {
+    "id": 684,
+    "etiqueta": "LAS PAJARITAS (E.E.I.)",
+    "localidad": "Huesca",
+    "long": -46541.1261937711,
+    "lat": 5181505.20344824
+  },
+  {
+    "id": 471,
+    "etiqueta": "Juan XXIII (Centro Educativo)",
+    "localidad": "Huesca",
+    "long": -46667.2589692043,
+    "lat": 5182100.07257756
+  },
+  {
+    "id": 104,
+    "etiqueta": "ALBADA (Centro Educativo)",
+    "localidad": "Huesca",
+    "long": -46830.020309888,
+    "lat": 5182466.94566383
+  },
+  {
+    "id": 828,
+    "etiqueta": "San Lorenzo (I.E.S.)",
+    "localidad": "Huesca",
+    "long": -46857.0431162781,
+    "lat": 5181996.99983563
+  },
+  {
+    "id": 677,
+    "etiqueta": "LA MALENA (E.E.I.)",
+    "localidad": "Andorra",
+    "long": -49218.6861134574,
+    "lat": 5008597.19462081
+  },
+  {
+    "id": 337,
+    "etiqueta": "C.R.A. Bajo Martín",
+    "localidad": "Puebla De Hijar (La)",
+    "long": -49305.1012077704,
+    "lat": 5044707.06509518
+  },
+  {
+    "id": 252,
+    "etiqueta": "C.P.E.P.A. De Andorra",
+    "localidad": "Andorra",
+    "long": -49524.0287975339,
+    "lat": 5008755.70744375
+  },
+  {
+    "id": 752,
+    "etiqueta": "Universidad Popular De Andorra (Centro Educativo)",
+    "localidad": "Andorra",
+    "long": -49548.3398611282,
+    "lat": 5008763.12837301
+  },
+  {
+    "id": 817,
+    "etiqueta": "Pirámide (I.E.S.)",
+    "localidad": "Huesca",
+    "long": -49675.649283579,
+    "lat": 5178581.18731809
+  },
+  {
+    "id": 371,
+    "etiqueta": "C.R.A. Maestrazgo Gudar",
+    "localidad": "Mosqueruela",
+    "long": -49780.9597482593,
+    "lat": 4918584.56079464
+  },
+  {
+    "id": 470,
+    "etiqueta": "Juan Ramón Alegre (Centro Educativo)",
+    "localidad": "Andorra",
+    "long": -49958.2905838981,
+    "lat": 5008589.81362771
+  },
+  {
+    "id": 591,
+    "etiqueta": "Gloria Fuertes (Centro Educativo)",
+    "localidad": "Andorra",
+    "long": -49958.2905838981,
+    "lat": 5008589.81362771
+  },
+  {
+    "id": 664,
+    "etiqueta": "EL CASTILLO (E.E.I.)",
+    "localidad": "Hijar",
+    "long": -50154.5635440902,
+    "lat": 5038162.74687982
+  },
+  {
+    "id": 811,
+    "etiqueta": "Pablo Serrano (I.E.S.)",
+    "localidad": "Andorra",
+    "long": -50157.1060812599,
+    "lat": 5008931.16019261
+  },
+  {
+    "id": 645,
+    "etiqueta": "E.E.I. DE NUENO",
+    "localidad": "Nueno",
+    "long": -50209.6622392533,
+    "lat": 5200409.09160268
+  },
+  {
+    "id": 815,
+    "etiqueta": "Pedro Laín Entralgo (I.E.S.)",
+    "localidad": "Hijar",
+    "long": -50332.9563676712,
+    "lat": 5037713.32606619
+  },
+  {
+    "id": 378,
+    "etiqueta": "C.R.A. Montearagón",
+    "localidad": "Chimillas",
+    "long": -50836.0458819979,
+    "lat": 5182806.81234784
+  },
+  {
+    "id": 350,
+    "etiqueta": "C.R.A. Del Ebro",
+    "localidad": "Gelsa",
+    "long": -50946.4948543732,
+    "lat": 5073023.77547641
+  },
+  {
+    "id": 366,
+    "etiqueta": "C.R.A. La Sabina",
+    "localidad": "Robres",
+    "long": -51040.5386733903,
+    "lat": 5141948.08885431
+  },
+  {
+    "id": 495,
+    "etiqueta": "Manuel Franco Royo (Centro Educativo)",
+    "localidad": "Andorra",
+    "long": -51124.2654020006,
+    "lat": 5009036.39295992
+  },
+  {
+    "id": 647,
+    "etiqueta": "E.E.I. DE QUINTO",
+    "localidad": "Quinto",
+    "long": -55262.75560218,
+    "lat": 5075425.15041514
+  },
+  {
+    "id": 435,
+    "etiqueta": "Fernando El Católico (Centro Educativo)",
+    "localidad": "Quinto",
+    "long": -55353.1214252213,
+    "lat": 5075151.18014439
+  },
+  {
+    "id": 544,
+    "etiqueta": "Román García (Centro Educativo)",
+    "localidad": "Albalate Del Arzobispo",
+    "long": -56780.5656896889,
+    "lat": 5030633.78499114
+  },
+  {
+    "id": 202,
+    "etiqueta": "Escuela Española De Esquí",
+    "localidad": "Candanchu",
+    "long": -57031.3540309123,
+    "lat": 5276610.30106913
+  },
+  {
+    "id": 486,
+    "etiqueta": "Los Arañones (Centro Educativo)",
+    "localidad": "Canfranc-Estacion",
+    "long": -57351.6157531449,
+    "lat": 5273819.69241168
+  },
+  {
+    "id": 390,
+    "etiqueta": "C.R.A. Somontano-Bajo Aragón",
+    "localidad": "Mata De Los Olmos (La)",
+    "long": -57897.9373049162,
+    "lat": 4992658.41957819
+  },
+  {
+    "id": 81,
+    "etiqueta": "Santa María De La Esperanza (Centro Educativo)",
+    "localidad": "Pina De Ebro",
+    "long": -58676.4056359826,
+    "lat": 5084994.07031414
+  },
+  {
+    "id": 742,
+    "etiqueta": "Escuela De Música",
+    "localidad": "Pina De Ebro",
+    "long": -58853.9802613062,
+    "lat": 5084404.93086426
+  },
+  {
+    "id": 537,
+    "etiqueta": "Ramón y Cajal (Centro Educativo)",
+    "localidad": "Pina De Ebro",
+    "long": -58950.9462169566,
+    "lat": 5084573.67499372
+  },
+  {
+    "id": 413,
+    "etiqueta": "Collarada (Centro Educativo)",
+    "localidad": "Villanua",
+    "long": -59321.4531045537,
+    "lat": 5263469.02963023
+  },
+  {
+    "id": 745,
+    "etiqueta": "Escuela De Música Y Danza",
+    "localidad": "Jaca",
+    "long": -59749.6847141016,
+    "lat": 5248530.08350932
+  },
+  {
+    "id": 397,
+    "etiqueta": "C.R.A. Violada Monegros",
+    "localidad": "Tardienta",
+    "long": -59796.3776745148,
+    "lat": 5157602.90591711
+  },
+  {
+    "id": 818,
+    "etiqueta": "Pirineos (I.E.S.)",
+    "localidad": "Jaca",
+    "long": -60147.5728568491,
+    "lat": 5248001.36450496
+  },
+  {
+    "id": 862,
+    "etiqueta": "E.H. De Jaca",
+    "localidad": "Jaca",
+    "long": -60241.014437421,
+    "lat": 5247932.0200141
+  },
+  {
+    "id": 267,
+    "etiqueta": "Jacetania (C.P.E.P.A.)",
+    "localidad": "Jaca",
+    "long": -60257.7869450988,
+    "lat": 5247805.21177199
+  },
+  {
+    "id": 512,
+    "etiqueta": "Monte Oroel (Centro Educativo)",
+    "localidad": "Jaca",
+    "long": -60564.052467754,
+    "lat": 5247662.17245317
+  },
+  {
+    "id": 80,
+    "etiqueta": "Santa María (Centro Educativo)",
+    "localidad": "Jaca",
+    "long": -61279.240121084,
+    "lat": 5246384.55813747
+  },
+  {
+    "id": 638,
+    "etiqueta": "E.E.I. DE JACA",
+    "localidad": "Jaca",
+    "long": -61370.347331934,
+    "lat": 5247420.608431
+  },
+  {
+    "id": 16,
+    "etiqueta": "Escuelas Pías (Centro Educativo)",
+    "localidad": "Jaca",
+    "long": -61486.482503899,
+    "lat": 5246008.64008174
+  },
+  {
+    "id": 772,
+    "etiqueta": "Domingo Miral (I.E.S.)",
+    "localidad": "Jaca",
+    "long": -61532.2047583525,
+    "lat": 5246487.64503244
+  },
+  {
+    "id": 712,
+    "etiqueta": "Extensión De E.O.I.",
+    "localidad": "Jaca",
+    "long": -61563.2584435042,
+    "lat": 5246432.63024848
+  },
+  {
+    "id": 556,
+    "etiqueta": "San Juan De La Peña (Centro Educativo)",
+    "localidad": "Jaca",
+    "long": -61742.1321672854,
+    "lat": 5246395.12055866
+  },
+  {
+    "id": 584,
+    "etiqueta": "Virgen De La Soledad (Centro Educativo)",
+    "localidad": "Bolea",
+    "long": -64371.7245183888,
+    "lat": 5206509.46974503
+  },
+  {
+    "id": 839,
+    "etiqueta": "Sección Del I.E.S. Pirámide",
+    "localidad": "Almudevar",
+    "long": -64614.0058241258,
+    "lat": 5166575.82500213
+  },
+  {
+    "id": 609,
+    "etiqueta": "@S`CRI@S (E.E.I.)",
+    "localidad": "Almudevar",
+    "long": -64706.3486813236,
+    "lat": 5166836.87107759
+  },
+  {
+    "id": 246,
+    "etiqueta": "AULA DE EDUCACIÓN DE ADULTOS (C.P.E.P.A.)",
+    "localidad": "Almudevar",
+    "long": -65001.3431055359,
+    "lat": 5167145.19716573
+  },
+  {
+    "id": 568,
+    "etiqueta": "Santos Samper Sarasa (Centro Educativo)",
+    "localidad": "Almudevar",
+    "long": -65001.3431055359,
+    "lat": 5167145.19716573
+  },
+  {
+    "id": 619,
+    "etiqueta": "E.E.I. DE ALBALATE DEL ARZOBISPO",
+    "localidad": "Albalate Del Arzobispo",
+    "long": -65987.3332313392,
+    "lat": 5017065.48578935
+  },
+  {
+    "id": 334,
+    "etiqueta": "C.R.A. Ariño-Alloza",
+    "localidad": "Ariño",
+    "long": -66232.2795256858,
+    "lat": 5016913.59312638
+  },
+  {
+    "id": 549,
+    "etiqueta": "San Ginés (Centro Educativo)",
+    "localidad": "Lupiñen",
+    "long": -66401.1868154562,
+    "lat": 5191056.46584002
+  },
+  {
+    "id": 336,
+    "etiqueta": "C.R.A. Bajo Gállego",
+    "localidad": "Leciñena",
+    "long": -67838.7388896879,
+    "lat": 5130786.07392429
+  },
+  {
+    "id": 256,
+    "etiqueta": "C.P.E.P.A. De Rubielos De Mora",
+    "localidad": "Rubielos De Mora",
+    "long": -69597.7449178985,
+    "lat": 4885293.60508463
+  },
+  {
+    "id": 490,
+    "etiqueta": "Luis García Saínz (Centro Educativo)",
+    "localidad": "Fuentes De Ebro",
+    "long": -69792.2679356954,
+    "lat": 5088011.29404968
+  },
+  {
+    "id": 634,
+    "etiqueta": "E.E.I. DE FUENTES DE EBRO",
+    "localidad": "Fuentes De Ebro",
+    "long": -69980.5748731264,
+    "lat": 5087692.56418469
+  },
+  {
+    "id": 763,
+    "etiqueta": "Benjamín Jarnés (I.E.S.)",
+    "localidad": "Fuentes De Ebro",
+    "long": -70237.817518426,
+    "lat": 5087649.42063148
+  },
+  {
+    "id": 254,
+    "etiqueta": "C.P.E.P.A. De Fuentes De Ebro",
+    "localidad": "Fuentes De Ebro",
+    "long": -70801.021784171,
+    "lat": 5088559.01562218
+  },
+  {
+    "id": 367,
+    "etiqueta": "C.R.A. La Sabina",
+    "localidad": "Villafranca De Ebro",
+    "long": -72222.3145335774,
+    "lat": 5097593.98012796
+  },
+  {
+    "id": 382,
+    "etiqueta": "C.R.A. Pórtico De Aragón",
+    "localidad": "Rubielos De Mora",
+    "long": -72599.5684955114,
+    "lat": 4893621.27400013
+  },
+  {
+    "id": 585,
+    "etiqueta": "Virgen De Los Ríos (Centro Educativo)",
+    "localidad": "Caldearenas",
+    "long": -73955.7783046255,
+    "lat": 5225040.35654513
+  },
+  {
+    "id": 533,
+    "etiqueta": "Ramón Y Cajal (Centro Educativo)",
+    "localidad": "Ayerbe",
+    "long": -76615.7052169701,
+    "lat": 5202433.3185606
+  },
+  {
+    "id": 622,
+    "etiqueta": "E.E.I. DE AYERBE",
+    "localidad": "Ayerbe",
+    "long": -76615.7052169701,
+    "lat": 5202433.3185606
+  },
+  {
+    "id": 381,
+    "etiqueta": "C.R.A. Pablo Antonio Crespo",
+    "localidad": "Aliaga",
+    "long": -78257.1645420725,
+    "lat": 4964326.27821126
+  },
+  {
+    "id": 307,
+    "etiqueta": "Brianda de Luna (Centro Educativo)",
+    "localidad": "Alfajarin",
+    "long": -78578.7131176187,
+    "lat": 5103689.26238086
+  },
+  {
+    "id": 372,
+    "etiqueta": "C.R.A. María Moliner",
+    "localidad": "Burgo De Ebro (El)",
+    "long": -82547.9709751145,
+    "lat": 5096642.53511406
+  },
+  {
+    "id": 674,
+    "etiqueta": "LA COMETA (E.E.I.)",
+    "localidad": "Burgo De Ebro (El)",
+    "long": -82605.180287823,
+    "lat": 5096965.07480219
+  },
+  {
+    "id": 782,
+    "etiqueta": "Gúdar-Javalambre (I.E.S.)",
+    "localidad": "Mora De Rubielos",
+    "long": -83348.6842800262,
+    "lat": 4901769.74982076
+  },
+  {
+    "id": 671,
+    "etiqueta": "JUNQUICOS (E.E.I.)",
+    "localidad": "Puebla De Alfinden (La)",
+    "long": -83390.3144299981,
+    "lat": 5106205.67719805
+  },
+  {
+    "id": 428,
+    "etiqueta": "Emiliano Labarta (Centro Educativo)",
+    "localidad": "Puebla De Alfinden (La)",
+    "long": -83432.308594705,
+    "lat": 5106120.7014077
+  },
+  {
+    "id": 305,
+    "etiqueta": "Belia (Centro Educativo)",
+    "localidad": "Belchite",
+    "long": -83477.9696234386,
+    "lat": 5058076.3655962
+  },
+  {
+    "id": 170,
+    "etiqueta": "San Rafael (Centro Educativo)",
+    "localidad": "Belchite",
+    "long": -83656.4192199598,
+    "lat": 5057748.93480042
+  },
+  {
+    "id": 558,
+    "etiqueta": "San Miguel (Centro Educativo)",
+    "localidad": "Mora De Rubielos",
+    "long": -83657.9320518397,
+    "lat": 4902109.97681009
+  },
+  {
+    "id": 255,
+    "etiqueta": "C.P.E.P.A. De La Puebla De Alfindén",
+    "localidad": "Puebla De Alfinden (La)",
+    "long": -84025.5991792266,
+    "lat": 5106099.76960326
+  },
+  {
+    "id": 64,
+    "etiqueta": "San Gabriel (Centro Educativo)",
+    "localidad": "Zuera",
+    "long": -84091.9834443663,
+    "lat": 5141896.56195234
+  },
+  {
+    "id": 540,
+    "etiqueta": "Reino de Aragón (Centro Educativo)",
+    "localidad": "Puebla De Alfinden (La)",
+    "long": -84278.9990757041,
+    "lat": 5105997.28722997
+  },
+  {
+    "id": 841,
+    "etiqueta": "Sección Del I.E.S.Benjamín Jarnés",
+    "localidad": "Belchite",
+    "long": -84416.7691907047,
+    "lat": 5057670.09823082
+  },
+  {
+    "id": 732,
+    "etiqueta": "DE GURREA DE GÁLLEGO (Centro Educativo)",
+    "localidad": "Gurrea De Gallego",
+    "long": -84563.1565474877,
+    "lat": 5163571.92678325
+  },
+  {
+    "id": 220,
+    "etiqueta": "E.F.A. El Salto",
+    "localidad": "Zuera",
+    "long": -84753.7388553105,
+    "lat": 5151055.75840191
+  },
+  {
+    "id": 637,
+    "etiqueta": "E.E.I. DE GURREA DE GÁLLEGO",
+    "localidad": "Gurrea De Gallego",
+    "long": -85009.6768361781,
+    "lat": 5163312.33362299
+  },
+  {
+    "id": 314,
+    "etiqueta": "C.P. Galo Ponte",
+    "localidad": "San Mateo De Gallego",
+    "long": -85147.43136645,
+    "lat": 5136118.50900881
+  },
+  {
+    "id": 166,
+    "etiqueta": "PEQUES (Centro Educativo)",
+    "localidad": "San Mateo De Gallego",
+    "long": -85234.693602088,
+    "lat": 5135470.65898014
+  },
+  {
+    "id": 500,
+    "etiqueta": "Mariano Castillo (Centro Educativo)",
+    "localidad": "Villamayor",
+    "long": -85517.516353177,
+    "lat": 5114050.15209166
+  },
+  {
+    "id": 95,
+    "etiqueta": "Los Pueyos (Centro Educativo)",
+    "localidad": "Villamayor",
+    "long": -85962.9969178233,
+    "lat": 5114009.86526957
+  },
+  {
+    "id": 105,
+    "etiqueta": "Aldeas Infantiles Sos De España (Centro Educativo)",
+    "localidad": "Villamayor",
+    "long": -86146.869999936,
+    "lat": 5114924.48057699
+  },
+  {
+    "id": 92,
+    "etiqueta": "Cedes (Centro Educativo)",
+    "localidad": "San Gregorio",
+    "long": -87151.6196863278,
+    "lat": 5126062.33008627
+  },
+  {
+    "id": 483,
+    "etiqueta": "La Portalada (Centro Educativo)",
+    "localidad": "Pastriz",
+    "long": -87221.0852749726,
+    "lat": 5104110.06097722
+  },
+  {
+    "id": 683,
+    "etiqueta": "LAS BALSAS (E.E.I.)",
+    "localidad": "Zuera",
+    "long": -87392.8857583088,
+    "lat": 5141653.96303267
+  },
+  {
+    "id": 859,
+    "etiqueta": "Instituto De Formación Agroambiental",
+    "localidad": "Jaca",
+    "long": -87692.9062575304,
+    "lat": 5245192.96837994
+  },
+  {
+    "id": 387,
+    "etiqueta": "C.R.A. Río Aragón",
+    "localidad": "Puente La Reina De Jaca",
+    "long": -87729.0951107924,
+    "lat": 5245129.04292591
+  },
+  {
+    "id": 518,
+    "etiqueta": "Odón De Buen (Centro Educativo)",
+    "localidad": "Zuera",
+    "long": -87768.8762440223,
+    "lat": 5141088.41513496
+  },
+  {
+    "id": 717,
+    "etiqueta": "Extensión De E.O.I. Nº 2",
+    "localidad": "Zuera",
+    "long": -87995.8511197752,
+    "lat": 5140889.45494656
+  },
+  {
+    "id": 780,
+    "etiqueta": "Gallicum (I.E.S.)",
+    "localidad": "Zuera",
+    "long": -88038.2961284198,
+    "lat": 5140053.29641805
+  },
+  {
+    "id": 45,
+    "etiqueta": "Ntra. Sra Del Pilar (Centro Educativo)",
+    "localidad": "Zuera",
+    "long": -88201.3981067454,
+    "lat": 5141773.21514951
+  },
+  {
+    "id": 439,
+    "etiqueta": "Florencio Jardiel (Centro Educativo)",
+    "localidad": "Peñaflor",
+    "long": -88799.9284996987,
+    "lat": 5124943.43191765
+  },
+  {
+    "id": 519,
+    "etiqueta": "Pablo Serrano (Centro Educativo)",
+    "localidad": "Montalban",
+    "long": -88907.0846415363,
+    "lat": 4988117.72911863
+  },
+  {
+    "id": 644,
+    "etiqueta": "E.E.I. DE MONTALBÁN",
+    "localidad": "Montalban",
+    "long": -88907.0846415363,
+    "lat": 4988117.72911863
+  },
+  {
+    "id": 858,
+    "etiqueta": "Instituto De Formación Profesional específica De Movera",
+    "localidad": "Movera",
+    "long": -89005.6101832527,
+    "lat": 5106884.62136597
+  },
+  {
+    "id": 261,
+    "etiqueta": "Cuenca Minera (C.P.E.P.A.)",
+    "localidad": "Montalban",
+    "long": -89295.1243489333,
+    "lat": 4987484.73801281
+  },
+  {
+    "id": 348,
+    "etiqueta": "C.R.A. De Muniesa",
+    "localidad": "Muniesa",
+    "long": -90019.4836151098,
+    "lat": 5016804.77622645
+  },
+  {
+    "id": 296,
+    "etiqueta": "Antonio Gargallo Moya (Centro Educativo)",
+    "localidad": "Escucha",
+    "long": -90091.3403464169,
+    "lat": 4982370.18086461
+  },
+  {
+    "id": 311,
+    "etiqueta": "C.P. De Sarrión",
+    "localidad": "Sarrión",
+    "long": -90181.236401207,
+    "lat": 4886345.7457651
+  },
+  {
+    "id": 751,
+    "etiqueta": "SALVADOR SALVADOR NAVARRO (Centro Educativo)",
+    "localidad": "Escucha",
+    "long": -90297.4205537479,
+    "lat": 4982258.44808901
+  },
+  {
+    "id": 24,
+    "etiqueta": "La Alfranca (Centro Educativo)",
+    "localidad": "Movera",
+    "long": -91004.7724281211,
+    "lat": 5107737.79072229
+  },
+  {
+    "id": 699,
+    "etiqueta": "ZAGALICOS (E.E.I.)",
+    "localidad": "Villanueva de Gállego",
+    "long": -91416.0333812976,
+    "lat": 5127343.1678346
+  },
+  {
+    "id": 747,
+    "etiqueta": "EVARISTO BERNAL (Centro Educativo)",
+    "localidad": "Villanueva de Gállego",
+    "long": -91434.128364526,
+    "lat": 5126240.96002223
+  },
+  {
+    "id": 493,
+    "etiqueta": "Maestro Don Pedro Orós (Centro Educativo)",
+    "localidad": "Movera",
+    "long": -91496.0976986608,
+    "lat": 5108692.75193377
+  },
+  {
+    "id": 424,
+    "etiqueta": "El Espartidero (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -91585.8056235115,
+    "lat": 5111583.86022097
+  },
+  {
+    "id": 139,
+    "etiqueta": "LA CARTUJA BAJA (Centro Educativo)",
+    "localidad": "Cartuja Baja",
+    "long": -91728.5583989201,
+    "lat": 5102141.20082947
+  },
+  {
+    "id": 294,
+    "etiqueta": "Ángel Escoriaza (Centro Educativo)",
+    "localidad": "Cartuja Baja",
+    "long": -91753.3069481132,
+    "lat": 5102385.78630455
+  },
+  {
+    "id": 525,
+    "etiqueta": "Pintor Pradilla (Centro Educativo)",
+    "localidad": "Villanueva de Gállego",
+    "long": -91916.1094770086,
+    "lat": 5126700.01028912
+  },
+  {
+    "id": 448,
+    "etiqueta": "Hermanos Argensola (Centro Educativo)",
+    "localidad": "Montañana",
+    "long": -91925.6729344626,
+    "lat": 5113633.88992041
+  },
+  {
+    "id": 173,
+    "etiqueta": "SOLETES (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -92049.6216214864,
+    "lat": 5111158.35723251
+  },
+  {
+    "id": 180,
+    "etiqueta": "ZARADUENDES (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -92098.510915453,
+    "lat": 5111050.09268722
+  },
+  {
+    "id": 360,
+    "etiqueta": "C.R.A. Javalambre",
+    "localidad": "Manzanera",
+    "long": -92267.76218245,
+    "lat": 4874528.46940544
+  },
+  {
+    "id": 446,
+    "etiqueta": "Guillermo Fatás (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -92281.1149553706,
+    "lat": 5111771.79693949
+  },
+  {
+    "id": 790,
+    "etiqueta": "Ítaca (I.E.S.)",
+    "localidad": "Zaragoza",
+    "long": -92374.9695312534,
+    "lat": 5112091.29676762
+  },
+  {
+    "id": 26,
+    "etiqueta": "La Concepción (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -92392.5290677311,
+    "lat": 5111524.11246234
+  },
+  {
+    "id": 615,
+    "etiqueta": "BRIOLETAS (E.E.I.)",
+    "localidad": "Zaragoza",
+    "long": -92392.5290677311,
+    "lat": 5111524.11246234
+  },
+  {
+    "id": 469,
+    "etiqueta": "Juan Pablo Bonet (Centro Educativo)",
+    "localidad": "Movera",
+    "long": -93411.822645595,
+    "lat": 5111435.87518273
+  },
+  {
+    "id": 293,
+    "etiqueta": "Andrés Oliván (Centro Educativo)",
+    "localidad": "San Juan De Mozarrifar",
+    "long": -93765.1150871358,
+    "lat": 5118571.57522819
+  },
+  {
+    "id": 445,
+    "etiqueta": "Gloria Arenillas (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -93914.8932356083,
+    "lat": 5111495.10975613
+  },
+  {
+    "id": 825,
+    "etiqueta": "Río Gállego (I.E.S.)",
+    "localidad": "Zaragoza",
+    "long": -93914.8932356083,
+    "lat": 5111495.10975613
+  },
+  {
+    "id": 582,
+    "etiqueta": "Villa de Utrillas (Centro Educativo)",
+    "localidad": "Utrillas",
+    "long": -94024.2223339062,
+    "lat": 4984790.86778652
+  },
+  {
+    "id": 655,
+    "etiqueta": "E.E.I. DE UTRILLAS",
+    "localidad": "Utrillas",
+    "long": -94580.3522460112,
+    "lat": 4984709.21050598
+  },
+  {
+    "id": 665,
+    "etiqueta": "EL PARQUE (E.E.I.)",
+    "localidad": "Cedrillas",
+    "long": -94609.8764013594,
+    "lat": 4929628.68405576
+  },
+  {
+    "id": 714,
+    "etiqueta": "Extensión De E.O.I.",
+    "localidad": "Utrillas",
+    "long": -94664.8426263284,
+    "lat": 4985136.75023491
+  },
+  {
+    "id": 323,
+    "etiqueta": "C.R.A Palmira Plá",
+    "localidad": "Cedrillas",
+    "long": -94728.84576756,
+    "lat": 4929543.65047268
+  },
+  {
+    "id": 777,
+    "etiqueta": "Fernando Lázaro Carreter (I.E.S.)",
+    "localidad": "Utrillas",
+    "long": -94917.1604973554,
+    "lat": 4985108.84614174
+  },
+  {
+    "id": 13,
+    "etiqueta": "Don Bosco (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -95231.4432497375,
+    "lat": 5109803.05152737
+  },
+  {
+    "id": 576,
+    "etiqueta": "Vadorrey-Les Alles (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -95346.2481537875,
+    "lat": 5109675.09038138
+  },
+  {
+    "id": 476,
+    "etiqueta": "La Estrella (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -95514.8259378652,
+    "lat": 5110692.1084902
+  },
+  {
+    "id": 479,
+    "etiqueta": "La Jota (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -95547.9535051304,
+    "lat": 5110211.71080629
+  },
+  {
+    "id": 108,
+    "etiqueta": "CHICOTES (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -95613.5718921733,
+    "lat": 5109287.92008202
+  },
+  {
+    "id": 86,
+    "etiqueta": "Santo Domingo de Silos (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -95736.0901237404,
+    "lat": 5108167.39069435
+  },
+  {
+    "id": 144,
+    "etiqueta": "Las Fuentes (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -95813.5328670955,
+    "lat": 5107925.53891509
+  },
+  {
+    "id": 816,
+    "etiqueta": "Pilar Lorengar (I.E.S.)",
+    "localidad": "Zaragoza",
+    "long": -95825.2481303066,
+    "lat": 5110172.15232791
+  },
+  {
+    "id": 574,
+    "etiqueta": "Torre Ramona (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -95916.2507008352,
+    "lat": 5107806.19657117
+  },
+  {
+    "id": 779,
+    "etiqueta": "Francisco Grande Covián (I.E.S.)",
+    "localidad": "Zaragoza",
+    "long": -95950.4480484069,
+    "lat": 5107563.20838292
+  },
+  {
+    "id": 4,
+    "etiqueta": "Bajo Aragón (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -96107.5176235263,
+    "lat": 5107032.79839406
+  },
+  {
+    "id": 812,
+    "etiqueta": "Pablo Serrano (I.E.S.)",
+    "localidad": "Zaragoza",
+    "long": -96111.0197347067,
+    "lat": 5107831.709794
+  },
+  {
+    "id": 501,
+    "etiqueta": "Marie Curie (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -96173.0747848494,
+    "lat": 5110112.37908956
+  },
+  {
+    "id": 485,
+    "etiqueta": "Las Fuentes (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -96258.9232629543,
+    "lat": 5108502.62895992
+  },
+  {
+    "id": 174,
+    "etiqueta": "Tic Tac (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -96262.7782569205,
+    "lat": 5109634.14698926
+  },
+  {
+    "id": 474,
+    "etiqueta": "Julián Sanz Ibáñez (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -96301.6654946393,
+    "lat": 5108286.85670722
+  },
+  {
+    "id": 496,
+    "etiqueta": "Marcos Frechín (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -96318.3166640721,
+    "lat": 5107751.04402881
+  },
+  {
+    "id": 272,
+    "etiqueta": "Margen Izquierda (C.P.E.P.A.)",
+    "localidad": "Zaragoza",
+    "long": -96450.9059699713,
+    "lat": 5109509.9531018
+  },
+  {
+    "id": 572,
+    "etiqueta": "Tomás Alvira (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -96486.9189384378,
+    "lat": 5107124.13812967
+  },
+  {
+    "id": 450,
+    "etiqueta": "Hilarión Gimeno (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -96553.6772370665,
+    "lat": 5110073.79399017
+  },
+  {
+    "id": 98,
+    "etiqueta": "San Germán (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -96562.5315893642,
+    "lat": 5116045.75782173
+  },
+  {
+    "id": 127,
+    "etiqueta": "EL OSO DEL PARQUE (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -96590.246802987,
+    "lat": 5108798.86542828
+  },
+  {
+    "id": 29,
+    "etiqueta": "La Purisíma Y San Antonio (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -96598.2195049177,
+    "lat": 5109866.91130793
+  },
+  {
+    "id": 12,
+    "etiqueta": "Cristo Rey (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -96718.7673814977,
+    "lat": 5114170.19223303
+  },
+  {
+    "id": 132,
+    "etiqueta": "Heidi (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -96795.6290371108,
+    "lat": 5107172.42918437
+  },
+  {
+    "id": 179,
+    "etiqueta": "ZAGALINES (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -96797.9300109855,
+    "lat": 5109862.42650779
+  },
+  {
+    "id": 680,
+    "etiqueta": "LA PIRAÑA (E.E.I.)",
+    "localidad": "Zaragoza",
+    "long": -96805.6644892058,
+    "lat": 5107935.23664435
+  },
+  {
+    "id": 785,
+    "etiqueta": "IES La Azucarera",
+    "localidad": "Zaragoza",
+    "long": -96878.3037965332,
+    "lat": 5111006.29725177
+  },
+  {
+    "id": 154,
+    "etiqueta": "Ntra. Sra. De Los Dolores (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -96916.4719103415,
+    "lat": 5107481.99223367
+  },
+  {
+    "id": 32,
+    "etiqueta": "La Salle Montemolín (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -96940.8542184099,
+    "lat": 5106775.14491611
+  },
+  {
+    "id": 398,
+    "etiqueta": "Calixto Ariño-Hilario Val (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -96942.4327287893,
+    "lat": 5106591.60162167
+  },
+  {
+    "id": 432,
+    "etiqueta": "Eq. Espec Motoricos (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -96942.8835727271,
+    "lat": 5106589.30636593
+  },
+  {
+    "id": 570,
+    "etiqueta": "Tenerías (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -96943.2854360888,
+    "lat": 5109234.65115767
+  },
+  {
+    "id": 141,
+    "etiqueta": "LA LOCOMOTORA (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -96950.3152619324,
+    "lat": 5110215.58784097
+  },
+  {
+    "id": 18,
+    "etiqueta": "Escuelas Pías De Santa Engracia (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -96965.5382022984,
+    "lat": 5106238.822339
+  },
+  {
+    "id": 78,
+    "etiqueta": "Santa Ana (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -96967.4963121414,
+    "lat": 5105522.97738673
+  },
+  {
+    "id": 137,
+    "etiqueta": "KARACOL (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -97020.316297328,
+    "lat": 5113472.00984925
+  },
+  {
+    "id": 109,
+    "etiqueta": "CHILDREN (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -97057.6951559465,
+    "lat": 5112774.88580821
+  },
+  {
+    "id": 521,
+    "etiqueta": "Parque Goya (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -97108.3221471644,
+    "lat": 5113337.15982162
+  },
+  {
+    "id": 692,
+    "etiqueta": "PIRINEOS (E.E.I.)",
+    "localidad": "Zaragoza",
+    "long": -97127.5258725211,
+    "lat": 5111080.43220782
+  },
+  {
+    "id": 236,
+    "etiqueta": "Cittá Di Roma (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -97136.8310687566,
+    "lat": 5107022.49831859
+  },
+  {
+    "id": 810,
+    "etiqueta": "Pablo Gargallo (I.E.S.)",
+    "localidad": "Zaragoza",
+    "long": -97155.7787592845,
+    "lat": 5106365.77104483
+  },
+  {
+    "id": 2,
+    "etiqueta": "Agustín Gericó (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -97177.4437585827,
+    "lat": 5107110.11410733
+  },
+  {
+    "id": 814,
+    "etiqueta": "Pedro De Luna (I.E.S.)",
+    "localidad": "Zaragoza",
+    "long": -97184.2498322498,
+    "lat": 5109066.13653349
+  },
+  {
+    "id": 128,
+    "etiqueta": "EL TREN CHU-CHU (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -97195.8871718173,
+    "lat": 5110115.06109945
+  },
+  {
+    "id": 362,
+    "etiqueta": "C.R.A. L' Albardín",
+    "localidad": "Azuara",
+    "long": -97201.5266172209,
+    "lat": 5050607.18572181
+  },
+  {
+    "id": 284,
+    "etiqueta": "Agustina de Aragón (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -97232.2585890442,
+    "lat": 5114353.74192535
+  },
+  {
+    "id": 592,
+    "etiqueta": "JEAN PIAGET (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -97232.2585890442,
+    "lat": 5114353.74192535
+  },
+  {
+    "id": 787,
+    "etiqueta": "IES Parque Goya",
+    "localidad": "Zaragoza",
+    "long": -97232.2585890442,
+    "lat": 5114353.74192535
+  },
+  {
+    "id": 400,
+    "etiqueta": "Cándido Domingo (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -97247.8756004076,
+    "lat": 5110044.05812026
+  },
+  {
+    "id": 548,
+    "etiqueta": "San Braulio (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -97252.2949841921,
+    "lat": 5111459.48313185
+  },
+  {
+    "id": 498,
+    "etiqueta": "María Moliner (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -97276.6906505994,
+    "lat": 5106173.13239724
+  },
+  {
+    "id": 433,
+    "etiqueta": "Eugenio López Y López (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -97279.8020303671,
+    "lat": 5110908.2745826
+  },
+  {
+    "id": 720,
+    "etiqueta": "ENCLAVE DE AR-T (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -97296.2684094452,
+    "lat": 5107651.2908904
+  },
+  {
+    "id": 679,
+    "etiqueta": "LA PAZ (E.E.I.)",
+    "localidad": "Zaragoza",
+    "long": -97302.5757717936,
+    "lat": 5105493.56389458
+  },
+  {
+    "id": 227,
+    "etiqueta": "OCÉANO ATLÁNTICO (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -97323.5995708248,
+    "lat": 5110525.18499453
+  },
+  {
+    "id": 603,
+    "etiqueta": "Conservatorio Profesional De Música",
+    "localidad": "Zaragoza",
+    "long": -97348.9180758108,
+    "lat": 5109335.17761575
+  },
+  {
+    "id": 488,
+    "etiqueta": "Lucien Briet (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -97355.3823986412,
+    "lat": 5111822.37659964
+  },
+  {
+    "id": 696,
+    "etiqueta": "Villacampa (E.E.I.)",
+    "localidad": "Zaragoza",
+    "long": -97379.4752760336,
+    "lat": 5110237.97245731
+  },
+  {
+    "id": 20,
+    "etiqueta": "Inmaculada Concepción (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -97401.6222887269,
+    "lat": 5108186.83432199
+  },
+  {
+    "id": 69,
+    "etiqueta": "San Vicente De Paúl (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -97417.2125834125,
+    "lat": 5109257.00219855
+  },
+  {
+    "id": 571,
+    "etiqueta": "Tío Jorge (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -97439.9061748056,
+    "lat": 5110569.72476215
+  },
+  {
+    "id": 114,
+    "etiqueta": "CUÉNTAME (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -97452.3639390203,
+    "lat": 5114198.11933347
+  },
+  {
+    "id": 156,
+    "etiqueta": "NUESTRA SEÑORA DE LA PAZ (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -97465.6031660603,
+    "lat": 5105324.96004978
+  },
+  {
+    "id": 119,
+    "etiqueta": "EL ARKA DE KUPPLU (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -97493.271625497,
+    "lat": 5106290.39756167
+  },
+  {
+    "id": 260,
+    "etiqueta": "Concepción Arenal (C.P.E.P.A.)",
+    "localidad": "Zaragoza",
+    "long": -97551.1343836164,
+    "lat": 5108859.26216528
+  },
+  {
+    "id": 237,
+    "etiqueta": "J.R. Santa María (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -97574.4168551158,
+    "lat": 5109010.14691281
+  },
+  {
+    "id": 110,
+    "etiqueta": "CHIP Y CHOP (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -97575.4777298631,
+    "lat": 5112038.55325757
+  },
+  {
+    "id": 803,
+    "etiqueta": "Medina Albaida (I.E.S.)",
+    "localidad": "Zaragoza",
+    "long": -97615.7341973187,
+    "lat": 5108182.86425538
+  },
+  {
+    "id": 723,
+    "etiqueta": "LA PAZ (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -97621.1298530374,
+    "lat": 5105042.48390886
+  },
+  {
+    "id": 727,
+    "etiqueta": "Santa María (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -97649.4784745628,
+    "lat": 5108907.76009655
+  },
+  {
+    "id": 510,
+    "etiqueta": "Miraflores (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -97657.9921892187,
+    "lat": 5107442.16645186
+  },
+  {
+    "id": 116,
+    "etiqueta": "DUENDEDUCA (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -97695.6170639119,
+    "lat": 5112446.09759083
+  },
+  {
+    "id": 588,
+    "etiqueta": "Zalfonada (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -97707.1130277261,
+    "lat": 5112727.24617811
+  },
+  {
+    "id": 759,
+    "etiqueta": "Avempace (I.E.S.)",
+    "localidad": "Zaragoza",
+    "long": -97707.1130277261,
+    "lat": 5112727.24617811
+  },
+  {
+    "id": 107,
+    "etiqueta": "Bolandrina (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -97710.4437068907,
+    "lat": 5109231.46581827
+  },
+  {
+    "id": 443,
+    "etiqueta": "Gascón Y Marín (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -97734.4998488511,
+    "lat": 5108614.10800178
+  },
+  {
+    "id": 8,
+    "etiqueta": "Cantín Y Gamboa (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -97740.3964422784,
+    "lat": 5108397.30830233
+  },
+  {
+    "id": 106,
+    "etiqueta": "Andarines (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -97742.6462091874,
+    "lat": 5112607.41039353
+  },
+  {
+    "id": 607,
+    "etiqueta": "Escuela De Arte",
+    "localidad": "Zaragoza",
+    "long": -97749.7328079712,
+    "lat": 5108522.29375096
+  },
+  {
+    "id": 755,
+    "etiqueta": "Escuela superior de diseño",
+    "localidad": "Zaragoza",
+    "long": -97749.7328079712,
+    "lat": 5108522.29375096
+  },
+  {
+    "id": 56,
+    "etiqueta": "Sagrado Corazón (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -97753.4330678452,
+    "lat": 5108227.76856049
+  },
+  {
+    "id": 605,
+    "etiqueta": "Conservatorio Superior De Música",
+    "localidad": "Zaragoza",
+    "long": -97771.0582828225,
+    "lat": 5108704.03855068
+  },
+  {
+    "id": 554,
+    "etiqueta": "San José De Calasanz (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -97780.3634790579,
+    "lat": 5107083.96230223
+  },
+  {
+    "id": 135,
+    "etiqueta": "Jesús Reparador (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -97800.5089673068,
+    "lat": 5108658.7431847
+  },
+  {
+    "id": 320,
+    "etiqueta": "C.P. Ronda Norte",
+    "localidad": "Zaragoza",
+    "long": -97823.1558045138,
+    "lat": 5114507.81523611
+  },
+  {
+    "id": 194,
+    "etiqueta": "San Valero (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -97839.7090127947,
+    "lat": 5111673.01834445
+  },
+  {
+    "id": 198,
+    "etiqueta": "CENTRO NACIONAL DE ESTUDIOS E INVESTIGACIÓN DE FÚTBOL SALA (Centro Educativo)",
+    "localidad": "Utebo",
+    "long": -97839.7090127947,
+    "lat": 5111673.01834445
+  },
+  {
+    "id": 793,
+    "etiqueta": "José Manuel Blecua (I.E.S.)",
+    "localidad": "Zaragoza",
+    "long": -97877.7624675275,
+    "lat": 5104981.08064818
+  },
+  {
+    "id": 721,
+    "etiqueta": "ESCUELA POPULAR DE MÚSICA",
+    "localidad": "Zaragoza",
+    "long": -97895.7984514258,
+    "lat": 5109336.96994711
+  },
+  {
+    "id": 184,
+    "etiqueta": "Escolanía Infantes Del Pilar (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -97915.8381861584,
+    "lat": 5109741.8964266
+  },
+  {
+    "id": 38,
+    "etiqueta": "María Auxiliadora (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98006.19955642,
+    "lat": 5106609.3872657
+  },
+  {
+    "id": 171,
+    "etiqueta": "Siervas De Los Pobres (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98055.2947914446,
+    "lat": 5105026.29313903
+  },
+  {
+    "id": 48,
+    "etiqueta": "Ntra. Sra. Del Carmen (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98084.3224618639,
+    "lat": 5108046.3381646
+  },
+  {
+    "id": 235,
+    "etiqueta": "Bela Bartok (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98086.5733419677,
+    "lat": 5108292.12585495
+  },
+  {
+    "id": 402,
+    "etiqueta": "Centro Comisión C.F. Grado Medio Zaragoza (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98124.4464591254,
+    "lat": 5110916.31681158
+  },
+  {
+    "id": 403,
+    "etiqueta": "Centro Comisión C.F. Grado Superior Zaragoza (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98124.4464591254,
+    "lat": 5110916.31681158
+  },
+  {
+    "id": 212,
+    "etiqueta": "Arsenio Jimeno (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -99330.3549181602,
+    "lat": 5111046.49546358
+  },
+  {
+    "id": 404,
+    "etiqueta": "Centro Comisión SP Zaragoza (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98124.4464591254,
+    "lat": 5110916.31681158
+  },
+  {
+    "id": 405,
+    "etiqueta": "Centro Comisión Zaragoza (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98124.4464591254,
+    "lat": 5110916.31681158
+  },
+  {
+    "id": 415,
+    "etiqueta": "Cortes De Aragón (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98124.4464591254,
+    "lat": 5110916.31681158
+  },
+  {
+    "id": 14,
+    "etiqueta": "El Buen Pastor (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98153.4451864771,
+    "lat": 5105715.2917208
+  },
+  {
+    "id": 61,
+    "etiqueta": "San Agustín (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98157.1354275968,
+    "lat": 5107393.53888392
+  },
+  {
+    "id": 532,
+    "etiqueta": "Ramón Saínz De Varanda (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98163.4617142586,
+    "lat": 5105046.02378188
+  },
+  {
+    "id": 239,
+    "etiqueta": "Niccolo Paganini (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98168.9664630784,
+    "lat": 5108720.41727893
+  },
+  {
+    "id": 15,
+    "etiqueta": "El Pilar-Maristas (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98201.9326170819,
+    "lat": 5111482.01371138
+  },
+  {
+    "id": 113,
+    "etiqueta": "CU CU-TAS TAS (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98219.8973565061,
+    "lat": 5110639.71390172
+  },
+  {
+    "id": 1,
+    "etiqueta": "College Moliere (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98241.85623926,
+    "lat": 5110500.85964252
+  },
+  {
+    "id": 216,
+    "etiqueta": "Cpa-Salduie (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98244.5846799793,
+    "lat": 5110470.82592697
+  },
+  {
+    "id": 57,
+    "etiqueta": "Sagrado Corazón de Jesús (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98272.5537020411,
+    "lat": 5111907.41779376
+  },
+  {
+    "id": 709,
+    "etiqueta": "E.O.I. Nº 2",
+    "localidad": "Zaragoza",
+    "long": -98291.2286598166,
+    "lat": 5112689.8086058
+  },
+  {
+    "id": 590,
+    "etiqueta": "CPE Angel Riviere",
+    "localidad": "Zaragoza",
+    "long": -98296.3326584695,
+    "lat": 5110420.86580339
+  },
+  {
+    "id": 465,
+    "etiqueta": "Josefa Amar Y Borbón (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98299.5531313381,
+    "lat": 5112350.04535909
+  },
+  {
+    "id": 687,
+    "etiqueta": "LOS VIENTOS (E.E.I.)",
+    "localidad": "Zaragoza",
+    "long": -98299.5531313381,
+    "lat": 5112350.04535909
+  },
+  {
+    "id": 449,
+    "etiqueta": "Hermanos Marx (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98305.3406316645,
+    "lat": 5112780.82661961
+  },
+  {
+    "id": 849,
+    "etiqueta": "Tiempos Modernos (I.E.S.)",
+    "localidad": "Zaragoza",
+    "long": -98305.3406316645,
+    "lat": 5112780.82661961
+  },
+  {
+    "id": 7,
+    "etiqueta": "Calasanz (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98335.2711031541,
+    "lat": 5109134.28218723
+  },
+  {
+    "id": 85,
+    "etiqueta": "Santa Rosa (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98382.6586971899,
+    "lat": 5108915.39243853
+  },
+  {
+    "id": 265,
+    "etiqueta": "Gómez Lafuente (C.P.E.P.A.)",
+    "localidad": "Zaragoza",
+    "long": -98394.9806516258,
+    "lat": 5109670.30023387
+  },
+  {
+    "id": 724,
+    "etiqueta": "MOLINER (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98402.2342296458,
+    "lat": 5107111.17614888
+  },
+  {
+    "id": 232,
+    "etiqueta": "Actur (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98423.7812302838,
+    "lat": 5111377.46058599
+  },
+  {
+    "id": 177,
+    "etiqueta": "Virgen Reina (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98467.4808095896,
+    "lat": 5107599.16166678
+  },
+  {
+    "id": 233,
+    "etiqueta": "Adagio (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98472.0482482968,
+    "lat": 5107829.86113699
+  },
+  {
+    "id": 567,
+    "etiqueta": "Santo Domingo (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98517.5055623623,
+    "lat": 5109850.61704076
+  },
+  {
+    "id": 206,
+    "etiqueta": "Academia Pignatelli (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98534.2591457267,
+    "lat": 5109241.23638095
+  },
+  {
+    "id": 205,
+    "etiqueta": "Academia Marco (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98548.6037753103,
+    "lat": 5109322.6238562
+  },
+  {
+    "id": 142,
+    "etiqueta": "La Pequeña Cometa (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98566.1655381778,
+    "lat": 5111936.71533333
+  },
+  {
+    "id": 258,
+    "etiqueta": "Casa Canal (C.P.E.P.A.)",
+    "localidad": "Zaragoza",
+    "long": -98574.1894470742,
+    "lat": 5106544.41270387
+  },
+  {
+    "id": 130,
+    "etiqueta": "Fantasía (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98618.6226218243,
+    "lat": 5112059.21188021
+  },
+  {
+    "id": 725,
+    "etiqueta": "PABLO NASSARRE (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98620.8991054111,
+    "lat": 5106538.93599234
+  },
+  {
+    "id": 214,
+    "etiqueta": "COLUMBUS (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98628.5601127675,
+    "lat": 5108178.38173186
+  },
+  {
+    "id": 17,
+    "etiqueta": "Escuelas Pías (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98628.6113197332,
+    "lat": 5109405.7790377
+  },
+  {
+    "id": 28,
+    "etiqueta": "La Milagrosa (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98646.8443391303,
+    "lat": 5106468.74737738
+  },
+  {
+    "id": 10,
+    "etiqueta": "Compañía De María (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98658.7343739419,
+    "lat": 5108641.79248734
+  },
+  {
+    "id": 46,
+    "etiqueta": "Ntra. Sra. De La Merced (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98674.2166887214,
+    "lat": 5106908.8943582
+  },
+  {
+    "id": 89,
+    "etiqueta": "Villa Cruz (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98690.1754509215,
+    "lat": 5106148.68700663
+  },
+  {
+    "id": 63,
+    "etiqueta": "San Antonio De Padua (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98712.3892553093,
+    "lat": 5106351.45322485
+  },
+  {
+    "id": 183,
+    "etiqueta": "Adventista Rigel (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98722.7119116906,
+    "lat": 5105921.31494034
+  },
+  {
+    "id": 492,
+    "etiqueta": "Luis Vives (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98781.6288653878,
+    "lat": 5106031.98208758
+  },
+  {
+    "id": 228,
+    "etiqueta": "Plus Ultra (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98787.8115499065,
+    "lat": 5108067.87008922
+  },
+  {
+    "id": 115,
+    "etiqueta": "Divina Pastora (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98898.1748062739,
+    "lat": 5106488.96505372
+  },
+  {
+    "id": 6,
+    "etiqueta": "Calasancio (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98907.2339864346,
+    "lat": 5107081.87844271
+  },
+  {
+    "id": 186,
+    "etiqueta": "Santo Tomás De Aquino (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98939.1526240298,
+    "lat": 5106579.18103275
+  },
+  {
+    "id": 43,
+    "etiqueta": "Montessori (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -98971.5577277997,
+    "lat": 5107936.65629739
+  },
+  {
+    "id": 806,
+    "etiqueta": "Miguel Servet (I.E.S.)",
+    "localidad": "Zaragoza",
+    "long": -98997.1523051229,
+    "lat": 5106479.63518806
+  },
+  {
+    "id": 199,
+    "etiqueta": "ESCUELA ARAGONESA DE ENTRENADORES DE ATLETISMO",
+    "localidad": "Zaragoza",
+    "long": -99034.5589936141,
+    "lat": 5113608.88146579
+  },
+  {
+    "id": 167,
+    "etiqueta": "ROSANA (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -99037.0013432421,
+    "lat": 5110979.72056832
+  },
+  {
+    "id": 423,
+    "etiqueta": "Domingo Miral (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -99119.0193176688,
+    "lat": 5105271.67439225
+  },
+  {
+    "id": 822,
+    "etiqueta": "Ramón Y Cajal (I.E.S.)",
+    "localidad": "Zaragoza",
+    "long": -99123.4520597922,
+    "lat": 5109439.42838827
+  },
+  {
+    "id": 217,
+    "etiqueta": "Cumbre (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -99125.8676927424,
+    "lat": 5109723.91575385
+  },
+  {
+    "id": 122,
+    "etiqueta": "El Carmen (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -99136.2549144283,
+    "lat": 5109000.18290715
+  },
+  {
+    "id": 143,
+    "etiqueta": "LA VIRGEN NIÑA (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -99160.2142084318,
+    "lat": 5105603.85825288
+  },
+  {
+    "id": 241,
+    "etiqueta": "Santa Cecilia (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -99179.5526303724,
+    "lat": 5107264.21264888
+  },
+  {
+    "id": 52,
+    "etiqueta": "Pompiliano (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -99181.9103771874,
+    "lat": 5106609.65834771
+  },
+  {
+    "id": 100,
+    "etiqueta": "San Martín De Porres (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -99189.6404026281,
+    "lat": 5106131.04519727
+  },
+  {
+    "id": 781,
+    "etiqueta": "Goya (I.E.S.)",
+    "localidad": "Zaragoza",
+    "long": -99199.7025714009,
+    "lat": 5107614.07272598
+  },
+  {
+    "id": 25,
+    "etiqueta": "La Anunciata (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -99218.817241165,
+    "lat": 5109701.02724651
+  },
+  {
+    "id": 50,
+    "etiqueta": "Ntra. Sra.Del Carmen Y San José (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -99222.4829919968,
+    "lat": 5109602.44130928
+  },
+  {
+    "id": 364,
+    "etiqueta": "C.R.A. La Huecha",
+    "localidad": "Magallon",
+    "long": -99226.0541212614,
+    "lat": 5105456.97661468
+  },
+  {
+    "id": 153,
+    "etiqueta": "Muñecos (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -99247.0178077676,
+    "lat": 5105386.89866896
+  },
+  {
+    "id": 103,
+    "etiqueta": "O.S.C.U.S. (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -99275.8963100692,
+    "lat": 5109677.71118161
+  },
+  {
+    "id": 224,
+    "etiqueta": "Lady Car (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -99286.5072839317,
+    "lat": 5106714.71809682
+  },
+  {
+    "id": 460,
+    "etiqueta": "Joaquín Costa (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -99293.5582604785,
+    "lat": 5108940.82369015
+  },
+  {
+    "id": 140,
+    "etiqueta": "La Casita De Nany (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -99298.1746797617,
+    "lat": 5112619.0906093
+  },
+  {
+    "id": 133,
+    "etiqueta": "Hermandad Del Refugio (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -99331.3345296792,
+    "lat": 5108859.17724606
+  },
+  {
+    "id": 347,
+    "etiqueta": "C.R.A. De Martín Del Río",
+    "localidad": "Martin Del Rio",
+    "long": -99345.7537433216,
+    "lat": 4989583.56659473
+  },
+  {
+    "id": 35,
+    "etiqueta": "Lestonnac (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -99349.8792436505,
+    "lat": 5105167.19932174
+  },
+  {
+    "id": 121,
+    "etiqueta": "EL BOSQUE (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -99377.1102174883,
+    "lat": 5111705.72337563
+  },
+  {
+    "id": 190,
+    "etiqueta": "La Salle Franciscanas Gran Vía (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -99429.9969943693,
+    "lat": 5107212.00658092
+  },
+  {
+    "id": 125,
+    "etiqueta": "EL MANZANO (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -99443.8640633374,
+    "lat": 5111898.6668496
+  },
+  {
+    "id": 229,
+    "etiqueta": "ROMERO II (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -99452.2230439011,
+    "lat": 5109907.8899626
+  },
+  {
+    "id": 238,
+    "etiqueta": "Manuel De Falla (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -99506.0014899033,
+    "lat": 5107138.11301756
+  },
+  {
+    "id": 304,
+    "etiqueta": "Basilio Paraíso (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -99506.4311831378,
+    "lat": 5106967.35921604
+  },
+  {
+    "id": 589,
+    "etiqueta": "Alborada (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -99521.4726727338,
+    "lat": 5111298.4742569
+  },
+  {
+    "id": 774,
+    "etiqueta": "Elaios (I.E.S.)",
+    "localidad": "Zaragoza",
+    "long": -99569.5582399768,
+    "lat": 5111400.98643007
+  },
+  {
+    "id": 31,
+    "etiqueta": "La Salle Franciscanas (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -99572.8310330061,
+    "lat": 5107162.1170427
+  },
+  {
+    "id": 543,
+    "etiqueta": "Río Ebro (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -99611.0948815765,
+    "lat": 5111531.95402708
+  },
+  {
+    "id": 161,
+    "etiqueta": "PATINETE (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -99679.125561985,
+    "lat": 5108033.06061542
+  },
+  {
+    "id": 9,
+    "etiqueta": "Cardenal Xavierre (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -99681.2829337166,
+    "lat": 5107510.04734389
+  },
+  {
+    "id": 799,
+    "etiqueta": "Luis Buñuel (I.E.S.)",
+    "localidad": "Zaragoza",
+    "long": -99708.8868278486,
+    "lat": 5110657.96003659
+  },
+  {
+    "id": 805,
+    "etiqueta": "Miguel De Molinos (I.E.S.)",
+    "localidad": "Zaragoza",
+    "long": -99810.9378578384,
+    "lat": 5112233.75979242
+  },
+  {
+    "id": 461,
+    "etiqueta": "José Antonio Labordeta Subías (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -99862.9774933944,
+    "lat": 5112810.40106494
+  },
+  {
+    "id": 722,
+    "etiqueta": "Federico Chopín (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -99889.5205127792,
+    "lat": 5109032.61661783
+  },
+  {
+    "id": 667,
+    "etiqueta": "EL TREN (E.E.I.)",
+    "localidad": "Zaragoza",
+    "long": -99900.0802796758,
+    "lat": 5110105.03187629
+  },
+  {
+    "id": 770,
+    "etiqueta": "Corona De Aragón (I.E.S.)",
+    "localidad": "Zaragoza",
+    "long": -99911.0229856208,
+    "lat": 5107710.36208164
+  },
+  {
+    "id": 688,
+    "etiqueta": "MARIA URREA (E.E.I.)",
+    "localidad": "Zaragoza",
+    "long": -99923.5163720725,
+    "lat": 5112666.44354505
+  },
+  {
+    "id": 466,
+    "etiqueta": "Juan Enrique Iranzo (Centro Educativo)",
+    "localidad": "Juslibol",
+    "long": -99984.6574891958,
+    "lat": 5115071.61305854
+  },
+  {
+    "id": 162,
+    "etiqueta": "Peluche (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -100028.899194422,
+    "lat": 5107038.21580623
+  },
+  {
+    "id": 595,
+    "etiqueta": "Rincón De Goya (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -100044.525111344,
+    "lat": 5105785.18291809
+  },
+  {
+    "id": 94,
+    "etiqueta": "La Purísima Para Niños Sordos (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -100069.17903897,
+    "lat": 5107900.89987439
+  },
+  {
+    "id": 455,
+    "etiqueta": "Jerónimo Zurita Y Castro (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -100122.036872784,
+    "lat": 5110781.04226115
+  },
+  {
+    "id": 472,
+    "etiqueta": "Juan XXIII (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -100123.022050277,
+    "lat": 5109509.45994102
+  },
+  {
+    "id": 211,
+    "etiqueta": "Alfred (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -100183.730134581,
+    "lat": 5108729.04763151
+  },
+  {
+    "id": 598,
+    "etiqueta": "Conservatorio Municipal Elemental Música",
+    "localidad": "Zaragoza",
+    "long": -100184.543880059,
+    "lat": 5107103.97869709
+  },
+  {
+    "id": 599,
+    "etiqueta": "Conservatorio Municipal Profesional De Danza",
+    "localidad": "Zaragoza",
+    "long": -100184.543880059,
+    "lat": 5107103.97869709
+  },
+  {
+    "id": 529,
+    "etiqueta": "Puerta De Sancho (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -100193.270214942,
+    "lat": 5110567.72657003
+  },
+  {
+    "id": 22,
+    "etiqueta": "Jesús María El Salvador (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -100227.926198816,
+    "lat": 5106026.19736855
+  },
+  {
+    "id": 218,
+    "etiqueta": "E.A.N.T.A., ESCUELA ARAGONESA DE NATURISMO Y TERAPIAS ALTERNATIVAS",
+    "localidad": "Zaragoza",
+    "long": -100242.382147891,
+    "lat": 5108329.05913112
+  },
+  {
+    "id": 773,
+    "etiqueta": "El Portillo (I.E.S.)",
+    "localidad": "Zaragoza",
+    "long": -100244.120958337,
+    "lat": 5109495.98667922
+  },
+  {
+    "id": 82,
+    "etiqueta": "Santa María Del Pilar (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -100248.13402598,
+    "lat": 5105161.25875384
+  },
+  {
+    "id": 118,
+    "etiqueta": "Educando (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -100300.506506813,
+    "lat": 5110146.34829026
+  },
+  {
+    "id": 19,
+    "etiqueta": "Hijas De San José (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -100320.850143756,
+    "lat": 5108551.88337839
+  },
+  {
+    "id": 538,
+    "etiqueta": "Recarte Y Ornat (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -100356.985563662,
+    "lat": 5107804.91696424
+  },
+  {
+    "id": 804,
+    "etiqueta": "Miguel Catalán (I.E.S.)",
+    "localidad": "Zaragoza",
+    "long": -100418.203491234,
+    "lat": 5106270.60329564
+  },
+  {
+    "id": 726,
+    "etiqueta": "Puerta Sancho (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -100423.343112124,
+    "lat": 5110210.3593576
+  },
+  {
+    "id": 475,
+    "etiqueta": "La Almozara (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -100489.068365878,
+    "lat": 5110583.35449985
+  },
+  {
+    "id": 739,
+    "etiqueta": "Escuela De Música Y Danza",
+    "localidad": "Zaragoza",
+    "long": -100505.177409391,
+    "lat": 5107291.83067932
+  },
+  {
+    "id": 96,
+    "etiqueta": "Paidos (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -100523.468314923,
+    "lat": 5108226.82408268
+  },
+  {
+    "id": 231,
+    "etiqueta": "Valle De Tena (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -100545.792325607,
+    "lat": 5106054.50588648
+  },
+  {
+    "id": 59,
+    "etiqueta": "Salesiano Ntra. Sra.Del Pilar (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -100554.648904294,
+    "lat": 5107895.18553276
+  },
+  {
+    "id": 197,
+    "etiqueta": "CENTRO DE TECNIFICACIÓN DE LA FEDERACIÓN ARAGONESA DE FÚTBOL (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -100554.648904294,
+    "lat": 5107895.18553276
+  },
+  {
+    "id": 757,
+    "etiqueta": "Andalán (I.E.S.)",
+    "localidad": "Zaragoza",
+    "long": -100618.088768903,
+    "lat": 5110273.54984522
+  },
+  {
+    "id": 208,
+    "etiqueta": "Acep-Aragón (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -100620.928529113,
+    "lat": 5109152.47927422
+  },
+  {
+    "id": 131,
+    "etiqueta": "Fuentes Claras (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -100624.401697226,
+    "lat": 5104941.02994561
+  },
+  {
+    "id": 430,
+    "etiqueta": "Emilio Moreno Calvete (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -100633.913947714,
+    "lat": 5109190.30083953
+  },
+  {
+    "id": 292,
+    "etiqueta": "Andrés Manjón (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -100638.00716539,
+    "lat": 5108388.96576742
+  },
+  {
+    "id": 152,
+    "etiqueta": "Montessori (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -100684.206980459,
+    "lat": 5106885.99915752
+  },
+  {
+    "id": 708,
+    "etiqueta": "E.O.I. Nº 1",
+    "localidad": "Zaragoza",
+    "long": -100734.040263708,
+    "lat": 5107542.07382564
+  },
+  {
+    "id": 42,
+    "etiqueta": "Montearagón (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -100735.439549707,
+    "lat": 5105253.40126252
+  },
+  {
+    "id": 83,
+    "etiqueta": "Santa María Reina (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -100745.520642793,
+    "lat": 5107830.08011568
+  },
+  {
+    "id": 215,
+    "etiqueta": "Condes De Aragón (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -100757.906049339,
+    "lat": 5107045.20020603
+  },
+  {
+    "id": 410,
+    "etiqueta": "Cesáreo Alierta (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -100780.792223451,
+    "lat": 5106863.4853237
+  },
+  {
+    "id": 421,
+    "etiqueta": "Doctor Azúa (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -100780.792223451,
+    "lat": 5106863.4853237
+  },
+  {
+    "id": 427,
+    "etiqueta": "Eliseo Godoy Beltrán (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -100795.511999719,
+    "lat": 5106591.78780402
+  },
+  {
+    "id": 53,
+    "etiqueta": "Romareda (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -100839.458708294,
+    "lat": 5106272.0510013
+  },
+  {
+    "id": 855,
+    "etiqueta": "Virgen Del Pilar (I.E.S.)",
+    "localidad": "Zaragoza",
+    "long": -100843.546359996,
+    "lat": 5105078.3190404
+  },
+  {
+    "id": 464,
+    "etiqueta": "José María Mir (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -100873.357719631,
+    "lat": 5108306.86965181
+  },
+  {
+    "id": 409,
+    "etiqueta": "César Augusto (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -100883.080363956,
+    "lat": 5106730.71659233
+  },
+  {
+    "id": 37,
+    "etiqueta": "Madre María Rosa Molas (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -100887.442974801,
+    "lat": 5105393.46636036
+  },
+  {
+    "id": 120,
+    "etiqueta": "EL BARQUITO DE PAPEL (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -100918.793882993,
+    "lat": 5108634.69221291
+  },
+  {
+    "id": 225,
+    "etiqueta": "María Montessori (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -100933.828693419,
+    "lat": 5106514.21859094
+  },
+  {
+    "id": 234,
+    "etiqueta": "Angel Mingote (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -101001.89388287,
+    "lat": 5107111.18657565
+  },
+  {
+    "id": 36,
+    "etiqueta": "Liceo Europa (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -101024.86577299,
+    "lat": 5103903.19063624
+  },
+  {
+    "id": 192,
+    "etiqueta": "Liceo Europa (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -101024.86577299,
+    "lat": 5103903.19063624
+  },
+  {
+    "id": 102,
+    "etiqueta": "Codef (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -101048.874047569,
+    "lat": 5108833.46910674
+  },
+  {
+    "id": 147,
+    "etiqueta": "Madre De Dios De Begoña (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -101049.153459491,
+    "lat": 5108937.94833143
+  },
+  {
+    "id": 240,
+    "etiqueta": "Rubinsteín (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -101052.827002687,
+    "lat": 5109004.34996986
+  },
+  {
+    "id": 55,
+    "etiqueta": "Sagrada Familia (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -101065.584216332,
+    "lat": 5105113.89815819
+  },
+  {
+    "id": 213,
+    "etiqueta": "Centro De Formación Empresarial C.A.I.",
+    "localidad": "Zaragoza",
+    "long": -101087.592079662,
+    "lat": 5106952.07678271
+  },
+  {
+    "id": 242,
+    "etiqueta": "Centro de Diseño HACER CREATIVO (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -101087.592079662,
+    "lat": 5106952.07678271
+  },
+  {
+    "id": 791,
+    "etiqueta": "Jerónimo Zurita (I.E.S.)",
+    "localidad": "Zaragoza",
+    "long": -101199.748693026,
+    "lat": 5107905.69360783
+  },
+  {
+    "id": 41,
+    "etiqueta": "Misioneras Del Sagrado Corazón (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -101279.417826197,
+    "lat": 5105271.16804589
+  },
+  {
+    "id": 58,
+    "etiqueta": "Sagrado Corazón-Moncayo (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -101283.676909915,
+    "lat": 5106838.45131325
+  },
+  {
+    "id": 164,
+    "etiqueta": "PEQUENINOS (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -101294.659690877,
+    "lat": 5104956.1662144
+  },
+  {
+    "id": 70,
+    "etiqueta": "Sansueña (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -101311.879702907,
+    "lat": 5105397.67951441
+  },
+  {
+    "id": 291,
+    "etiqueta": "Ana Mayayo (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -101412.875424124,
+    "lat": 5109380.61324453
+  },
+  {
+    "id": 511,
+    "etiqueta": "Monsalud (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -101676.628033246,
+    "lat": 5109185.91468645
+  },
+  {
+    "id": 269,
+    "etiqueta": "Juan José Lorente (C.P.E.P.A.)",
+    "localidad": "Zaragoza",
+    "long": -101762.781526755,
+    "lat": 5108071.31275855
+  },
+  {
+    "id": 411,
+    "etiqueta": "Ciudad De Zaragoza (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -101853.087237272,
+    "lat": 5108393.29047702
+  },
+  {
+    "id": 176,
+    "etiqueta": "Virgen De Guadalupe (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -101856.453538673,
+    "lat": 5106024.2582076
+  },
+  {
+    "id": 51,
+    "etiqueta": "Padre Enrique De Ossó (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -101911.016787085,
+    "lat": 5108225.45354722
+  },
+  {
+    "id": 295,
+    "etiqueta": "Antonio Beltrán Martínez (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -101957.531636313,
+    "lat": 5108012.03377013
+  },
+  {
+    "id": 462,
+    "etiqueta": "José Camón Aznar (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -102049.330141201,
+    "lat": 5109811.7275524
+  },
+  {
+    "id": 577,
+    "etiqueta": "Valdespartera (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -102061.754509569,
+    "lat": 5104802.76739992
+  },
+  {
+    "id": 830,
+    "etiqueta": "Santiago Hernández (I.E.S.)",
+    "localidad": "Zaragoza",
+    "long": -102064.849191413,
+    "lat": 5109774.12852067
+  },
+  {
+    "id": 776,
+    "etiqueta": "Félix De Azara (I.E.S.)",
+    "localidad": "Zaragoza",
+    "long": -102065.510429188,
+    "lat": 5109276.22306264
+  },
+  {
+    "id": 39,
+    "etiqueta": "María Inmaculada (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -102405.802980594,
+    "lat": 5108851.64774565
+  },
+  {
+    "id": 169,
+    "etiqueta": "San José (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -102514.930590614,
+    "lat": 5109292.11557735
+  },
+  {
+    "id": 451,
+    "etiqueta": "Hispanidad (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -102611.377797437,
+    "lat": 5108104.51350188
+  },
+  {
+    "id": 797,
+    "etiqueta": "Los Enlaces (I.E.S.)",
+    "localidad": "Zaragoza",
+    "long": -102652.442444396,
+    "lat": 5107950.87965346
+  },
+  {
+    "id": 820,
+    "etiqueta": "Ramón Pignatelli (I.E.S.)",
+    "localidad": "Zaragoza",
+    "long": -102791.408130727,
+    "lat": 5107896.56495902
+  },
+  {
+    "id": 530,
+    "etiqueta": "Ramiro Soláns (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -102862.219572016,
+    "lat": 5109060.79246869
+  },
+  {
+    "id": 281,
+    "etiqueta": "Miralbueno 2 (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -102871.446844608,
+    "lat": 5109800.29808675
+  },
+  {
+    "id": 79,
+    "etiqueta": "Santa Magdalena Sofía (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -103037.767069412,
+    "lat": 5106648.14164431
+  },
+  {
+    "id": 282,
+    "etiqueta": "Valdespartera 2 (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -103071.840852349,
+    "lat": 5103480.97168669
+  },
+  {
+    "id": 90,
+    "etiqueta": "Virgen Blanca (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -103224.797172284,
+    "lat": 5109310.12374878
+  },
+  {
+    "id": 62,
+    "etiqueta": "San Alberto Magno (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -103251.666357776,
+    "lat": 5110713.72085701
+  },
+  {
+    "id": 437,
+    "etiqueta": "Fernando El Católico (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -103269.175800483,
+    "lat": 5108849.6737482
+  },
+  {
+    "id": 711,
+    "etiqueta": "Extensión De E.O.I. Nº 1",
+    "localidad": "Zaragoza",
+    "long": -103269.175800483,
+    "lat": 5108849.6737482
+  },
+  {
+    "id": 784,
+    "etiqueta": "I.E.S. María Moliner",
+    "localidad": "Zaragoza",
+    "long": -103273.03079445,
+    "lat": 5108733.46039204
+  },
+  {
+    "id": 146,
+    "etiqueta": "LAS TORRES DE MONTECANAL (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -103281.72929946,
+    "lat": 5106069.28943883
+  },
+  {
+    "id": 191,
+    "etiqueta": "La Salle-Santo Angel (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -103281.72929946,
+    "lat": 5106069.28943883
+  },
+  {
+    "id": 536,
+    "etiqueta": "Ramón Y Cajal (Centro Educativo)",
+    "localidad": "Cuarte De Huerva",
+    "long": -103411.461034031,
+    "lat": 5099818.12126061
+  },
+  {
+    "id": 685,
+    "etiqueta": "LOS IBONES (E.E.I.)",
+    "localidad": "Zaragoza",
+    "long": -103650.26583207,
+    "lat": 5108992.48792482
+  },
+  {
+    "id": 454,
+    "etiqueta": "Jerónimo Blancas Y Tomás (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -103678.065648506,
+    "lat": 5107345.13201951
+  },
+  {
+    "id": 181,
+    "etiqueta": "ZARAPEQUES (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -103770.225941739,
+    "lat": 5109851.66895585
+  },
+  {
+    "id": 513,
+    "etiqueta": "Montecanal (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -103793.922521744,
+    "lat": 5105402.46753019
+  },
+  {
+    "id": 317,
+    "etiqueta": "C.P. Miralbueno",
+    "localidad": "Zaragoza",
+    "long": -103840.684500241,
+    "lat": 5109636.83482522
+  },
+  {
+    "id": 150,
+    "etiqueta": "MI COLE (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -103897.703456621,
+    "lat": 5108684.44340707
+  },
+  {
+    "id": 545,
+    "etiqueta": "Rosales del Canal (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -104707.854427962,
+    "lat": 5106426.41610382
+  },
+  {
+    "id": 807,
+    "etiqueta": "Miralbueno (I.E.S.)",
+    "localidad": "Zaragoza",
+    "long": -104795.220190726,
+    "lat": 5110231.76501603
+  },
+  {
+    "id": 473,
+    "etiqueta": "Julián Nieto Tapia (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -105061.446318933,
+    "lat": 5110096.46435626
+  },
+  {
+    "id": 416,
+    "etiqueta": "CP FORO ROMANO",
+    "localidad": "Cuarte De Huerva",
+    "long": -105201.156732658,
+    "lat": 5099084.06314505
+  },
+  {
+    "id": 165,
+    "etiqueta": "PEQUENINOS MONTES DEL CANAL (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -105268.920246289,
+    "lat": 5106596.93388566
+  },
+  {
+    "id": 283,
+    "etiqueta": "Zaragoza Sur (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -105497.626140123,
+    "lat": 5106542.93069976
+  },
+  {
+    "id": 377,
+    "etiqueta": "C.R.A. Monlora",
+    "localidad": "Erla",
+    "long": -105618.888687834,
+    "lat": 5178364.50484752
+  },
+  {
+    "id": 5,
+    "etiqueta": "Británico De Aragón (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -105999.091503079,
+    "lat": 5099630.14154391
+  },
+  {
+    "id": 21,
+    "etiqueta": "Internacional Ánfora (Centro Educativo)",
+    "localidad": "Cuarte de Huerva",
+    "long": -106064.489477531,
+    "lat": 5098466.81112317
+  },
+  {
+    "id": 97,
+    "etiqueta": "San Antonio (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -106214.471340671,
+    "lat": 5107959.88173188
+  },
+  {
+    "id": 87,
+    "etiqueta": "Teresiano del Pilar (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -106871.814047001,
+    "lat": 5112330.70506965
+  },
+  {
+    "id": 612,
+    "etiqueta": "ARCO-IRIS (E.E.I.)",
+    "localidad": "Cadrete",
+    "long": -107038.878999198,
+    "lat": 5094869.00793582
+  },
+  {
+    "id": 3,
+    "etiqueta": "Antonio Machado (Centro Educativo)",
+    "localidad": "Venta Del Olivar",
+    "long": -107225.987025714,
+    "lat": 5113003.71403543
+  },
+  {
+    "id": 401,
+    "etiqueta": "Castillo Qadrit (Centro Educativo)",
+    "localidad": "Cadrete",
+    "long": -107383.45957739,
+    "lat": 5095268.08524975
+  },
+  {
+    "id": 11,
+    "etiqueta": "Condes De Aragón (Centro Educativo)",
+    "localidad": "Venta Del Olivar",
+    "long": -107424.793617516,
+    "lat": 5112930.6567096
+  },
+  {
+    "id": 23,
+    "etiqueta": "Juan De Lanuza (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -107718.947579573,
+    "lat": 5110513.1631222
+  },
+  {
+    "id": 418,
+    "etiqueta": "CRIE DE ZARAGOZA (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -107791.470001435,
+    "lat": 5112953.17434982
+  },
+  {
+    "id": 434,
+    "etiqueta": "Fernández Vizarra (Centro Educativo)",
+    "localidad": "Monzalbarba",
+    "long": -108136.97898418,
+    "lat": 5116203.80039795
+  },
+  {
+    "id": 690,
+    "etiqueta": "NUESTRA SEÑORA DE LORETO (E.E.I.)",
+    "localidad": "Zaragoza",
+    "long": -110016.690962647,
+    "lat": 5110650.60197492
+  },
+  {
+    "id": 789,
+    "etiqueta": "IES Torre de los Espejos",
+    "localidad": "Utebo",
+    "long": -110596.972751475,
+    "lat": 5116724.28792773
+  },
+  {
+    "id": 517,
+    "etiqueta": "Octavus (Centro Educativo)",
+    "localidad": "Utebo",
+    "long": -110789.429679522,
+    "lat": 5116815.95408049
+  },
+  {
+    "id": 126,
+    "etiqueta": "EL OSITO (Centro Educativo)",
+    "localidad": "Maria De Huerva",
+    "long": -110903.597836085,
+    "lat": 5092146.43484109
+  },
+  {
+    "id": 151,
+    "etiqueta": "MI MUNDO (Centro Educativo)",
+    "localidad": "Maria De Huerva",
+    "long": -110975.551415349,
+    "lat": 5092114.11459977
+  },
+  {
+    "id": 707,
+    "etiqueta": "E.O.I. De Utebo",
+    "localidad": "Utebo",
+    "long": -110994.180732133,
+    "lat": 5117834.13831998
+  },
+  {
+    "id": 178,
+    "etiqueta": "ZAGALICOS (Centro Educativo)",
+    "localidad": "Utebo",
+    "long": -111052.109168752,
+    "lat": 5117042.18586455
+  },
+  {
+    "id": 520,
+    "etiqueta": "Parque Europa (Centro Educativo)",
+    "localidad": "Utebo",
+    "long": -111183.984916716,
+    "lat": 5116517.97444795
+  },
+  {
+    "id": 673,
+    "etiqueta": "LA COMETA (E.E.I.)",
+    "localidad": "Utebo",
+    "long": -111183.984916716,
+    "lat": 5116517.97444795
+  },
+  {
+    "id": 503,
+    "etiqueta": "Miguel Artazos Tamé (Centro Educativo)",
+    "localidad": "Utebo",
+    "long": -111251.735072007,
+    "lat": 5117673.30570734
+  },
+  {
+    "id": 321,
+    "etiqueta": "C.P. San Roque",
+    "localidad": "Maria De Huerva",
+    "long": -111289.24640082,
+    "lat": 5091561.14774072
+  },
+  {
+    "id": 737,
+    "etiqueta": "Escuela De Música",
+    "localidad": "Utebo",
+    "long": -111367.633133457,
+    "lat": 5117407.25000788
+  },
+  {
+    "id": 813,
+    "etiqueta": "Pedro Cerrada (I.E.S.)",
+    "localidad": "Utebo",
+    "long": -111419.416734184,
+    "lat": 5117847.50400359
+  },
+  {
+    "id": 392,
+    "etiqueta": "C.R.A. Teruel Uno",
+    "localidad": "Perales Del Alfambra",
+    "long": -111689.200633317,
+    "lat": 4958581.11670605
+  },
+  {
+    "id": 263,
+    "etiqueta": "Emilio Navarro (C.P.E.P.A.)",
+    "localidad": "Utebo",
+    "long": -111834.399097938,
+    "lat": 5117842.06557134
+  },
+  {
+    "id": 452,
+    "etiqueta": "Infanta Elena (Centro Educativo)",
+    "localidad": "Utebo",
+    "long": -113801.796326108,
+    "lat": 5118110.81460397
+  },
+  {
+    "id": 447,
+    "etiqueta": "Gustavo Adolfo Bécquer (Centro Educativo)",
+    "localidad": "Garrapinillos",
+    "long": -113995.501145648,
+    "lat": 5113651.16096597
+  },
+  {
+    "id": 542,
+    "etiqueta": "Ricardo Mur (Centro Educativo)",
+    "localidad": "Casetas",
+    "long": -114057.822249374,
+    "lat": 5118946.15444993
+  },
+  {
+    "id": 123,
+    "etiqueta": "EL DUENDE DEL BOSQUE (Centro Educativo)",
+    "localidad": "Casetas",
+    "long": -114119.468756985,
+    "lat": 5118840.96512263
+  },
+  {
+    "id": 112,
+    "etiqueta": "Covadonga (Centro Educativo)",
+    "localidad": "Garrapinillos",
+    "long": -114152.96367857,
+    "lat": 5113546.15492019
+  },
+  {
+    "id": 758,
+    "etiqueta": "Ángel Sanz Briz (I.E.S.)",
+    "localidad": "Casetas",
+    "long": -114153.455710719,
+    "lat": 5119517.58717083
+  },
+  {
+    "id": 274,
+    "etiqueta": "Miguel Hernández (C.P.E.P.A.)",
+    "localidad": "Casetas",
+    "long": -114158.642085795,
+    "lat": 5119016.91465288
+  },
+  {
+    "id": 157,
+    "etiqueta": "NUESTRA SEÑORA DE LA ROSA (Centro Educativo)",
+    "localidad": "Casetas",
+    "long": -114220.013634265,
+    "lat": 5118847.63449617
+  },
+  {
+    "id": 185,
+    "etiqueta": "San Miguel (Centro Educativo)",
+    "localidad": "Casetas",
+    "long": -114314.791048726,
+    "lat": 5118780.05659755
+  },
+  {
+    "id": 297,
+    "etiqueta": "Antonio Martínez Garay (Centro Educativo)",
+    "localidad": "Casetas",
+    "long": -115133.846466136,
+    "lat": 5119845.71710106
+  },
+  {
+    "id": 569,
+    "etiqueta": "Subpradel (Centro Educativo)",
+    "localidad": "Sobradiel",
+    "long": -115362.898563587,
+    "lat": 5122005.15110433
+  },
+  {
+    "id": 678,
+    "etiqueta": "LA PARVADICA (E.E.I.)",
+    "localidad": "Sobradiel",
+    "long": -115362.898563587,
+    "lat": 5122005.15110433
+  },
+  {
+    "id": 547,
+    "etiqueta": "San Blas (Centro Educativo)",
+    "localidad": "Villanueva De Huerva",
+    "long": -115411.390446971,
+    "lat": 5064765.19003371
+  },
+  {
+    "id": 93,
+    "etiqueta": "El Cariño (Centro Educativo)",
+    "localidad": "Zaragoza",
+    "long": -115734.344987686,
+    "lat": 5118118.87778786
+  },
+  {
+    "id": 573,
+    "etiqueta": "Tomás Romojaro (Centro Educativo)",
+    "localidad": "Torres De Berrellen",
+    "long": -118823.057880643,
+    "lat": 5124898.08065374
+  },
+  {
+    "id": 575,
+    "etiqueta": "Tosos (Centro Educativo)",
+    "localidad": "Tosos",
+    "long": -119195.354785652,
+    "lat": 5059202.81785592
+  },
+  {
+    "id": 552,
+    "etiqueta": "San Jorge (Centro Educativo)",
+    "localidad": "Herrera De Los Navarros",
+    "long": -120763.622658753,
+    "lat": 5043343.72787425
+  },
+  {
+    "id": 698,
+    "etiqueta": "Zagalicos (E.E.I.)",
+    "localidad": "Herrera De Los Navarros",
+    "long": -120763.622658753,
+    "lat": 5043343.72787425
+  },
+  {
+    "id": 380,
+    "etiqueta": "C.R.A. Orba",
+    "localidad": "Muel",
+    "long": -120873.666428181,
+    "lat": 5081418.87054538
+  },
+  {
+    "id": 477,
+    "etiqueta": "La Fuenfresca (Centro Educativo)",
+    "localidad": "Teruel",
+    "long": -121962.42782108,
+    "lat": 4913874.37039044
+  },
+  {
+    "id": 221,
+    "etiqueta": "E.F.A. La Noria",
+    "localidad": "Pinseque",
+    "long": -122227.552999523,
+    "lat": 5122001.51694718
+  },
+  {
+    "id": 662,
+    "etiqueta": "E.E.I. DE PINSEQUE",
+    "localidad": "Pinseque",
+    "long": -122398.938261158,
+    "lat": 5121484.4692045
+  },
+  {
+    "id": 504,
+    "etiqueta": "Miguel Artigas (Centro Educativo)",
+    "localidad": "Pinseque",
+    "long": -122427.158865269,
+    "lat": 5121566.35598761
+  },
+  {
+    "id": 33,
+    "etiqueta": "La Salle-San José (Centro Educativo)",
+    "localidad": "Teruel",
+    "long": -122449.892531679,
+    "lat": 4914388.8240897
+  },
+  {
+    "id": 509,
+    "etiqueta": "Miguel Vallés (Centro Educativo)",
+    "localidad": "Teruel",
+    "long": -122799.643900218,
+    "lat": 4915693.97328517
+  },
+  {
+    "id": 30,
+    "etiqueta": "La Purísima Y Santos Mártires (Centro Educativo)",
+    "localidad": "Teruel",
+    "long": -123096.778998238,
+    "lat": 4915487.85900708
+  },
+  {
+    "id": 710,
+    "etiqueta": "Escuela Oficial De Idiomas",
+    "localidad": "Teruel",
+    "long": -123185.866873525,
+    "lat": 4914337.86379186
+  },
+  {
+    "id": 829,
+    "etiqueta": "Santa Emerenciana (I.E.S.)",
+    "localidad": "Teruel",
+    "long": -123185.866873525,
+    "lat": 4914337.86379186
+  },
+  {
+    "id": 124,
+    "etiqueta": "El Ensanche (Centro Educativo)",
+    "localidad": "Teruel",
+    "long": -123231.034756914,
+    "lat": 4914999.41019766
+  },
+  {
+    "id": 431,
+    "etiqueta": "Ensanche (Centro Educativo)",
+    "localidad": "Teruel",
+    "long": -123232.005462874,
+    "lat": 4914977.90874833
+  },
+  {
+    "id": 223,
+    "etiqueta": "Escuela Sup. De Hostelería De Aragón",
+    "localidad": "Teruel",
+    "long": -123300.176405841,
+    "lat": 4915958.19353939
+  },
+  {
+    "id": 608,
+    "etiqueta": "Escuela De Arte De Teruel",
+    "localidad": "Teruel",
+    "long": -123317.632415192,
+    "lat": 4915945.92499121
+  },
+  {
+    "id": 756,
+    "etiqueta": "EXTENSIÓN DE ESCUELA SUPERIOR DE DISEÑO",
+    "localidad": "Teruel",
+    "long": -123317.632415192,
+    "lat": 4915945.92499121
+  },
+  {
+    "id": 728,
+    "etiqueta": "Ciudad de Teruel (Centro Educativo)",
+    "localidad": "Teruel",
+    "long": -123386.296503503,
+    "lat": 4917592.22171533
+  },
+  {
+    "id": 88,
+    "etiqueta": "Victoria Diez (Centro Educativo)",
+    "localidad": "Teruel",
+    "long": -123386.895402364,
+    "lat": 4914507.47497178
+  },
+  {
+    "id": 854,
+    "etiqueta": "VEGA DEL TURIA (I.E.S.)",
+    "localidad": "Teruel",
+    "long": -123397.993955596,
+    "lat": 4915624.30460822
+  },
+  {
+    "id": 604,
+    "etiqueta": "Conservatorio Profesional de Música de Teruel",
+    "localidad": "Teruel",
+    "long": -123409.147055378,
+    "lat": 4916053.18767238
+  },
+  {
+    "id": 484,
+    "etiqueta": "Las Anejas (Centro Educativo)",
+    "localidad": "Teruel",
+    "long": -123480.46945313,
+    "lat": 4917345.78458648
+  },
+  {
+    "id": 467,
+    "etiqueta": "Juan Espinal (Centro Educativo)",
+    "localidad": "Teruel",
+    "long": -123483.473966186,
+    "lat": 4915998.24461337
+  },
+  {
+    "id": 266,
+    "etiqueta": "Isabel De Segura (C.P.E.P.A.)",
+    "localidad": "Teruel",
+    "long": -123531.556193844,
+    "lat": 4916971.19746784
+  },
+  {
+    "id": 117,
+    "etiqueta": "DUMBO (Centro Educativo)",
+    "localidad": "Teruel",
+    "long": -123550.470488525,
+    "lat": 4916516.74998138
+  },
+  {
+    "id": 842,
+    "etiqueta": "Segundo De Chomón (I.E.S.)",
+    "localidad": "Teruel",
+    "long": -123700.213014761,
+    "lat": 4917393.55554718
+  },
+  {
+    "id": 594,
+    "etiqueta": "La Arboleda (Centro Educativo)",
+    "localidad": "Teruel",
+    "long": -123915.62847459,
+    "lat": 4917206.0109754
+  },
+  {
+    "id": 778,
+    "etiqueta": "Francés De Aranda (I.E.S.)",
+    "localidad": "Teruel",
+    "long": -123915.62847459,
+    "lat": 4917206.0109754
+  },
+  {
+    "id": 864,
+    "etiqueta": "Escuela Hogar de Teruel",
+    "localidad": "Teruel",
+    "long": -124170.251772271,
+    "lat": 4917410.59673181
+  },
+  {
+    "id": 412,
+    "etiqueta": "Colegio Público de Infantil y Primaria de La Muela Borrado (Centro Educativo)",
+    "localidad": "Muela (La)",
+    "long": -124288.986254346,
+    "lat": 5098437.68561638
+  },
+  {
+    "id": 34,
+    "etiqueta": "Las Viñas (Centro Educativo)",
+    "localidad": "Teruel",
+    "long": -124610.759695263,
+    "lat": 4917225.90318075
+  },
+  {
+    "id": 148,
+    "etiqueta": "MAFALDA-LAS VIÑAS (Centro Educativo)",
+    "localidad": "Teruel",
+    "long": -124610.759695263,
+    "lat": 4917225.90318075
+  },
+  {
+    "id": 101,
+    "etiqueta": "Alaún (Centro Educativo)",
+    "localidad": "Alagon",
+    "long": -124742.419483414,
+    "lat": 5126733.00694674
+  },
+  {
+    "id": 209,
+    "etiqueta": "Alaún (Centro Educativo)",
+    "localidad": "Alagon",
+    "long": -124742.419483414,
+    "lat": 5126733.00694674
+  },
+  {
+    "id": 535,
+    "etiqueta": "Ramón Y Cajal (Centro Educativo)",
+    "localidad": "Joyosa (La)",
+    "long": -124785.139451201,
+    "lat": 5126674.12291093
+  },
+  {
+    "id": 749,
+    "etiqueta": "Miguel Arnaudas (Centro Educativo)",
+    "localidad": "Alagon",
+    "long": -124836.453283677,
+    "lat": 5126491.72664308
+  },
+  {
+    "id": 136,
+    "etiqueta": "JOTA ARAGONESA (Centro Educativo)",
+    "localidad": "Alagon",
+    "long": -124866.963729714,
+    "lat": 5126683.59484135
+  },
+  {
+    "id": 44,
+    "etiqueta": "Ntra. Sra Del Castillo (Centro Educativo)",
+    "localidad": "Alagon",
+    "long": -125191.574704452,
+    "lat": 5126928.91005815
+  },
+  {
+    "id": 618,
+    "etiqueta": "E.E.I. DE ALAGÓN",
+    "localidad": "Alagon",
+    "long": -125191.574704452,
+    "lat": 5126928.91005815
+  },
+  {
+    "id": 769,
+    "etiqueta": "Conde Aranda (I.E.S.)",
+    "localidad": "Alagon",
+    "long": -125231.359177267,
+    "lat": 5127023.49498213
+  },
+  {
+    "id": 823,
+    "etiqueta": "Reyes Católicos (I.E.S.)",
+    "localidad": "Ejea De Los Caballeros",
+    "long": -125384.754095995,
+    "lat": 5180252.56669652
+  },
+  {
+    "id": 299,
+    "etiqueta": "Aragón (Centro Educativo)",
+    "localidad": "Alagon",
+    "long": -125468.199186294,
+    "lat": 5126552.92750749
+  },
+  {
+    "id": 539,
+    "etiqueta": "Rector Mamés Esperabé (Centro Educativo)",
+    "localidad": "Ejea De Los Caballeros",
+    "long": -125813.887393418,
+    "lat": 5180245.59311291
+  },
+  {
+    "id": 264,
+    "etiqueta": "Exea (C.P.E.P.A.)",
+    "localidad": "Ejea De Los Caballeros",
+    "long": -126252.375980848,
+    "lat": 5180177.63771471
+  },
+  {
+    "id": 703,
+    "etiqueta": "E.O.I. De Ejea De Los Caballeros",
+    "localidad": "Ejea De Los Caballeros",
+    "long": -126252.375980848,
+    "lat": 5180177.63771471
+  },
+  {
+    "id": 746,
+    "etiqueta": "ESCUELA MUNICIPAL DE MÚSICA",
+    "localidad": "Uncastillo",
+    "long": -126386.066236511,
+    "lat": 5214815.48564602
+  },
+  {
+    "id": 407,
+    "etiqueta": "Cervantes (Centro Educativo)",
+    "localidad": "Ejea De Los Caballeros",
+    "long": -126589.016139761,
+    "lat": 5179777.6917468
+  },
+  {
+    "id": 767,
+    "etiqueta": "Cinco Villas (I.E.S.)",
+    "localidad": "Ejea De Los Caballeros",
+    "long": -126643.941176518,
+    "lat": 5179411.32314454
+  },
+  {
+    "id": 631,
+    "etiqueta": "E.E.I. DE EJEA DE LOS CABALLEROS",
+    "localidad": "Ejea De Los Caballeros",
+    "long": -126944.144239705,
+    "lat": 5179886.42895181
+  },
+  {
+    "id": 47,
+    "etiqueta": "Ntra. Sra. De Las Mercedes (Centro Educativo)",
+    "localidad": "Ejea De Los Caballeros",
+    "long": -126994.871418464,
+    "lat": 5179493.2371252
+  },
+  {
+    "id": 744,
+    "etiqueta": "Escuela De Música De Ejea De Los Caballeros",
+    "localidad": "Ejea De Los Caballeros",
+    "long": -127204.480453654,
+    "lat": 5179394.63515985
+  },
+  {
+    "id": 219,
+    "etiqueta": "E.F.A. Boalares",
+    "localidad": "Ejea De Los Caballeros",
+    "long": -127280.785511813,
+    "lat": 5178412.72061097
+  },
+  {
+    "id": 363,
+    "etiqueta": "C.R.A. La Cepa",
+    "localidad": "Paniza",
+    "long": -128543.85430298,
+    "lat": 5049228.21526603
+  },
+  {
+    "id": 312,
+    "etiqueta": "C.P. Diego Escolano",
+    "localidad": "Longares",
+    "long": -130048.252618238,
+    "lat": 5071595.48687785
+  },
+  {
+    "id": 322,
+    "etiqueta": "C.P. Undués de Lerda",
+    "localidad": "Undues De Lerda",
+    "long": -130168.647987116,
+    "lat": 5246204.55441281
+  },
+  {
+    "id": 359,
+    "etiqueta": "C.R.A. Ínsula Barataria",
+    "localidad": "Figueruelas",
+    "long": -130570.309860601,
+    "lat": 5126052.63937508
+  },
+  {
+    "id": 394,
+    "etiqueta": "C.R.A. Turia",
+    "localidad": "San Blas",
+    "long": -130992.533557231,
+    "lat": 4918121.92669347
+  },
+  {
+    "id": 289,
+    "etiqueta": "Alfredo Muíños (Centro Educativo)",
+    "localidad": "Remolinos",
+    "long": -131153.6585014,
+    "lat": 5137267.48167771
+  },
+  {
+    "id": 203,
+    "etiqueta": "REMOLINOS (Centro Educativo)",
+    "localidad": "Remolinos",
+    "long": -131163.390051285,
+    "lat": 5136655.71491098
+  },
+  {
+    "id": 502,
+    "etiqueta": "Mateo Valero (Centro Educativo)",
+    "localidad": "Alfamen",
+    "long": -131332.394189013,
+    "lat": 5072877.72725977
+  },
+  {
+    "id": 611,
+    "etiqueta": "ARCO IRIS (E.E.I.)",
+    "localidad": "Cariñena",
+    "long": -131778.678480383,
+    "lat": 5062008.9110303
+  },
+  {
+    "id": 659,
+    "etiqueta": "E.E.I. De Biota",
+    "localidad": "Biota",
+    "long": -132402.315871289,
+    "lat": 5200341.71074972
+  },
+  {
+    "id": 857,
+    "etiqueta": "I.F.P. De San Blas",
+    "localidad": "San Blas",
+    "long": -132473.572590541,
+    "lat": 4918232.4313883
+  },
+  {
+    "id": 134,
+    "etiqueta": "Isidoro Gil De Jaz Y Manuela Pérez De Biel (Centro Educativo)",
+    "localidad": "Sos Del Rey Catolico",
+    "long": -135302.535923266,
+    "lat": 5235883.10619773
+  },
+  {
+    "id": 453,
+    "etiqueta": "Isidoro Gil De Jaz (Centro Educativo)",
+    "localidad": "Sos Del Rey Catolico",
+    "long": -135303.427592387,
+    "lat": 5235642.43693079
+  },
+  {
+    "id": 865,
+    "etiqueta": "Manuela Pérez De Biel (Centro Educativo)",
+    "localidad": "Sos Del Rey Catolico",
+    "long": -135303.427592387,
+    "lat": 5235642.43693079
+  },
+  {
+    "id": 408,
+    "etiqueta": "Cervantes (Centro Educativo)",
+    "localidad": "Pedrola",
+    "long": -135491.230252524,
+    "lat": 5129099.91336957
+  },
+  {
+    "id": 277,
+    "etiqueta": "Ricardo Sola Almau (C.P.E.P.A.)",
+    "localidad": "Cariñena",
+    "long": -136094.124369517,
+    "lat": 5062132.82421093
+  },
+  {
+    "id": 847,
+    "etiqueta": "Siglo XXI (I.E.S.)",
+    "localidad": "Pedrola",
+    "long": -136329.958050347,
+    "lat": 5128571.49912909
+  },
+  {
+    "id": 792,
+    "etiqueta": "Joaquín Costa (I.E.S.)",
+    "localidad": "Cariñena",
+    "long": -136410.788245807,
+    "lat": 5062372.73807438
+  },
+  {
+    "id": 566,
+    "etiqueta": "Santo Cristo De Santiago (Centro Educativo)",
+    "localidad": "Cariñena",
+    "long": -136626.888320504,
+    "lat": 5062474.31385344
+  },
+  {
+    "id": 345,
+    "etiqueta": "C.R.A. De Libros",
+    "localidad": "Libros",
+    "long": -137263.250642404,
+    "lat": 4889857.27660767
+  },
+  {
+    "id": 458,
+    "etiqueta": "Joaquín Costa (Centro Educativo)",
+    "localidad": "Pradilla De Ebro",
+    "long": -139148.83917679,
+    "lat": 5138139.16576481
+  },
+  {
+    "id": 626,
+    "etiqueta": "E.E.I. DE BOQUIÑENI",
+    "localidad": "Boquiñeni",
+    "long": -139401.97413288,
+    "lat": 5138471.98458397
+  },
+  {
+    "id": 288,
+    "etiqueta": "Alfonso I El Batallador (Centro Educativo)",
+    "localidad": "Tauste",
+    "long": -139604.632379064,
+    "lat": 5148661.36028002
+  },
+  {
+    "id": 652,
+    "etiqueta": "E.E.I. DE TAUSTE",
+    "localidad": "Tauste",
+    "long": -139634.326853233,
+    "lat": 5148567.35692395
+  },
+  {
+    "id": 824,
+    "etiqueta": "Río Arba (I.E.S.)",
+    "localidad": "Tauste",
+    "long": -139780.346855696,
+    "lat": 5148276.84040265
+  },
+  {
+    "id": 561,
+    "etiqueta": "Sancho Abarca (Centro Educativo)",
+    "localidad": "Sancho Abarca",
+    "long": -141355.385180227,
+    "lat": 5158763.87624643
+  },
+  {
+    "id": 649,
+    "etiqueta": "E.E.I. DE SÁDABA",
+    "localidad": "Sadaba",
+    "long": -141514.892652195,
+    "lat": 5203799.93122144
+  },
+  {
+    "id": 833,
+    "etiqueta": "Sección Del I.E.S.Reyes Católicos",
+    "localidad": "Sadaba",
+    "long": -141514.892652195,
+    "lat": 5203799.93122144
+  },
+  {
+    "id": 369,
+    "etiqueta": "C.R.A. Los Bañales",
+    "localidad": "Sadaba",
+    "long": -141523.346254326,
+    "lat": 5203144.25045306
+  },
+  {
+    "id": 444,
+    "etiqueta": "Gaspar Remiro (Centro Educativo)",
+    "localidad": "Epila",
+    "long": -142117.186757132,
+    "lat": 5100798.55782307
+  },
+  {
+    "id": 669,
+    "etiqueta": "ISABEL DE ARAGÓN (E.E.I.)",
+    "localidad": "Epila",
+    "long": -142138.740436939,
+    "lat": 5101087.87881919
+  },
+  {
+    "id": 846,
+    "etiqueta": "Sierra Palomera (I.E.S.)",
+    "localidad": "Cella",
+    "long": -142535.915021751,
+    "lat": 4932285.23060727
+  },
+  {
+    "id": 253,
+    "etiqueta": "C.P.E.P.A. De Cella",
+    "localidad": "Cella",
+    "long": -143205.373741458,
+    "lat": 4931986.83511941
+  },
+  {
+    "id": 505,
+    "etiqueta": "Miguel Blasco Vilatela (Centro Educativo)",
+    "localidad": "Cella",
+    "long": -143269.291166682,
+    "lat": 4932523.2524485
+  },
+  {
+    "id": 436,
+    "etiqueta": "Fernando El Católico (Centro Educativo)",
+    "localidad": "Villarreal De Huerva",
+    "long": -143355.243171913,
+    "lat": 5040707.17772743
+  },
+  {
+    "id": 715,
+    "etiqueta": "Extensión De E.O.I.",
+    "localidad": "Calamocha",
+    "long": -144208.446956318,
+    "lat": 5000801.08156046
+  },
+  {
+    "id": 853,
+    "etiqueta": "Valle Del Jiloca (I.E.S.)",
+    "localidad": "Calamocha",
+    "long": -144208.446956318,
+    "lat": 5000801.08156046
+  },
+  {
+    "id": 788,
+    "etiqueta": "IES Rodanas",
+    "localidad": "Epila",
+    "long": -144427.360074548,
+    "lat": 5102397.27096538
+  },
+  {
+    "id": 222,
+    "etiqueta": "E.F.A. Montarrón",
+    "localidad": "Epila",
+    "long": -144458.815623061,
+    "lat": 5102375.82321608
+  },
+  {
+    "id": 346,
+    "etiqueta": "C.R.A. De Lumpiaque",
+    "localidad": "Lumpiaque",
+    "long": -144727.830304512,
+    "lat": 5106083.94641664
+  },
+  {
+    "id": 244,
+    "etiqueta": "Aula De Calamocha (C.P.E.P.A.)",
+    "localidad": "Calamocha",
+    "long": -144821.9898958,
+    "lat": 4999467.71289914
+  },
+  {
+    "id": 541,
+    "etiqueta": "Ricardo Mallén (Centro Educativo)",
+    "localidad": "Calamocha",
+    "long": -144821.9898958,
+    "lat": 4999467.71289914
+  },
+  {
+    "id": 563,
+    "etiqueta": "Santa Ana (Centro Educativo)",
+    "localidad": "Mainar",
+    "long": -145043.962073637,
+    "lat": 5040768.09318954
+  },
+  {
+    "id": 438,
+    "etiqueta": "Ferrer Y Racaj (Centro Educativo)",
+    "localidad": "Ejea De Los Caballeros",
+    "long": -146040.871528292,
+    "lat": 5180666.7130722
+  },
+  {
+    "id": 497,
+    "etiqueta": "María Domínguez (Centro Educativo)",
+    "localidad": "Gallur",
+    "long": -146567.443889201,
+    "lat": 5140937.46959526
+  },
+  {
+    "id": 731,
+    "etiqueta": "DE GALLUR (Centro Educativo)",
+    "localidad": "Gallur",
+    "long": -146588.599045232,
+    "lat": 5141294.74466351
+  },
+  {
+    "id": 349,
+    "etiqueta": "C.R.A. De Santa Eulalia",
+    "localidad": "Santa Eulalia",
+    "long": -146627.293700232,
+    "lat": 4948571.87045422
+  },
+  {
+    "id": 303,
+    "etiqueta": "Baltasar Gracián (Centro Educativo)",
+    "localidad": "Calatayud",
+    "long": -183196.905261721,
+    "lat": 5061337.6660409
+  },
+  {
+    "id": 300,
+    "etiqueta": "Arzobispo Doménech (Centro Educativo)",
+    "localidad": "Almonacid De La Sierra",
+    "long": -147141.55189907,
+    "lat": 5071264.18698879
+  },
+  {
+    "id": 245,
+    "etiqueta": "Aula De Caminreal (C.P.E.P.A.)",
+    "localidad": "Caminreal",
+    "long": -147489.752587101,
+    "lat": 4988576.48832908
+  },
+  {
+    "id": 358,
+    "etiqueta": "C.R.A. Goya",
+    "localidad": "Caminreal",
+    "long": -147548.525938656,
+    "lat": 4988526.29598245
+  },
+  {
+    "id": 564,
+    "etiqueta": "Santa Engracia (Centro Educativo)",
+    "localidad": "Santa Engracia",
+    "long": -147563.498410167,
+    "lat": 5151998.32504433
+  },
+  {
+    "id": 650,
+    "etiqueta": "E.E.I. DE SANTA ENGRACIA",
+    "localidad": "Santa Engracia",
+    "long": -147666.019208408,
+    "lat": 5152026.75189442
+  },
+  {
+    "id": 355,
+    "etiqueta": "C.R.A. El Poyo Del Cid",
+    "localidad": "Poyo Del Cid (El)",
+    "long": -148503.952185067,
+    "lat": 4995302.40693256
+  },
+  {
+    "id": 370,
+    "etiqueta": "C.R.A. Luis Buñuel",
+    "localidad": "Pinsoro",
+    "long": -148771.320451249,
+    "lat": 5190628.55158604
+  },
+  {
+    "id": 422,
+    "etiqueta": "Domingo Jiménez Beltrán (Centro Educativo)",
+    "localidad": "Calatorao",
+    "long": -149391.317694807,
+    "lat": 5090547.69910357
+  },
+  {
+    "id": 660,
+    "etiqueta": "E.E.I. De Calatorao",
+    "localidad": "Calatorao",
+    "long": -149740.23082758,
+    "lat": 5090016.6304996
+  },
+  {
+    "id": 330,
+    "etiqueta": "C.R.A. Alto Jiloca",
+    "localidad": "Villafranca Del Campo",
+    "long": -150002.79009176,
+    "lat": 4967379.9792382
+  },
+  {
+    "id": 713,
+    "etiqueta": "Extensión De E.O.I.",
+    "localidad": "Monreal Del Campo",
+    "long": -150569.072341425,
+    "lat": 4981490.45643016
+  },
+  {
+    "id": 735,
+    "etiqueta": "Escuela De Música",
+    "localidad": "Monreal Del Campo",
+    "long": -150569.072341425,
+    "lat": 4981490.45643016
+  },
+  {
+    "id": 247,
+    "etiqueta": "Aula De Monreal Del Campo (C.P.E.P.A.)",
+    "localidad": "Monreal Del Campo",
+    "long": -150582.036609323,
+    "lat": 4981552.0239297
+  },
+  {
+    "id": 826,
+    "etiqueta": "Salvador Victoria (I.E.S.)",
+    "localidad": "Monreal Del Campo",
+    "long": -151063.438860453,
+    "lat": 4981171.51379692
+  },
+  {
+    "id": 693,
+    "etiqueta": "RICARDA GONZALO DE LIRIA (E.E.I.)",
+    "localidad": "Monreal Del Campo",
+    "long": -151125.443816825,
+    "lat": 4981104.61747414
+  },
+  {
+    "id": 515,
+    "etiqueta": "Ntra. Sra. Del Pilar (Centro Educativo)",
+    "localidad": "Monreal Del Campo",
+    "long": -151156.504181146,
+    "lat": 4980461.98239722
+  },
+  {
+    "id": 765,
+    "etiqueta": "Cabañas (I.E.S.)",
+    "localidad": "Almunia De Doña Godina (La)",
+    "long": -152596.249249346,
+    "lat": 5082210.39563313
+  },
+  {
+    "id": 743,
+    "etiqueta": "ESCUELA DE MÚSICA",
+    "localidad": "Almunia De Doña Godina (La)",
+    "long": -152723.108941054,
+    "lat": 5083179.4791827
+  },
+  {
+    "id": 308,
+    "etiqueta": "C.E.I.P. Nertóbriga",
+    "localidad": "Almunia De Doña Godina (La)",
+    "long": -152750.440102434,
+    "lat": 5082601.81373162
+  },
+  {
+    "id": 250,
+    "etiqueta": "C.P.E.P.A. De La Almunia De Doña Godina",
+    "localidad": "Almunia De Doña Godina (La)",
+    "long": -153158.26239654,
+    "lat": 5082770.40740368
+  },
+  {
+    "id": 639,
+    "etiqueta": "E.E.I. DE LA ALMUNIA DE DOÑA GODINA",
+    "localidad": "Almunia De Doña Godina (La)",
+    "long": -153173.627825854,
+    "lat": 5082867.57300698
+  },
+  {
+    "id": 193,
+    "etiqueta": "Salesianos Laviaga-Castillo (Centro Educativo)",
+    "localidad": "Almunia De Doña Godina (La)",
+    "long": -153333.478161854,
+    "lat": 5083271.17355295
+  },
+  {
+    "id": 534,
+    "etiqueta": "Ramón Y Cajal (Centro Educativo)",
+    "localidad": "Alpartir",
+    "long": -153549.685103262,
+    "lat": 5075099.28910226
+  },
+  {
+    "id": 559,
+    "etiqueta": "San Nicasio (Centro Educativo)",
+    "localidad": "Novillas",
+    "long": -155406.273797102,
+    "lat": 5151016.5784033
+  },
+  {
+    "id": 689,
+    "etiqueta": "NERTÓBRIGA (E.E.I.)",
+    "localidad": "Ricla",
+    "long": -155933.8981272,
+    "lat": 5088097.32592653
+  },
+  {
+    "id": 494,
+    "etiqueta": "Maestro Monreal (Centro Educativo)",
+    "localidad": "Ricla",
+    "long": -156084.966468571,
+    "lat": 5087569.01326639
+  },
+  {
+    "id": 866,
+    "etiqueta": "Puerta De Zaragoza (Centro Educativo)",
+    "localidad": "Daroca",
+    "long": -156984.986778024,
+    "lat": 5029230.88746349
+  },
+  {
+    "id": 691,
+    "etiqueta": "PINOCHO (E.E.I.)",
+    "localidad": "Daroca",
+    "long": -157031.724266234,
+    "lat": 5029302.26890628
+  },
+  {
+    "id": 750,
+    "etiqueta": "Pablo Bruna (Centro Educativo)",
+    "localidad": "Daroca",
+    "long": -157248.957573347,
+    "lat": 5029234.96111191
+  },
+  {
+    "id": 251,
+    "etiqueta": "C.P.E.P.A. De Daroca",
+    "localidad": "Daroca",
+    "long": -157555.598242686,
+    "lat": 5029221.29511424
+  },
+  {
+    "id": 316,
+    "etiqueta": "C.P. Manlia",
+    "localidad": "Mallen",
+    "long": -157855.860305203,
+    "lat": 5146213.13021697
+  },
+  {
+    "id": 642,
+    "etiqueta": "E.E.I. DE MALLÉN",
+    "localidad": "Mallen",
+    "long": -157896.0421886,
+    "lat": 5146289.71301788
+  },
+  {
+    "id": 851,
+    "etiqueta": "Valle Del Huecha (I.E.S.)",
+    "localidad": "Mallen",
+    "long": -157896.0421886,
+    "lat": 5146289.71301788
+  },
+  {
+    "id": 524,
+    "etiqueta": "Pedro Sánchez Ciruelo (Centro Educativo)",
+    "localidad": "Daroca",
+    "long": -158092.94076433,
+    "lat": 5028688.79571981
+  },
+  {
+    "id": 768,
+    "etiqueta": "Comunidad De Daroca (I.E.S.)",
+    "localidad": "Daroca",
+    "long": -158092.94076433,
+    "lat": 5028688.79571981
+  },
+  {
+    "id": 342,
+    "etiqueta": "C.R.A. De Albarracín",
+    "localidad": "Albarracin",
+    "long": -159404.029444241,
+    "lat": 4925636.05072069
+  },
+  {
+    "id": 840,
+    "etiqueta": "Sección Del I.E.S. Sta. Emerenciana",
+    "localidad": "Albarracin",
+    "long": -159404.029444241,
+    "lat": 4925636.05072069
+  },
+  {
+    "id": 368,
+    "etiqueta": "C.R.A. Las Viñas",
+    "localidad": "Fuendejalon",
+    "long": -163895.213187101,
+    "lat": 5125057.01248157
+  },
+  {
+    "id": 633,
+    "etiqueta": "E.E.I. DE FUENDEJALÓN",
+    "localidad": "Fuendejalon",
+    "long": -163913.724505225,
+    "lat": 5125305.50805339
+  },
+  {
+    "id": 487,
+    "etiqueta": "Lucas Arribas (Centro Educativo)",
+    "localidad": "Morata De Jalon",
+    "long": -163915.847367914,
+    "lat": 5082658.07022935
+  },
+  {
+    "id": 396,
+    "etiqueta": "C.R.A. Vicort-Isuela",
+    "localidad": "Frasno (El)",
+    "long": -166194.16661304,
+    "lat": 5073869.56814088
+  },
+  {
+    "id": 646,
+    "etiqueta": "E.E.I. DE OJOS NEGROS",
+    "localidad": "Ojos Negros",
+    "long": -166913.65231191,
+    "lat": 4973553.83897401
+  },
+  {
+    "id": 339,
+    "etiqueta": "C.R.A. Campo Bello",
+    "localidad": "Bello",
+    "long": -166914.451585853,
+    "lat": 5000884.71680366
+  },
+  {
+    "id": 313,
+    "etiqueta": "C.P. El Pomillo",
+    "localidad": "Ainzon",
+    "long": -169049.513778277,
+    "lat": 5133567.57535582
+  },
+  {
+    "id": 613,
+    "etiqueta": "BALTASAR GONZÁLEZ (E.E.I.)",
+    "localidad": "Borja",
+    "long": -170115.61720202,
+    "lat": 5136282.40237719
+  },
+  {
+    "id": 795,
+    "etiqueta": "Juan De Lanuza (I.E.S.)",
+    "localidad": "Borja",
+    "long": -170250.411747031,
+    "lat": 5136104.72485834
+  },
+  {
+    "id": 399,
+    "etiqueta": "Campo De Borja (Centro Educativo)",
+    "localidad": "Borja",
+    "long": -170754.166951913,
+    "lat": 5135865.41031214
+  },
+  {
+    "id": 75,
+    "etiqueta": "Santa Ana (Centro Educativo)",
+    "localidad": "Borja",
+    "long": -170855.77493033,
+    "lat": 5136042.57839764
+  },
+  {
+    "id": 340,
+    "etiqueta": "C.R.A. Cerro De Santa Cruz",
+    "localidad": "Used",
+    "long": -173480.116341052,
+    "lat": 5020448.41017391
+  },
+  {
+    "id": 648,
+    "etiqueta": "E.E.I. DE SABIÑÁN",
+    "localidad": "Sabiñan",
+    "long": -173982.457788401,
+    "lat": 5077854.29203464
+  },
+  {
+    "id": 353,
+    "etiqueta": "C.R.A. El Enebro",
+    "localidad": "Sabiñan",
+    "long": -174000.216586767,
+    "lat": 5077984.9490146
+  },
+  {
+    "id": 668,
+    "etiqueta": "FRANCISCA GIL DE LA RIVA (E.E.I.)",
+    "localidad": "Mores",
+    "long": -174556.864134504,
+    "lat": 5082974.97529458
+  },
+  {
+    "id": 389,
+    "etiqueta": "C.R.A. Sierra De Albarracín",
+    "localidad": "Tramacastilla",
+    "long": -175068.831378222,
+    "lat": 4928678.21452086
+  },
+  {
+    "id": 420,
+    "etiqueta": "Diputación Provincial (Centro Educativo)",
+    "localidad": "Brea De Aragon",
+    "long": -177958.62524669,
+    "lat": 5089881.45510827
+  },
+  {
+    "id": 627,
+    "etiqueta": "E.E.I. DE BREA DE ARAGÓN",
+    "localidad": "Brea De Aragon",
+    "long": -177958.62524669,
+    "lat": 5089881.45510827
+  },
+  {
+    "id": 393,
+    "etiqueta": "C.R.A. Tres Riberas",
+    "localidad": "Maluenda",
+    "long": -180044.028927466,
+    "lat": 5054730.97524874
+  },
+  {
+    "id": 614,
+    "etiqueta": "BLANCANIEVES (E.E.I.)",
+    "localidad": "Maluenda",
+    "long": -180173.281988226,
+    "lat": 5054609.52727032
+  },
+  {
+    "id": 844,
+    "etiqueta": "Sierra De La Virgen (I.E.S.)",
+    "localidad": "Illueca",
+    "long": -180869.663326782,
+    "lat": 5092065.90065183
+  },
+  {
+    "id": 306,
+    "etiqueta": "Benedicto XIII (Centro Educativo)",
+    "localidad": "Illueca",
+    "long": -181023.605937405,
+    "lat": 5092298.65761835
+  },
+  {
+    "id": 775,
+    "etiqueta": "Emilio Jimeno (I.E.S.)",
+    "localidad": "Calatayud",
+    "long": -182150.842685906,
+    "lat": 5065206.76079899
+  },
+  {
+    "id": 441,
+    "etiqueta": "Francisco De Goya (Centro Educativo)",
+    "localidad": "Calatayud",
+    "long": -182330.864113637,
+    "lat": 5063946.6184123
+  },
+  {
+    "id": 786,
+    "etiqueta": "IES Leonardo de Chabacier",
+    "localidad": "Calatayud",
+    "long": -182462.118698842,
+    "lat": 5064838.37494143
+  },
+  {
+    "id": 76,
+    "etiqueta": "Santa Ana (Centro Educativo)",
+    "localidad": "Calatayud",
+    "long": -182472.35229963,
+    "lat": 5064186.15027004
+  },
+  {
+    "id": 738,
+    "etiqueta": "Escuela De Música",
+    "localidad": "Calatayud",
+    "long": -182629.035596117,
+    "lat": 5064793.98551256
+  },
+  {
+    "id": 204,
+    "etiqueta": "Academia Izquierdo (Centro Educativo)",
+    "localidad": "Calatayud",
+    "long": -182947.689864902,
+    "lat": 5064662.95988159
+  },
+  {
+    "id": 271,
+    "etiqueta": "Marco Valerio Marcial (C.P.E.P.A.)",
+    "localidad": "Calatayud",
+    "long": -182994.445164231,
+    "lat": 5064150.53967893
+  },
+  {
+    "id": 702,
+    "etiqueta": "E.O.I. De Calatayud",
+    "localidad": "Calatayud",
+    "long": -182994.445164231,
+    "lat": 5064150.53967893
+  },
+  {
+    "id": 163,
+    "etiqueta": "Pequeayud (Centro Educativo)",
+    "localidad": "Calatayud",
+    "long": -183318.516239438,
+    "lat": 5064212.68702272
+  },
+  {
+    "id": 332,
+    "etiqueta": "C.R.A. Aranda-Isuela",
+    "localidad": "Gotor",
+    "long": -183567.373187496,
+    "lat": 5093353.61831518
+  },
+  {
+    "id": 302,
+    "etiqueta": "Augusta Bílbilis (Centro Educativo)",
+    "localidad": "Calatayud",
+    "long": -183591.63193093,
+    "lat": 5064295.02334167
+  },
+  {
+    "id": 338,
+    "etiqueta": "C.R.A. Bécquer",
+    "localidad": "Novallas",
+    "long": -188942.617364414,
+    "lat": 5153304.42383266
+  },
+  {
+    "id": 388,
+    "etiqueta": "C.R.A. Río Ribota",
+    "localidad": "Aniñon",
+    "long": -190033.390300512,
+    "lat": 5078087.99765399
+  },
+  {
+    "id": 651,
+    "etiqueta": "E.E.I. DE TARAZONA",
+    "localidad": "Tarazona",
+    "long": -191495.034138941,
+    "lat": 5146904.30012008
+  },
+  {
+    "id": 546,
+    "etiqueta": "Salvador Minguijón (Centro Educativo)",
+    "localidad": "Calatayud",
+    "long": -191537.653919186,
+    "lat": 5146372.76216884
+  },
+  {
+    "id": 850,
+    "etiqueta": "Tubalcaín (I.E.S.)",
+    "localidad": "Tarazona",
+    "long": -191557.658031681,
+    "lat": 5147209.10454995
+  },
+  {
+    "id": 318,
+    "etiqueta": "C.P. Moncayo",
+    "localidad": "Tarazona",
+    "long": -191627.760367814,
+    "lat": 5146921.20053787
+  },
+  {
+    "id": 49,
+    "etiqueta": "Ntra. Sra. Del Pilar (Centro Educativo)",
+    "localidad": "Tarazona",
+    "long": -191857.676304513,
+    "lat": 5146237.42683823
+  },
+  {
+    "id": 706,
+    "etiqueta": "E.O.I. De Tarazona",
+    "localidad": "Tarazona",
+    "long": -191878.922742526,
+    "lat": 5146598.91013206
+  },
+  {
+    "id": 459,
+    "etiqueta": "Joaquín Costa (Centro Educativo)",
+    "localidad": "Tarazona",
+    "long": -192077.720428769,
+    "lat": 5146989.3783744
+  },
+  {
+    "id": 597,
+    "etiqueta": "Conservatorio Elemental De Música",
+    "localidad": "Tarazona",
+    "long": -192211.672285236,
+    "lat": 5146865.72647564
+  },
+  {
+    "id": 262,
+    "etiqueta": "El Posito (C.P.E.P.A.)",
+    "localidad": "Tarazona",
+    "long": -192398.790330505,
+    "lat": 5146717.05584292
+  },
+  {
+    "id": 54,
+    "etiqueta": "Sagrada Familia (Centro Educativo)",
+    "localidad": "Tarazona",
+    "long": -192420.591139582,
+    "lat": 5146890.8773297
+  },
+  {
+    "id": 856,
+    "etiqueta": "Zaurín (I.E.S.)",
+    "localidad": "Ateca",
+    "long": -199249.424076576,
+    "lat": 5061416.22270763
+  },
+  {
+    "id": 583,
+    "etiqueta": "Virgen De La Peana (Centro Educativo)",
+    "localidad": "Ateca",
+    "long": -199739.586058437,
+    "lat": 5061123.97705425
+  },
+  {
+    "id": 354,
+    "etiqueta": "C.R.A. El Mirador",
+    "localidad": "Moros",
+    "long": -203666.534717067,
+    "lat": 5071149.58276602
+  },
+  {
+    "id": 374,
+    "etiqueta": "C.R.A. Mesa-Piedra-Alto Campillo",
+    "localidad": "Ibdes",
+    "long": -204127.862724422,
+    "lat": 5044213.10612487
+  },
+  {
+    "id": 319,
+    "etiqueta": "C.P. Pablo Luna",
+    "localidad": "Alhama De Aragon",
+    "long": -210315.040097729,
+    "lat": 5056322.24636716
+  },
+  {
+    "id": 383,
+    "etiqueta": "C.R.A. Puerta De Aragón",
+    "localidad": "Ariza",
+    "long": -229334.944692525,
+    "lat": 5058193.92690471
+  },
+  {
+    "id": 621,
+    "etiqueta": "E.E.I. DE ARIZA",
+    "localidad": "Ariza",
+    "long": -229334.944692525,
+    "lat": 5058193.92690471
+  },
+  {
+    "id": 200,
+    "etiqueta": "ESCUELA DE MONTAÑA DE ALQUÉZAR",
+    "localidad": "Alquezar",
+    "long": 2791.94514925597,
+    "lat": 5186934.6046252
+  },
+  {
+    "id": 391,
+    "etiqueta": "C.R.A. Tastavíns",
+    "localidad": "Peñarroya De Tastavins",
+    "long": 4377.08571757624,
+    "lat": 4976327.413702
+  },
+  {
+    "id": 310,
+    "etiqueta": "C.P. De Paules De Sarsa",
+    "localidad": "Paules De Sarsa",
+    "long": 4482.00322445399,
+    "lat": 5206768.81274964
+  },
+  {
+    "id": 635,
+    "etiqueta": "E.E.I. DE FUENTESPALDA",
+    "localidad": "Fuentespalda",
+    "long": 7539.47875509916,
+    "lat": 4984113.99549229
+  },
+  {
+    "id": 279,
+    "etiqueta": "Sobrarbe (C.P.E.P.A.)",
+    "localidad": "Boltaña",
+    "long": 7788.94016799235,
+    "lat": 5227752.51649373
+  },
+  {
+    "id": 640,
+    "etiqueta": "E.E.I. DE LA FRESNEDA",
+    "localidad": "Fresneda (La)",
+    "long": 8375.57718654928,
+    "lat": 5001536.26214024
+  },
+  {
+    "id": 417,
+    "etiqueta": "Cra. De La Fresneda (Centro Educativo)",
+    "localidad": "Fresneda (La)",
+    "long": 8466.88477248265,
+    "lat": 5001321.51780329
+  },
+  {
+    "id": 861,
+    "etiqueta": "E.H. De Boltaña",
+    "localidad": "Boltaña",
+    "long": 8481.19823260885,
+    "lat": 5227312.03229595
+  },
+  {
+    "id": 550,
+    "etiqueta": "San Gregorio (Centro Educativo)",
+    "localidad": "Ontiñena",
+    "long": 9798.61542557129,
+    "lat": 5112473.12097737
+  },
+  {
+    "id": 643,
+    "etiqueta": "E.E.I. DE MAZALEÓN",
+    "localidad": "Mazaleon",
+    "long": 11265.2463771879,
+    "lat": 5019452.9160755
+  },
+  {
+    "id": 188,
+    "etiqueta": "E.F.A. El Poblado",
+    "localidad": "Grado (El)",
+    "long": 11780.7880897548,
+    "lat": 5222819.48991304
+  },
+  {
+    "id": 463,
+    "etiqueta": "José Manuel Blecua (Centro Educativo)",
+    "localidad": "Alcolea De Cinca",
+    "long": 12250.3715505477,
+    "lat": 5119333.72531156
+  },
+  {
+    "id": 766,
+    "etiqueta": "Cinca-Alcanadre (I.E.S.)",
+    "localidad": "Alcolea De Cinca",
+    "long": 12250.3715505477,
+    "lat": 5119333.72531156
+  },
+  {
+    "id": 189,
+    "etiqueta": "La Inmaculada (Centro Educativo)",
+    "localidad": "Barbastro",
+    "long": 12696.735991951,
+    "lat": 5166160.26203598
+  },
+  {
+    "id": 68,
+    "etiqueta": "San Vicente De Paul (Centro Educativo)",
+    "localidad": "Barbastro",
+    "long": 13255.3605738447,
+    "lat": 5165954.56309735
+  },
+  {
+    "id": 482,
+    "etiqueta": "La Merced (Centro Educativo)",
+    "localidad": "Barbastro",
+    "long": 13531.2815165045,
+    "lat": 5165921.73938497
+  },
+  {
+    "id": 801,
+    "etiqueta": "Martínez Vargas (I.E.S.)",
+    "localidad": "Barbastro",
+    "long": 13720.4344820656,
+    "lat": 5166941.83470847
+  },
+  {
+    "id": 700,
+    "etiqueta": "E.O.I Río Vero",
+    "localidad": "Barbastro",
+    "long": 13753.8793098795,
+    "lat": 5166865.38417431
+  },
+  {
+    "id": 65,
+    "etiqueta": "San José De Calasanz (Centro Educativo)",
+    "localidad": "Barbastro",
+    "long": 13777.5792294694,
+    "lat": 5166467.8947536
+  },
+  {
+    "id": 740,
+    "etiqueta": "ESCUELA DE MÚSICA",
+    "localidad": "Barbastro",
+    "long": 13999.1562231138,
+    "lat": 5166546.75221089
+  },
+  {
+    "id": 522,
+    "etiqueta": "Pedro I (Centro Educativo)",
+    "localidad": "Barbastro",
+    "long": 14434.8629364684,
+    "lat": 5166137.40737818
+  },
+  {
+    "id": 290,
+    "etiqueta": "Alto Aragón (Centro Educativo)",
+    "localidad": "Barbastro",
+    "long": 14660.0745114872,
+    "lat": 5165915.18095072
+  },
+  {
+    "id": 783,
+    "etiqueta": "Hermanos Argensola (I.E.S.)",
+    "localidad": "Barbastro",
+    "long": 14660.0745114872,
+    "lat": 5165915.18095072
+  },
+  {
+    "id": 280,
+    "etiqueta": "Somontano (C.P.E.P.A.)",
+    "localidad": "Barbastro",
+    "long": 14701.8794330597,
+    "lat": 5165698.28606253
+  },
+  {
+    "id": 129,
+    "etiqueta": "ENCANTARIA (Centro Educativo)",
+    "localidad": "Barbastro",
+    "long": 14797.7811743781,
+    "lat": 5166415.94448352
+  },
+  {
+    "id": 831,
+    "etiqueta": "Sección Del I.E.S Mar De Aragón",
+    "localidad": "Maella",
+    "long": 15266.8893009453,
+    "lat": 5030631.93924528
+  },
+  {
+    "id": 587,
+    "etiqueta": "Virgen Del Portal (Centro Educativo)",
+    "localidad": "Maella",
+    "long": 15324.9001139875,
+    "lat": 5030613.6295836
+  },
+  {
+    "id": 301,
+    "etiqueta": "Asunción Pañart Montaner (Centro Educativo)",
+    "localidad": "Ainsa",
+    "long": 15346.1977589661,
+    "lat": 5222692.36112636
+  },
+  {
+    "id": 641,
+    "etiqueta": "E.E.I. DE MAELLA",
+    "localidad": "Maella",
+    "long": 15360.260750238,
+    "lat": 5030572.28888865
+  },
+  {
+    "id": 729,
+    "etiqueta": "DE AÍNSA (Centro Educativo)",
+    "localidad": "Ainsa",
+    "long": 15414.6336423211,
+    "lat": 5222686.20812318
+  },
+  {
+    "id": 848,
+    "etiqueta": "Sobrarbe (I.E.S.)",
+    "localidad": "Ainsa",
+    "long": 15498.5084258542,
+    "lat": 5222797.15126009
+  },
+  {
+    "id": 257,
+    "etiqueta": "C.P.E.P.A. De Valderrobres",
+    "localidad": "Valderrobres",
+    "long": 17121.9384462277,
+    "lat": 4993549.16389541
+  },
+  {
+    "id": 149,
+    "etiqueta": "María Inmaculada (Centro Educativo)",
+    "localidad": "Valderrobres",
+    "long": 17166.7901822632,
+    "lat": 4993942.86823363
+  },
+  {
+    "id": 580,
+    "etiqueta": "Vicente Ferrer Ramos (Centro Educativo)",
+    "localidad": "Valderrobres",
+    "long": 17172.9684140023,
+    "lat": 4993644.99268952
+  },
+  {
+    "id": 733,
+    "etiqueta": "DE VALDERROBRES (Centro Educativo)",
+    "localidad": "Valderrobres",
+    "long": 17262.2733622962,
+    "lat": 4993385.60171613
+  },
+  {
+    "id": 802,
+    "etiqueta": "Matarraña (I.E.S.)",
+    "localidad": "Valderrobres",
+    "long": 17427.6852200558,
+    "lat": 4993334.09061337
+  },
+  {
+    "id": 531,
+    "etiqueta": "Ramón J. Sender (Centro Educativo)",
+    "localidad": "Chalamera",
+    "long": 18140.2301486745,
+    "lat": 5110748.49386266
+  },
+  {
+    "id": 352,
+    "etiqueta": "C.R.A. Dos Aguas",
+    "localidad": "Fabara",
+    "long": 18404.2543773532,
+    "lat": 5038403.32993986
+  },
+  {
+    "id": 325,
+    "etiqueta": "C.R.A. Albeos",
+    "localidad": "Belver De Cinca",
+    "long": 19627.1891525049,
+    "lat": 5115441.69337094
+  },
+  {
+    "id": 623,
+    "etiqueta": "E.E.I. DE BELVER DE CINCA",
+    "localidad": "Belver De Cinca",
+    "long": 20130.7740385657,
+    "lat": 5114945.27511239
+  },
+  {
+    "id": 333,
+    "etiqueta": "C.R.A. Arco Iris",
+    "localidad": "Conchel",
+    "long": 20257.9955186188,
+    "lat": 5147597.19241471
+  },
+  {
+    "id": 195,
+    "etiqueta": "Santo Domingo Savio (Centro Educativo)",
+    "localidad": "Monzon",
+    "long": 20338.4661521234,
+    "lat": 5148555.82124579
+  },
+  {
+    "id": 593,
+    "etiqueta": "La Alegría (Centro Educativo)",
+    "localidad": "Monzon",
+    "long": 20354.5340074245,
+    "lat": 5147682.16315702
+  },
+  {
+    "id": 794,
+    "etiqueta": "José Mor De Fuentes (I.E.S.)",
+    "localidad": "Monzon",
+    "long": 20606.2451872266,
+    "lat": 5146738.61658326
+  },
+  {
+    "id": 373,
+    "etiqueta": "C.R.A. Matarranya",
+    "localidad": "Calaceite",
+    "long": 20783.1997629865,
+    "lat": 5014438.92824929
+  },
+  {
+    "id": 73,
+    "etiqueta": "Santa Ana (Centro Educativo)",
+    "localidad": "Monzon",
+    "long": 20927.6034064435,
+    "lat": 5147414.25448672
+  },
+  {
+    "id": 719,
+    "etiqueta": "Ignacio Luzán (Centro Educativo)",
+    "localidad": "Monzon",
+    "long": 21154.8454489744,
+    "lat": 5148476.58882229
+  },
+  {
+    "id": 442,
+    "etiqueta": "Francisco Galiay Sarañana (Centro Educativo)",
+    "localidad": "Ballobar",
+    "long": 21424.3632945238,
+    "lat": 5104108.02094619
+  },
+  {
+    "id": 298,
+    "etiqueta": "Aragón (Centro Educativo)",
+    "localidad": "Monzon",
+    "long": 21426.0664827329,
+    "lat": 5148153.01774881
+  },
+  {
+    "id": 457,
+    "etiqueta": "Joaquín Costa (Centro Educativo)",
+    "localidad": "Monzon",
+    "long": 21471.7174927124,
+    "lat": 5147832.97447432
+  },
+  {
+    "id": 40,
+    "etiqueta": "Minte (Centro Educativo)",
+    "localidad": "Monzon",
+    "long": 21542.1337498086,
+    "lat": 5148185.53353114
+  },
+  {
+    "id": 601,
+    "etiqueta": "Conservatorio Profesional De Música",
+    "localidad": "Monzon",
+    "long": 21573.9076720657,
+    "lat": 5148516.28349163
+  },
+  {
+    "id": 259,
+    "etiqueta": "Cinca Medio (C.P.E.P.A.)",
+    "localidad": "Monzon",
+    "long": 21817.1697025166,
+    "lat": 5147397.22006826
+  },
+  {
+    "id": 356,
+    "etiqueta": "C.R.A. El Trébol",
+    "localidad": "Binaced",
+    "long": 22154.2028192321,
+    "lat": 5134720.63346218
+  },
+  {
+    "id": 610,
+    "etiqueta": "ABABOL (E.E.I.)",
+    "localidad": "Binaced",
+    "long": 22237.1514246018,
+    "lat": 5134753.46209383
+  },
+  {
+    "id": 326,
+    "etiqueta": "C.R.A. Algars",
+    "localidad": "Cretas",
+    "long": 23581.9732498077,
+    "lat": 5001902.96046711
+  },
+  {
+    "id": 357,
+    "etiqueta": "C.R.A. Estadilla-Fonz",
+    "localidad": "Fonz",
+    "long": 29091.3217908947,
+    "lat": 5162570.77437067
+  },
+  {
+    "id": 555,
+    "etiqueta": "San Juan Bautista (Centro Educativo)",
+    "localidad": "Zaidin",
+    "long": 29702.4735877141,
+    "lat": 5102008.79363398
+  },
+  {
+    "id": 478,
+    "etiqueta": "La Fueva (Centro Educativo)",
+    "localidad": "Tierrantona",
+    "long": 30135.2793151387,
+    "lat": 5216564.27377223
+  },
+  {
+    "id": 661,
+    "etiqueta": "E.E.I. DE ESPLÚS",
+    "localidad": "Esplus",
+    "long": 30408.5797969853,
+    "lat": 5130692.46420867
+  },
+  {
+    "id": 734,
+    "etiqueta": "Escuela De Música",
+    "localidad": "Binefar",
+    "long": 32608.9241915899,
+    "lat": 5138738.23483073
+  },
+  {
+    "id": 845,
+    "etiqueta": "Sierra De San Quílez (I.E.S.)",
+    "localidad": "Binefar",
+    "long": 32805.8595027523,
+    "lat": 5139252.48972144
+  },
+  {
+    "id": 341,
+    "etiqueta": "C.R.A. Cinca-Cinqueta",
+    "localidad": "Plan",
+    "long": 32851.664133629,
+    "lat": 5248550.8956822
+  },
+  {
+    "id": 91,
+    "etiqueta": "Virgen Del Romeral (Centro Educativo)",
+    "localidad": "Binefar",
+    "long": 32995.6347442668,
+    "lat": 5138571.21932071
+  },
+  {
+    "id": 617,
+    "etiqueta": "CONCEPCIÓN BAÑERES (E.E.I.)",
+    "localidad": "Binefar",
+    "long": 33122.2127976631,
+    "lat": 5138323.00663901
+  },
+  {
+    "id": 581,
+    "etiqueta": "Víctor Mendoza Mendoza (Centro Educativo)",
+    "localidad": "Binefar",
+    "long": 33246.4164063208,
+    "lat": 5137477.29257576
+  },
+  {
+    "id": 681,
+    "etiqueta": "LA RUELLA (E.E.I.)",
+    "localidad": "Mequinenza",
+    "long": 33674.6424498942,
+    "lat": 5068054.85018015
+  },
+  {
+    "id": 230,
+    "etiqueta": "Santa Agatoclia (Centro Educativo)",
+    "localidad": "Mequinenza",
+    "long": 33893.167063101,
+    "lat": 5067891.49817261
+  },
+  {
+    "id": 499,
+    "etiqueta": "María Quintana (Centro Educativo)",
+    "localidad": "Mequinenza",
+    "long": 33893.167063101,
+    "lat": 5067891.49817261
+  },
+  {
+    "id": 837,
+    "etiqueta": "Sección Del I.E.S. Bajo Cinca",
+    "localidad": "Mequinenza",
+    "long": 33893.167063101,
+    "lat": 5067891.49817261
+  },
+  {
+    "id": 656,
+    "etiqueta": "E.E.I. DE VENCILLÓN",
+    "localidad": "Vencillon",
+    "long": 36018.4409326993,
+    "lat": 5116797.71561023
+  },
+  {
+    "id": 160,
+    "etiqueta": "Pati (Centro Educativo)",
+    "localidad": "Fraga",
+    "long": 36256.1959879407,
+    "lat": 5088569.04468257
+  },
+  {
+    "id": 386,
+    "etiqueta": "C.R.A. Ribera Del Cinca",
+    "localidad": "Torrente De Cinca",
+    "long": 37130.8076236206,
+    "lat": 5082423.40982725
+  },
+  {
+    "id": 440,
+    "etiqueta": "Fraga III (Centro Educativo)",
+    "localidad": "Fraga",
+    "long": 37208.1691037474,
+    "lat": 5090173.85130156
+  },
+  {
+    "id": 516,
+    "etiqueta": "Ntra. Sra. Del Pilar (Centro Educativo)",
+    "localidad": "Fayon",
+    "long": 37220.6892068769,
+    "lat": 5047429.41584508
+  },
+  {
+    "id": 71,
+    "etiqueta": "Santa Ana (Centro Educativo)",
+    "localidad": "Fraga",
+    "long": 37393.3167940296,
+    "lat": 5090379.09108393
+  },
+  {
+    "id": 636,
+    "etiqueta": "E.E.I. DE GRAUS",
+    "localidad": "Graus",
+    "long": 37394.2162555152,
+    "lat": 5189486.39230166
+  },
+  {
+    "id": 276,
+    "etiqueta": "Ribagorza (C.P.E.P.A.)",
+    "localidad": "Graus",
+    "long": 37490.1970336721,
+    "lat": 5189365.03898282
+  },
+  {
+    "id": 456,
+    "etiqueta": "Joaquín Costa (Centro Educativo)",
+    "localidad": "Graus",
+    "long": 37683.9719844909,
+    "lat": 5189603.19019426
+  },
+  {
+    "id": 761,
+    "etiqueta": "Bajo Cinca (I.E.S.)",
+    "localidad": "Fraga",
+    "long": 37801.9806634859,
+    "lat": 5090169.43516066
+  },
+  {
+    "id": 697,
+    "etiqueta": "XIQUETS (E.E.I.)",
+    "localidad": "Fraga",
+    "long": 37939.0528052793,
+    "lat": 5089527.32011135
+  },
+  {
+    "id": 553,
+    "etiqueta": "San José De Calasanz (Centro Educativo)",
+    "localidad": "Fraga",
+    "long": 38019.1160094476,
+    "lat": 5089799.22106987
+  },
+  {
+    "id": 248,
+    "etiqueta": "Bajo Cinca (C.P.E.P.A.)",
+    "localidad": "Fraga",
+    "long": 38225.9409441721,
+    "lat": 5089828.05576134
+  },
+  {
+    "id": 718,
+    "etiqueta": "Extensión De La E.O.I.",
+    "localidad": "Fraga",
+    "long": 38225.9409441721,
+    "lat": 5089828.05576134
+  },
+  {
+    "id": 819,
+    "etiqueta": "Ramón J. Sender (I.E.S.)",
+    "localidad": "Fraga",
+    "long": 38225.9409441721,
+    "lat": 5089828.05576134
+  },
+  {
+    "id": 694,
+    "etiqueta": "SANTA MARGARITA (E.E.I.)",
+    "localidad": "Osso De Cinca",
+    "long": 38550.7010870277,
+    "lat": 5090269.20475336
+  },
+  {
+    "id": 762,
+    "etiqueta": "Baltasar Gracián (I.E.S.)",
+    "localidad": "Graus",
+    "long": 38701.9898409903,
+    "lat": 5189811.02392073
+  },
+  {
+    "id": 748,
+    "etiqueta": "Instituto Musical Comarcal(Centro Educativo",
+    "localidad": "Fraga",
+    "long": 38976.3534239739,
+    "lat": 5089492.98065752
+  },
+  {
+    "id": 506,
+    "etiqueta": "Miguel Servet (Centro Educativo)",
+    "localidad": "Fraga",
+    "long": 39067.2969951724,
+    "lat": 5089222.46807484
+  },
+  {
+    "id": 309,
+    "etiqueta": "C.P. De Litera",
+    "localidad": "Litera",
+    "long": 40263.8924656074,
+    "lat": 5089787.38716979
+  },
+  {
+    "id": 335,
+    "etiqueta": "C.R.A. Baja Ribagorza",
+    "localidad": "Capella",
+    "long": 43901.0152639826,
+    "lat": 5190426.86661526
+  },
+  {
+    "id": 406,
+    "etiqueta": "Cerbín (Centro Educativo)",
+    "localidad": "Campo",
+    "long": 44247.5506124323,
+    "lat": 5222554.30624753
+  },
+  {
+    "id": 343,
+    "etiqueta": "C.R.A. De Altorricón",
+    "localidad": "Altorricon",
+    "long": 45871.2466863888,
+    "lat": 5131110.0640849
+  },
+  {
+    "id": 730,
+    "etiqueta": "DE ALTORRICÓN (Centro Educativo)",
+    "localidad": "Altorricon",
+    "long": 45934.1255007634,
+    "lat": 5131126.43486104
+  },
+  {
+    "id": 658,
+    "etiqueta": "E.E.I. DE ALTORRICÓN",
+    "localidad": "Altorricon",
+    "long": 45953.9002951079,
+    "lat": 5131255.64148152
+  },
+  {
+    "id": 481,
+    "etiqueta": "La Melusa (Centro Educativo)",
+    "localidad": "Tamarite De Litera",
+    "long": 46817.6805443336,
+    "lat": 5141034.40099546
+  },
+  {
+    "id": 270,
+    "etiqueta": "Litera (C.P.E.P.A.)",
+    "localidad": "Tamarite De Litera",
+    "long": 46837.2260205271,
+    "lat": 5141211.99377012
+  },
+  {
+    "id": 666,
+    "etiqueta": "EL TAMARINDO (E.E.I.)",
+    "localidad": "Tamarite De Litera",
+    "long": 46883.7364169754,
+    "lat": 5141157.67099433
+  },
+  {
+    "id": 557,
+    "etiqueta": "San Miguel (Centro Educativo)",
+    "localidad": "Tamarite De Litera",
+    "long": 47721.0972114511,
+    "lat": 5140298.23129514
+  },
+  {
+    "id": 796,
+    "etiqueta": "La Llitera (I.E.S.)",
+    "localidad": "Tamarite De Litera",
+    "long": 47721.0972114511,
+    "lat": 5140298.23129514
+  },
+  {
+    "id": 365,
+    "etiqueta": "C.R.A. La Llitera",
+    "localidad": "Albelda",
+    "long": 51380.3814940534,
+    "lat": 5140794.49066108
+  },
+  {
+    "id": 657,
+    "etiqueta": "E.E.I. De Albelda",
+    "localidad": "Albelda",
+    "long": 51423.7682655901,
+    "lat": 5140837.25960042
+  },
+  {
+    "id": 226,
+    "etiqueta": "Ntra. Sra. De Guayente (Centro Educativo)",
+    "localidad": "Sahun",
+    "long": 51743.3097507173,
+    "lat": 5247664.01825428
+  },
+  {
+    "id": 624,
+    "etiqueta": "E.E.I. DE BENABARRE",
+    "localidad": "Benabarre",
+    "long": 53452.4802692896,
+    "lat": 5177356.23025654
+  },
+  {
+    "id": 385,
+    "etiqueta": "C.R.A. Ribagorza Oriental",
+    "localidad": "Benabarre",
+    "long": 53477.734208971,
+    "lat": 5177307.52617662
+  },
+  {
+    "id": 675,
+    "etiqueta": "LA MAINADA (E.E.I.)",
+    "localidad": "Castejon De Sos",
+    "long": 54050.5698370593,
+    "lat": 5238055.98858748
+  },
+  {
+    "id": 835,
+    "etiqueta": "Sección Del I.E.S. Baltasar Gracián",
+    "localidad": "Castejon De Sos",
+    "long": 54050.5698370593,
+    "lat": 5238055.98858748
+  },
+  {
+    "id": 201,
+    "etiqueta": "ESCUELA DE MONTAÑA DE BENASQUE",
+    "localidad": "Benasque",
+    "long": 57708.96690332,
+    "lat": 5251813.48552406
+  },
+  {
+    "id": 196,
+    "etiqueta": "Valle De Benasque (Centro Educativo)",
+    "localidad": "Benasque",
+    "long": 58394.4756672098,
+    "lat": 5252135.50211508
+  },
+  {
+    "id": 327,
+    "etiqueta": "C.R.A. Alta Ribagorza",
+    "localidad": "Benasque",
+    "long": 58394.4756672098,
+    "lat": 5252135.50211508
+  },
+  {
+    "id": 676,
+    "etiqueta": "LA MAINADA (E.E.I.)",
+    "localidad": "Benasque",
+    "long": 58394.4756672098,
+    "lat": 5252135.50211508
+  }
+]
+    }
+  }
+}

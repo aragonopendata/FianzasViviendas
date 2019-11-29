@@ -1,0 +1,1 @@
+var urlServerVersion="http://opendata.aragon.es/public/appFianzas/appVersion.json";

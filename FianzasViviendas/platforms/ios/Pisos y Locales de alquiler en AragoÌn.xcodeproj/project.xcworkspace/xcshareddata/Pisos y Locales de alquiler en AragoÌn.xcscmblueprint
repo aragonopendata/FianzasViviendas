@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9801f6c2-6a53-4a3e-b69e-99cbbb0586ef++9082",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "9801f6c2-6a53-4a3e-b69e-99cbbb0586ef++9082" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9801f6c2-6a53-4a3e-b69e-99cbbb0586ef++9082" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8BC461CF-DB45-431E-BF7F-24031421E551",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9801f6c2-6a53-4a3e-b69e-99cbbb0586ef++9082" : "FianzasViviendas\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Pisos y Locales de alquiler en Aragón",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "src\/FianzasViviendas\/platforms\/ios\/Pisos y Locales de alquiler en Aragón.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/subversion.assembla.com\/svn\/idearium",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9801f6c2-6a53-4a3e-b69e-99cbbb0586ef++9082"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="es.plaa.android" version="1.0.5" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="es.plaa.ios" version="1.0.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Pisos y Locales de alquiler en Aragón</name>
     <description>
         Consulta de fianzas por calle y POIs en Aragón
@@ -7,7 +7,7 @@
     <author email="info@idearium.eu" href="http://www.idearium.eu/">
         Idearium Consultores
     </author>
-    <icon src="www/images/22-Vivienda.png" />
+    <icon height="1024" width="1024" src="www/images/22-Vivienda.png"/>
     <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />

@@ -1,6 +1,6 @@
 
 var db = openDatabase('mydb', '1.0', 'Test DB', 2 * 1024 * 1024);
-var urlServer="https://opendata.aragon.es/public/appFianzas/"
+var urlServer="http://idearium.eu/fianzas/"
 function importJsonToDb()
 {
 	importCoord()

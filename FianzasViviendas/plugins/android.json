@@ -1,0 +1,40 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "ideariumC.FianzasViviendas"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "ideariumC.FianzasViviendas"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "ideariumC.FianzasViviendas"
+        },
+        "cordova-plugin-spinnerdialog": {
+            "PACKAGE_NAME": "ideariumC.FianzasViviendas"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "ideariumC.FianzasViviendas"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "ideariumC.FianzasViviendas"
+        },
+        "uk.co.workingedge.cordova.plugin.sqliteporter": {
+            "PACKAGE_NAME": "ideariumC.FianzasViviendas"
+        },
+        "cordova-plugin-request-location-accuracy": {
+            "PACKAGE_NAME": "ideariumC.FianzasViviendas"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "ideariumC.FianzasViviendas"
+        }
+    }
+}

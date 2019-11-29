@@ -1,0 +1,2503 @@
+{
+  "structure":{
+    "tables":{
+      "localidad":"([localidad])"
+    },
+    "otherSQL": [
+      
+    ]
+  },
+  "data":{
+    "inserts":{
+      "localidad": [
+  {
+    "localidad": "SELGUA"
+  },
+  {
+    "localidad": "TRAMACASTILLA DE TENA"
+  },
+  {
+    "localidad": "SAN MATEO DE GALLEGO"
+  },
+  {
+    "localidad": "RIODEVA"
+  },
+  {
+    "localidad": "TIERRANTONA"
+  },
+  {
+    "localidad": "ALOBRAS"
+  },
+  {
+    "localidad": "URBANIZACION LA PLANILLA"
+  },
+  {
+    "localidad": "LASCASAS"
+  },
+  {
+    "localidad": "ALFAMEN"
+  },
+  {
+    "localidad": "ALDEHUELA DE LIESTOS"
+  },
+  {
+    "localidad": "ALADREN"
+  },
+  {
+    "localidad": "SIERRA DE LUNA"
+  },
+  {
+    "localidad": "LAYANA"
+  },
+  {
+    "localidad": "BARRACHINA"
+  },
+  {
+    "localidad": "SADABA"
+  },
+  {
+    "localidad": "GRISEL"
+  },
+  {
+    "localidad": "GRISEN"
+  },
+  {
+    "localidad": "ABENFIGO"
+  },
+  {
+    "localidad": "EL BUSTE"
+  },
+  {
+    "localidad": "TORRE DE ARCAS"
+  },
+  {
+    "localidad": "RAMASTUE"
+  },
+  {
+    "localidad": "CASTELSERAS"
+  },
+  {
+    "localidad": "TERRER"
+  },
+  {
+    "localidad": "ALBALATILLO"
+  },
+  {
+    "localidad": "UTRILLAS"
+  },
+  {
+    "localidad": "ALGAYON"
+  },
+  {
+    "localidad": "EL PUENTE DE SABINANIGO"
+  },
+  {
+    "localidad": "BARRIO CLAVERIA"
+  },
+  {
+    "localidad": "VINACEITE"
+  },
+  {
+    "localidad": "LECERA"
+  },
+  {
+    "localidad": "CANFRANC"
+  },
+  {
+    "localidad": "CASPE"
+  },
+  {
+    "localidad": "LUPINEN"
+  },
+  {
+    "localidad": "FUENTES DE EBRO"
+  },
+  {
+    "localidad": "BISCARRUES"
+  },
+  {
+    "localidad": "LOSCORRALES"
+  },
+  {
+    "localidad": "VALMUEL"
+  },
+  {
+    "localidad": "URBANIZACION EL PLANTIO"
+  },
+  {
+    "localidad": "ESTADA"
+  },
+  {
+    "localidad": "VILLASPESA"
+  },
+  {
+    "localidad": "VISTABELLA"
+  },
+  {
+    "localidad": "LASPUNA"
+  },
+  {
+    "localidad": "CHODES"
+  },
+  {
+    "localidad": "CUTANDA"
+  },
+  {
+    "localidad": "CASTEJON DE TORNOS"
+  },
+  {
+    "localidad": "IGRIES"
+  },
+  {
+    "localidad": "LA VILUENA"
+  },
+  {
+    "localidad": "VILLARQUEMADO"
+  },
+  {
+    "localidad": "ALIAGA"
+  },
+  {
+    "localidad": "CALATAYUD"
+  },
+  {
+    "localidad": "OLIETE"
+  },
+  {
+    "localidad": "ASO DE SOBREMONTE"
+  },
+  {
+    "localidad": "ARGAVIESO"
+  },
+  {
+    "localidad": "SAN ESTEBAN DE LITERA"
+  },
+  {
+    "localidad": "PINA DE EBRO"
+  },
+  {
+    "localidad": "MONTMESA"
+  },
+  {
+    "localidad": "MONREAL DEL CAMPO"
+  },
+  {
+    "localidad": "LA ZAIDA"
+  },
+  {
+    "localidad": "ALBORGE"
+  },
+  {
+    "localidad": "VILLAMAYOR"
+  },
+  {
+    "localidad": "CRETAS"
+  },
+  {
+    "localidad": "MEDIANA DE ARAGON"
+  },
+  {
+    "localidad": "ALDEHUELA"
+  },
+  {
+    "localidad": "RODEN"
+  },
+  {
+    "localidad": "ALCORISA"
+  },
+  {
+    "localidad": "CANTALOBOS"
+  },
+  {
+    "localidad": "VILLASTAR"
+  },
+  {
+    "localidad": "GUADALAVIAR"
+  },
+  {
+    "localidad": "AGUARON"
+  },
+  {
+    "localidad": "CALATORAO"
+  },
+  {
+    "localidad": "LECINENA"
+  },
+  {
+    "localidad": "LAGO DE BARASONA"
+  },
+  {
+    "localidad": "ORILLENA"
+  },
+  {
+    "localidad": "FORMIGAL"
+  },
+  {
+    "localidad": "AZAILA"
+  },
+  {
+    "localidad": "ALAGON"
+  },
+  {
+    "localidad": "SENEGUE"
+  },
+  {
+    "localidad": "ROBRES"
+  },
+  {
+    "localidad": "POZONDON"
+  },
+  {
+    "localidad": "DIQUE"
+  },
+  {
+    "localidad": "AGUERO"
+  },
+  {
+    "localidad": "CASTARNE"
+  },
+  {
+    "localidad": "BORJA"
+  },
+  {
+    "localidad": "MALEJAN"
+  },
+  {
+    "localidad": "ALTORRICON"
+  },
+  {
+    "localidad": "CALLEN"
+  },
+  {
+    "localidad": "VALDELINARES"
+  },
+  {
+    "localidad": "MONROYO"
+  },
+  {
+    "localidad": "PLAN"
+  },
+  {
+    "localidad": "TORREMOCHA DE JILOCA"
+  },
+  {
+    "localidad": "AREN"
+  },
+  {
+    "localidad": "LA PORTELLADA"
+  },
+  {
+    "localidad": "TORRES DE ALBARRACIN"
+  },
+  {
+    "localidad": "JASA"
+  },
+  {
+    "localidad": "URBANIZACION ZUERA SUR"
+  },
+  {
+    "localidad": "TORRALBA DE RIBOTA"
+  },
+  {
+    "localidad": "BIESCAS"
+  },
+  {
+    "localidad": "ASIN DE BROTO"
+  },
+  {
+    "localidad": "PALO"
+  },
+  {
+    "localidad": "TIERGA"
+  },
+  {
+    "localidad": "MONFORTE DE MOYUELA"
+  },
+  {
+    "localidad": "ANTILLON"
+  },
+  {
+    "localidad": "LETUX"
+  },
+  {
+    "localidad": "HUESA DEL COMUN"
+  },
+  {
+    "localidad": "BARBASTRO"
+  },
+  {
+    "localidad": "PUEYO DE SANTA CRUZ"
+  },
+  {
+    "localidad": "MOVERA"
+  },
+  {
+    "localidad": "TORREVELILLA"
+  },
+  {
+    "localidad": "VALDELTORMO"
+  },
+  {
+    "localidad": "LANAJA"
+  },
+  {
+    "localidad": "ENCINACORBA"
+  },
+  {
+    "localidad": "BRONCHALES"
+  },
+  {
+    "localidad": "RUEDA DE JALON"
+  },
+  {
+    "localidad": "MONTANANA"
+  },
+  {
+    "localidad": "VILLEL"
+  },
+  {
+    "localidad": "FERRERUELA DE HUERVA"
+  },
+  {
+    "localidad": "SOS DEL REY CATOLICO"
+  },
+  {
+    "localidad": "PENARROYA DE TASTAVINS"
+  },
+  {
+    "localidad": "LANZUELA"
+  },
+  {
+    "localidad": "ALLOZA"
+  },
+  {
+    "localidad": "LASCELLAS PONZANO"
+  },
+  {
+    "localidad": "NAVASA"
+  },
+  {
+    "localidad": "SOTO CANDESPINA"
+  },
+  {
+    "localidad": "AISA"
+  },
+  {
+    "localidad": "MONTERDE"
+  },
+  {
+    "localidad": "PERALTA DE LA SAL"
+  },
+  {
+    "localidad": "NUEROS"
+  },
+  {
+    "localidad": "PARACUELLOS DE JILOCA"
+  },
+  {
+    "localidad": "SAN JUAN DE PLAN"
+  },
+  {
+    "localidad": "LAS VENTAS DE SANTA LUCIA"
+  },
+  {
+    "localidad": "NUEZ DE EBRO"
+  },
+  {
+    "localidad": "RUBIALES"
+  },
+  {
+    "localidad": "ARA"
+  },
+  {
+    "localidad": "EL ALIAGAR"
+  },
+  {
+    "localidad": "ALCALA DE MONCAYO"
+  },
+  {
+    "localidad": "YEQUEDA"
+  },
+  {
+    "localidad": "VALTORRES"
+  },
+  {
+    "localidad": "TERUEL"
+  },
+  {
+    "localidad": "HOZ DE JACA"
+  },
+  {
+    "localidad": "TORRES DE BERRELLEN"
+  },
+  {
+    "localidad": "EL TOMILLAR"
+  },
+  {
+    "localidad": "MUNEBREGA"
+  },
+  {
+    "localidad": "LAS PENAS DE RIGLOS"
+  },
+  {
+    "localidad": "ARCOS DE LAS SALINAS"
+  },
+  {
+    "localidad": "SAMPER DE CALANDA"
+  },
+  {
+    "localidad": "BARBOLES"
+  },
+  {
+    "localidad": "VILLALBA BAJA"
+  },
+  {
+    "localidad": "TORRES DE BARBUES"
+  },
+  {
+    "localidad": "LA PUEBLA DE HIJAR"
+  },
+  {
+    "localidad": "EMBUN"
+  },
+  {
+    "localidad": "LA LLANA"
+  },
+  {
+    "localidad": "EJULVE"
+  },
+  {
+    "localidad": "LLANOS DE LA ESTACION"
+  },
+  {
+    "localidad": "ALERRE"
+  },
+  {
+    "localidad": "BAGUENA"
+  },
+  {
+    "localidad": "TARAZONA"
+  },
+  {
+    "localidad": "ARIZA"
+  },
+  {
+    "localidad": "ALBARRACIN"
+  },
+  {
+    "localidad": "EL TORMILLO"
+  },
+  {
+    "localidad": "VISIEDO"
+  },
+  {
+    "localidad": "SAN MIGUEL DEL CINCA"
+  },
+  {
+    "localidad": "ONDAS"
+  },
+  {
+    "localidad": "MONFLORITE"
+  },
+  {
+    "localidad": "MEZQUITA DE JARQUE"
+  },
+  {
+    "localidad": "LA PUEBLA DE RODA"
+  },
+  {
+    "localidad": "PUEBLA DE ALBORTON"
+  },
+  {
+    "localidad": "LAS COLINAS"
+  },
+  {
+    "localidad": "TORLA"
+  },
+  {
+    "localidad": "BLESA"
+  },
+  {
+    "localidad": "LANGA DEL CASTILLO"
+  },
+  {
+    "localidad": "FONZ"
+  },
+  {
+    "localidad": "NOVALES"
+  },
+  {
+    "localidad": "GUDAR"
+  },
+  {
+    "localidad": "CORTES DE ARAGON"
+  },
+  {
+    "localidad": "ALCANIZ"
+  },
+  {
+    "localidad": "PINSORO"
+  },
+  {
+    "localidad": "LA FUEVA"
+  },
+  {
+    "localidad": "TORRELACARCEL"
+  },
+  {
+    "localidad": "POLIGONO INDUSTRIAL"
+  },
+  {
+    "localidad": "BERGE"
+  },
+  {
+    "localidad": "ANSO"
+  },
+  {
+    "localidad": "CHIA"
+  },
+  {
+    "localidad": "BUNALES"
+  },
+  {
+    "localidad": "YEBRA DE BASA"
+  },
+  {
+    "localidad": "CLARES DE RIBOTA"
+  },
+  {
+    "localidad": "RAFALES"
+  },
+  {
+    "localidad": "ANCILES"
+  },
+  {
+    "localidad": "LA HOZ DE LA VIEJA"
+  },
+  {
+    "localidad": "ARTASONA DEL LLANO"
+  },
+  {
+    "localidad": "AGUAVIVA"
+  },
+  {
+    "localidad": "HERRERA DE LOS NAVARROS"
+  },
+  {
+    "localidad": "SAVINAN"
+  },
+  {
+    "localidad": "BELMONTE DE GRACIAN"
+  },
+  {
+    "localidad": "CUNCHILLOS"
+  },
+  {
+    "localidad": "FANLO"
+  },
+  {
+    "localidad": "HUERTO"
+  },
+  {
+    "localidad": "JARQUE"
+  },
+  {
+    "localidad": "ABIEGO"
+  },
+  {
+    "localidad": "BANON"
+  },
+  {
+    "localidad": "AGUILAR DEL ALFAMBRA"
+  },
+  {
+    "localidad": "BADAIN"
+  },
+  {
+    "localidad": "MOLINOS"
+  },
+  {
+    "localidad": "MURILLO DE GALLEGO"
+  },
+  {
+    "localidad": "PANTICOSA"
+  },
+  {
+    "localidad": "MESONES DE ISUELA"
+  },
+  {
+    "localidad": "SALVATIERRA DE ESCA"
+  },
+  {
+    "localidad": "PERALEJOS"
+  },
+  {
+    "localidad": "BIOTA"
+  },
+  {
+    "localidad": "TORRE DEL COMPTE"
+  },
+  {
+    "localidad": "TRASMOZ"
+  },
+  {
+    "localidad": "BARBUES"
+  },
+  {
+    "localidad": "ALBALATE DE CINCA"
+  },
+  {
+    "localidad": "PRADILLA DE EBRO"
+  },
+  {
+    "localidad": "CASBAS DE HUESCA"
+  },
+  {
+    "localidad": "LITAGO"
+  },
+  {
+    "localidad": "VELILLA DE CINCA"
+  },
+  {
+    "localidad": "LA JOYOSA"
+  },
+  {
+    "localidad": "PURROY"
+  },
+  {
+    "localidad": "BARBUNALES"
+  },
+  {
+    "localidad": "CUARTE"
+  },
+  {
+    "localidad": "PERALTILLA"
+  },
+  {
+    "localidad": "LUZAS"
+  },
+  {
+    "localidad": "ESPOSA"
+  },
+  {
+    "localidad": "UTEBO"
+  },
+  {
+    "localidad": "ILCHE"
+  },
+  {
+    "localidad": "SAN LORENZO DEL FLUMEN"
+  },
+  {
+    "localidad": "ALFORQUE"
+  },
+  {
+    "localidad": "POLIGONO INDUSTRIAL CENTRO VIA"
+  },
+  {
+    "localidad": "BELLO"
+  },
+  {
+    "localidad": "ALERA"
+  },
+  {
+    "localidad": "PLASENCIA DE JALON"
+  },
+  {
+    "localidad": "TORRELLAS"
+  },
+  {
+    "localidad": "TORRE LA RIBERA"
+  },
+  {
+    "localidad": "TORRE LOS NEGROS"
+  },
+  {
+    "localidad": "ERLA"
+  },
+  {
+    "localidad": "PUERTOLAS"
+  },
+  {
+    "localidad": "ANINON"
+  },
+  {
+    "localidad": "SAN GREGORIO"
+  },
+  {
+    "localidad": "LAPERDIGUERA"
+  },
+  {
+    "localidad": "SANTA EULALIA"
+  },
+  {
+    "localidad": "PLAYAS DE CHACON"
+  },
+  {
+    "localidad": "CAMPILLO DE ARAGON"
+  },
+  {
+    "localidad": "LOS FAYOS"
+  },
+  {
+    "localidad": "SENA"
+  },
+  {
+    "localidad": "VILLARROYA DE LOS PINARES"
+  },
+  {
+    "localidad": "APIES"
+  },
+  {
+    "localidad": "SALILLAS"
+  },
+  {
+    "localidad": "LOSCOS"
+  },
+  {
+    "localidad": "BOTORRITA"
+  },
+  {
+    "localidad": "URREA DE JALON"
+  },
+  {
+    "localidad": "GARRAPINILLOS"
+  },
+  {
+    "localidad": "NOVALLAS"
+  },
+  {
+    "localidad": "VELILLA DE EBRO"
+  },
+  {
+    "localidad": "CANTAVIEJA"
+  },
+  {
+    "localidad": "CHIPRANA"
+  },
+  {
+    "localidad": "SANTA CILIA"
+  },
+  {
+    "localidad": "SETABIA"
+  },
+  {
+    "localidad": "TAUSTE"
+  },
+  {
+    "localidad": "CAMPO"
+  },
+  {
+    "localidad": "SENO"
+  },
+  {
+    "localidad": "BALLOBAR"
+  },
+  {
+    "localidad": "FUENTES CLARAS"
+  },
+  {
+    "localidad": "TAMARITE DE LITERA"
+  },
+  {
+    "localidad": "CARINENA"
+  },
+  {
+    "localidad": "BLECUA"
+  },
+  {
+    "localidad": "BINACUA"
+  },
+  {
+    "localidad": "VALARENA"
+  },
+  {
+    "localidad": "BULBUENTE"
+  },
+  {
+    "localidad": "CASTELLOTE"
+  },
+  {
+    "localidad": "ARAGUES DEL PUERTO"
+  },
+  {
+    "localidad": "AZLOR"
+  },
+  {
+    "localidad": "URBANIZACION HIPICA VALDELOBOS"
+  },
+  {
+    "localidad": "ONTINAR DE SALZ"
+  },
+  {
+    "localidad": "ESTOPINAN DEL CASTILLO"
+  },
+  {
+    "localidad": "TOBED"
+  },
+  {
+    "localidad": "EL POBLADO"
+  },
+  {
+    "localidad": "HUESCA"
+  },
+  {
+    "localidad": "LIDON"
+  },
+  {
+    "localidad": "LAS PEDROSAS"
+  },
+  {
+    "localidad": "LOS PERTEGACES"
+  },
+  {
+    "localidad": "SALLENT DE GALLEGO"
+  },
+  {
+    "localidad": "FUENTES CALIENTES"
+  },
+  {
+    "localidad": "TRAMACASTILLA"
+  },
+  {
+    "localidad": "SOLANO DE LA VEGA"
+  },
+  {
+    "localidad": "SASTAGO"
+  },
+  {
+    "localidad": "CREGENZAN"
+  },
+  {
+    "localidad": "VILLAR DEL COBO"
+  },
+  {
+    "localidad": "LABUERDA"
+  },
+  {
+    "localidad": "EL POBO"
+  },
+  {
+    "localidad": "RICLA"
+  },
+  {
+    "localidad": "CAMPORRELLS"
+  },
+  {
+    "localidad": "SANTA BARBARA"
+  },
+  {
+    "localidad": "MEQUINENZA"
+  },
+  {
+    "localidad": "ALQUEZAR"
+  },
+  {
+    "localidad": "ALBALATE DEL ARZOBISPO"
+  },
+  {
+    "localidad": "ESTERCUEL"
+  },
+  {
+    "localidad": "ARGENTE"
+  },
+  {
+    "localidad": "VALLE DE HECHO"
+  },
+  {
+    "localidad": "BEZAS"
+  },
+  {
+    "localidad": "SAN MARTIN DEL RIO"
+  },
+  {
+    "localidad": "SARRION"
+  },
+  {
+    "localidad": "VILLALENGUA"
+  },
+  {
+    "localidad": "TRAMACED"
+  },
+  {
+    "localidad": "CIMBALLA"
+  },
+  {
+    "localidad": "BALLERIAS"
+  },
+  {
+    "localidad": "BREA DE ARAGON"
+  },
+  {
+    "localidad": "JUSLIBOL"
+  },
+  {
+    "localidad": "PENALBA"
+  },
+  {
+    "localidad": "CEDRILLAS"
+  },
+  {
+    "localidad": "TORRIJO DE LA CANADA"
+  },
+  {
+    "localidad": "CURBE"
+  },
+  {
+    "localidad": "PANIZA"
+  },
+  {
+    "localidad": "LA CODONERA"
+  },
+  {
+    "localidad": "ESCORIHUELA"
+  },
+  {
+    "localidad": "CARRAMOLINA"
+  },
+  {
+    "localidad": "USED"
+  },
+  {
+    "localidad": "SOS"
+  },
+  {
+    "localidad": "ESCARRILLA"
+  },
+  {
+    "localidad": "ALBA"
+  },
+  {
+    "localidad": "SANTA CRUZ DE GRIO"
+  },
+  {
+    "localidad": "CANDASNOS"
+  },
+  {
+    "localidad": "CAPELLA"
+  },
+  {
+    "localidad": "COLUNGO"
+  },
+  {
+    "localidad": "ARATORES"
+  },
+  {
+    "localidad": "NAVARDUN"
+  },
+  {
+    "localidad": "CASTIGALEU"
+  },
+  {
+    "localidad": "BROTO"
+  },
+  {
+    "localidad": "ALFAJARIN"
+  },
+  {
+    "localidad": "JAULIN"
+  },
+  {
+    "localidad": "ALBERO ALTO"
+  },
+  {
+    "localidad": "FARLETE"
+  },
+  {
+    "localidad": "BORRASTRE"
+  },
+  {
+    "localidad": "PRADILLO"
+  },
+  {
+    "localidad": "ALFANTEGA"
+  },
+  {
+    "localidad": "GURREA DE GALLEGO"
+  },
+  {
+    "localidad": "CAMARENA DE LA SIERRA"
+  },
+  {
+    "localidad": "SAN JORGE"
+  },
+  {
+    "localidad": "CASTEJON DEL PUENTE"
+  },
+  {
+    "localidad": "ESPLUS"
+  },
+  {
+    "localidad": "ROMANOS"
+  },
+  {
+    "localidad": "CONCUD"
+  },
+  {
+    "localidad": "CASTEJON DE VALDEJASA"
+  },
+  {
+    "localidad": "FUENDEJALON"
+  },
+  {
+    "localidad": "SESUE"
+  },
+  {
+    "localidad": "SOPEIRA"
+  },
+  {
+    "localidad": "CRIVILLEN"
+  },
+  {
+    "localidad": "FABARA"
+  },
+  {
+    "localidad": "MONTANUY"
+  },
+  {
+    "localidad": "MONZON"
+  },
+  {
+    "localidad": "BADULES"
+  },
+  {
+    "localidad": "BONANSA"
+  },
+  {
+    "localidad": "CASTELFLORITE"
+  },
+  {
+    "localidad": "CERVERUELA"
+  },
+  {
+    "localidad": "USON"
+  },
+  {
+    "localidad": "ABI"
+  },
+  {
+    "localidad": "LIBROS"
+  },
+  {
+    "localidad": "VIO"
+  },
+  {
+    "localidad": "MIRAMBEL"
+  },
+  {
+    "localidad": "VALDECUENCA"
+  },
+  {
+    "localidad": "CASTEJON DE LAS ARMAS"
+  },
+  {
+    "localidad": "MORES"
+  },
+  {
+    "localidad": "RETASCON"
+  },
+  {
+    "localidad": "TABUENCA"
+  },
+  {
+    "localidad": "SUILS"
+  },
+  {
+    "localidad": "SANGARREN"
+  },
+  {
+    "localidad": "MUNIESA"
+  },
+  {
+    "localidad": "ORTILLA"
+  },
+  {
+    "localidad": "ARENS DE LLEDO"
+  },
+  {
+    "localidad": "SANTA ANASTASIA"
+  },
+  {
+    "localidad": "BAELLS"
+  },
+  {
+    "localidad": "LA VIRGEN DE LA VEGA"
+  },
+  {
+    "localidad": "GARGALLO"
+  },
+  {
+    "localidad": "PINSEQUE"
+  },
+  {
+    "localidad": "MALLEN"
+  },
+  {
+    "localidad": "LA MUELA"
+  },
+  {
+    "localidad": "ALMUNIENTE"
+  },
+  {
+    "localidad": "RIGLOS"
+  },
+  {
+    "localidad": "EL TEMPLE"
+  },
+  {
+    "localidad": "PUYARRUEGO"
+  },
+  {
+    "localidad": "CERLER"
+  },
+  {
+    "localidad": "PALOMAR DE ARROYOS"
+  },
+  {
+    "localidad": "LITUENIGO"
+  },
+  {
+    "localidad": "CANFRANC ESTACION"
+  },
+  {
+    "localidad": "HECHO"
+  },
+  {
+    "localidad": "CONCHEL"
+  },
+  {
+    "localidad": "MAZALEON"
+  },
+  {
+    "localidad": "VALJUNQUERA"
+  },
+  {
+    "localidad": "TORRENTE DE CINCA"
+  },
+  {
+    "localidad": "GRIEGOS"
+  },
+  {
+    "localidad": "CARENAS"
+  },
+  {
+    "localidad": "SAMPER DEL SALZ"
+  },
+  {
+    "localidad": "BERGUA"
+  },
+  {
+    "localidad": "NUENO"
+  },
+  {
+    "localidad": "CANIZAR DEL OLIVAR"
+  },
+  {
+    "localidad": "SINGRA"
+  },
+  {
+    "localidad": "ALHAMA DE ARAGON"
+  },
+  {
+    "localidad": "ANON DE MONCAYO"
+  },
+  {
+    "localidad": "JAVIERREGAY"
+  },
+  {
+    "localidad": "LINAS DE BROTO"
+  },
+  {
+    "localidad": "PUIGMORENO"
+  },
+  {
+    "localidad": "LLEDO"
+  },
+  {
+    "localidad": "ALMONACID DE LA SIERRA"
+  },
+  {
+    "localidad": "VILLANUEVA DE HUERVA"
+  },
+  {
+    "localidad": "FUEN DEL CEPO"
+  },
+  {
+    "localidad": "TARDIENTA"
+  },
+  {
+    "localidad": "FRIAS DE ALBARRACIN"
+  },
+  {
+    "localidad": "LUMPIAQUE"
+  },
+  {
+    "localidad": "SANCHO ABARCA"
+  },
+  {
+    "localidad": "SANTA ISABEL"
+  },
+  {
+    "localidad": "BINEFAR"
+  },
+  {
+    "localidad": "VICIEN"
+  },
+  {
+    "localidad": "ALASTRUEY"
+  },
+  {
+    "localidad": "LUCO DE JILOCA"
+  },
+  {
+    "localidad": "MORATA DE JALON"
+  },
+  {
+    "localidad": "SOFUENTES"
+  },
+  {
+    "localidad": "EL RUN"
+  },
+  {
+    "localidad": "GUASA"
+  },
+  {
+    "localidad": "FONTELLAS"
+  },
+  {
+    "localidad": "PLOU"
+  },
+  {
+    "localidad": "MIRALBUENO"
+  },
+  {
+    "localidad": "ALMUNIA DE SAN JUAN"
+  },
+  {
+    "localidad": "BURBAGUENA"
+  },
+  {
+    "localidad": "TOSOS"
+  },
+  {
+    "localidad": "MONTALBAN"
+  },
+  {
+    "localidad": "TORRECILLA DE ALCANIZ"
+  },
+  {
+    "localidad": "MARA"
+  },
+  {
+    "localidad": "SEIRA"
+  },
+  {
+    "localidad": "LOBERA DE ONSELLA"
+  },
+  {
+    "localidad": "POLIGONO INDUSTRIAL LA PAZ"
+  },
+  {
+    "localidad": "ZUERA"
+  },
+  {
+    "localidad": "CASTILLONROY"
+  },
+  {
+    "localidad": "OLBA"
+  },
+  {
+    "localidad": "VILLAFRANCA DEL CAMPO"
+  },
+  {
+    "localidad": "ARANDA DE MONCAYO"
+  },
+  {
+    "localidad": "YOSA"
+  },
+  {
+    "localidad": "VILLAESPESA"
+  },
+  {
+    "localidad": "VILLAHERMOSA DEL CAMPO"
+  },
+  {
+    "localidad": "CASTIELLO DE JACA"
+  },
+  {
+    "localidad": "LA FRESNEDA"
+  },
+  {
+    "localidad": "LOS TARRAGONES"
+  },
+  {
+    "localidad": "BELVER DE CINCA"
+  },
+  {
+    "localidad": "AINSA"
+  },
+  {
+    "localidad": "QUINTO"
+  },
+  {
+    "localidad": "MOSQUERUELA"
+  },
+  {
+    "localidad": "FRULA"
+  },
+  {
+    "localidad": "ODON"
+  },
+  {
+    "localidad": "CALASANZ"
+  },
+  {
+    "localidad": "SIETAMO"
+  },
+  {
+    "localidad": "VALBONA"
+  },
+  {
+    "localidad": "BISIMBRE"
+  },
+  {
+    "localidad": "REMOLINOS"
+  },
+  {
+    "localidad": "BAILO"
+  },
+  {
+    "localidad": "BOLTANA"
+  },
+  {
+    "localidad": "HINOJOSA DE JARQUE"
+  },
+  {
+    "localidad": "VILLARLUENGO"
+  },
+  {
+    "localidad": "SANTA CRUZ DE LA SEROS"
+  },
+  {
+    "localidad": "BUENA"
+  },
+  {
+    "localidad": "MONREAL DE ARIZA"
+  },
+  {
+    "localidad": "COSTEAN"
+  },
+  {
+    "localidad": "CALAMOCHA"
+  },
+  {
+    "localidad": "CUBLA"
+  },
+  {
+    "localidad": "NOGUERUELAS"
+  },
+  {
+    "localidad": "CASETAS"
+  },
+  {
+    "localidad": "FANANAS"
+  },
+  {
+    "localidad": "PERARRUA"
+  },
+  {
+    "localidad": "LA PUEBLA DE ALFINDEN"
+  },
+  {
+    "localidad": "FUENDETODOS"
+  },
+  {
+    "localidad": "LUNA"
+  },
+  {
+    "localidad": "EL BAYO"
+  },
+  {
+    "localidad": "USANA"
+  },
+  {
+    "localidad": "LAS ALMUNIAS DE RODELLAR"
+  },
+  {
+    "localidad": "RODENAS"
+  },
+  {
+    "localidad": "SALILLAS DE JALON"
+  },
+  {
+    "localidad": "ALMONACID DE LA CUBA"
+  },
+  {
+    "localidad": "UNCASTILLO"
+  },
+  {
+    "localidad": "LATRE"
+  },
+  {
+    "localidad": "SANTA CRUZ DE MONCAYO"
+  },
+  {
+    "localidad": "LOPORZANO"
+  },
+  {
+    "localidad": "AINSA SOBRARBE"
+  },
+  {
+    "localidad": "BARDALLUR"
+  },
+  {
+    "localidad": "LUCENI"
+  },
+  {
+    "localidad": "URBANIZACION PRADOS DEL REY"
+  },
+  {
+    "localidad": "FUENTES DE RUBIELOS"
+  },
+  {
+    "localidad": "SARVISE"
+  },
+  {
+    "localidad": "LA ALMUNIA DE DONA GODINA"
+  },
+  {
+    "localidad": "MAINAR"
+  },
+  {
+    "localidad": "PARACUELLOS DE LA RIBERA"
+  },
+  {
+    "localidad": "ABIZANDA"
+  },
+  {
+    "localidad": "CARTUJA BAJA"
+  },
+  {
+    "localidad": "NOGUERA"
+  },
+  {
+    "localidad": "TALAMANTES"
+  },
+  {
+    "localidad": "VALDECONEJOS"
+  },
+  {
+    "localidad": "EL BURGO DE EBRO"
+  },
+  {
+    "localidad": "NOGUERAS"
+  },
+  {
+    "localidad": "ALBERUELA DE TUBO"
+  },
+  {
+    "localidad": "CAMPODARBE"
+  },
+  {
+    "localidad": "IBIECA"
+  },
+  {
+    "localidad": "NATIVIDAD"
+  },
+  {
+    "localidad": "BERANUY"
+  },
+  {
+    "localidad": "VALPALMAS"
+  },
+  {
+    "localidad": "ALACON"
+  },
+  {
+    "localidad": "ARINO"
+  },
+  {
+    "localidad": "GRANEN"
+  },
+  {
+    "localidad": "FAYON"
+  },
+  {
+    "localidad": "VILLANUEVA DE GALLEGO"
+  },
+  {
+    "localidad": "ATEA"
+  },
+  {
+    "localidad": "FUENTES DE JILOCA"
+  },
+  {
+    "localidad": "LA SOTONERA"
+  },
+  {
+    "localidad": "LOSANGLIS"
+  },
+  {
+    "localidad": "LALUEZA"
+  },
+  {
+    "localidad": "SERRADUY"
+  },
+  {
+    "localidad": "EL SABINAR"
+  },
+  {
+    "localidad": "BERBEGAL"
+  },
+  {
+    "localidad": "MARGURGUED"
+  },
+  {
+    "localidad": "SABINANIGO"
+  },
+  {
+    "localidad": "LOS CEREZOS"
+  },
+  {
+    "localidad": "MARIA DE HUERVA"
+  },
+  {
+    "localidad": "JABALOYAS"
+  },
+  {
+    "localidad": "SAN BLAS"
+  },
+  {
+    "localidad": "AYERBE"
+  },
+  {
+    "localidad": "MEZALOCHA"
+  },
+  {
+    "localidad": "GRAUS"
+  },
+  {
+    "localidad": "LA ALMUNIA DEL ROMERAL"
+  },
+  {
+    "localidad": "PANCRUDO"
+  },
+  {
+    "localidad": "ALPARTIR"
+  },
+  {
+    "localidad": "EPILA"
+  },
+  {
+    "localidad": "GALLOCANTA"
+  },
+  {
+    "localidad": "VILLARROYA DE LA SIERRA"
+  },
+  {
+    "localidad": "ZARAGOZA"
+  },
+  {
+    "localidad": "BORDON"
+  },
+  {
+    "localidad": "TIERZ"
+  },
+  {
+    "localidad": "LASPAULES"
+  },
+  {
+    "localidad": "VALFARTA"
+  },
+  {
+    "localidad": "ABABUJ"
+  },
+  {
+    "localidad": "LAS LOMAS DEL GALLEGO"
+  },
+  {
+    "localidad": "GEA DE ALBARRACIN"
+  },
+  {
+    "localidad": "PUERTOMINGALVO"
+  },
+  {
+    "localidad": "MAGALLON"
+  },
+  {
+    "localidad": "ERISTE"
+  },
+  {
+    "localidad": "PUENDELUNA"
+  },
+  {
+    "localidad": "VILLARROYA DEL CAMPO"
+  },
+  {
+    "localidad": "BANASTON"
+  },
+  {
+    "localidad": "CHIMILLAS"
+  },
+  {
+    "localidad": "EMBID DE LA RIBERA"
+  },
+  {
+    "localidad": "RIVAS"
+  },
+  {
+    "localidad": "LA ALMOLDA"
+  },
+  {
+    "localidad": "URCAMUSA"
+  },
+  {
+    "localidad": "FORMICHE ALTO"
+  },
+  {
+    "localidad": "MARRACOS"
+  },
+  {
+    "localidad": "VILLANUEVA DE SIGENA"
+  },
+  {
+    "localidad": "LA PUEBLA DE VALVERDE"
+  },
+  {
+    "localidad": "BOQUINENI"
+  },
+  {
+    "localidad": "CEMENTE"
+  },
+  {
+    "localidad": "VILLAMAYOR DE GALLEGO"
+  },
+  {
+    "localidad": "TERRIENTE"
+  },
+  {
+    "localidad": "ESCUCHA"
+  },
+  {
+    "localidad": "MONEGRILLO"
+  },
+  {
+    "localidad": "ARGUIS"
+  },
+  {
+    "localidad": "LA TORRECILLA"
+  },
+  {
+    "localidad": "NONASPE"
+  },
+  {
+    "localidad": "URBANIZACION LAS GALIAS"
+  },
+  {
+    "localidad": "POLENINO"
+  },
+  {
+    "localidad": "CADRETE"
+  },
+  {
+    "localidad": "PEDROLA"
+  },
+  {
+    "localidad": "TORRECILLA DE VALMADRID"
+  },
+  {
+    "localidad": "EL GRADO"
+  },
+  {
+    "localidad": "CETINA"
+  },
+  {
+    "localidad": "MUEL"
+  },
+  {
+    "localidad": "ALCALA DE EBRO"
+  },
+  {
+    "localidad": "MANCHONES"
+  },
+  {
+    "localidad": "BECEITE"
+  },
+  {
+    "localidad": "SIRESA"
+  },
+  {
+    "localidad": "NOMBREVILLA"
+  },
+  {
+    "localidad": "BISAURRI"
+  },
+  {
+    "localidad": "TORNOS"
+  },
+  {
+    "localidad": "LONGARES"
+  },
+  {
+    "localidad": "MIRALSOT"
+  },
+  {
+    "localidad": "SANTA EULALIA DE GALLEGO"
+  },
+  {
+    "localidad": "SIGUES"
+  },
+  {
+    "localidad": "CAMARILLAS"
+  },
+  {
+    "localidad": "SERUE"
+  },
+  {
+    "localidad": "CASTILISCAR"
+  },
+  {
+    "localidad": "CUARTE DE HUERVA"
+  },
+  {
+    "localidad": "ILLUECA"
+  },
+  {
+    "localidad": "SAN JUAN DE MOZARRIFAR"
+  },
+  {
+    "localidad": "SAN JULIAN DE BANZO"
+  },
+  {
+    "localidad": "AGUILON"
+  },
+  {
+    "localidad": "LA PAUL"
+  },
+  {
+    "localidad": "RANIN"
+  },
+  {
+    "localidad": "RODANAS"
+  },
+  {
+    "localidad": "CALANDA"
+  },
+  {
+    "localidad": "LOS HUERTOS"
+  },
+  {
+    "localidad": "PASTRIZ"
+  },
+  {
+    "localidad": "MORATA DE JILOCA"
+  },
+  {
+    "localidad": "SALAS BAJAS"
+  },
+  {
+    "localidad": "ALFAMBRA"
+  },
+  {
+    "localidad": "SAN AGUSTIN"
+  },
+  {
+    "localidad": "ENATE"
+  },
+  {
+    "localidad": "MONTE JULIA"
+  },
+  {
+    "localidad": "JACA"
+  },
+  {
+    "localidad": "LA MATA DE LOS OLMOS"
+  },
+  {
+    "localidad": "BANASTAS"
+  },
+  {
+    "localidad": "VILLAFRANCA DE EBRO"
+  },
+  {
+    "localidad": "SANTA ENGRACIA DE JACA"
+  },
+  {
+    "localidad": "CASTEJON DE SOS"
+  },
+  {
+    "localidad": "MONTESUSIN"
+  },
+  {
+    "localidad": "VILLANUEVA DEL REBOLLAR DE LA SIERRA"
+  },
+  {
+    "localidad": "NAVAL"
+  },
+  {
+    "localidad": "MONTECANAL"
+  },
+  {
+    "localidad": "BENABARRE"
+  },
+  {
+    "localidad": "HIJAR"
+  },
+  {
+    "localidad": "ESCATRON"
+  },
+  {
+    "localidad": "TABERNAS DE ISUELA"
+  },
+  {
+    "localidad": "VALDERROBRES"
+  },
+  {
+    "localidad": "FOZ CALANDA"
+  },
+  {
+    "localidad": "LIGUERRE DE CINCA"
+  },
+  {
+    "localidad": "ABAY"
+  },
+  {
+    "localidad": "CELLA"
+  },
+  {
+    "localidad": "SAHUN"
+  },
+  {
+    "localidad": "MIEDES DE ARAGON"
+  },
+  {
+    "localidad": "AZUARA"
+  },
+  {
+    "localidad": "IBDES"
+  },
+  {
+    "localidad": "CALDEARENAS"
+  },
+  {
+    "localidad": "CASTELNOU"
+  },
+  {
+    "localidad": "ANADON"
+  },
+  {
+    "localidad": "ANENTO"
+  },
+  {
+    "localidad": "CABANAS DE EBRO"
+  },
+  {
+    "localidad": "ORIHUELA DEL TREMEDAL"
+  },
+  {
+    "localidad": "LLAGUNAS"
+  },
+  {
+    "localidad": "FUENTESPALDA"
+  },
+  {
+    "localidad": "BARDENAS"
+  },
+  {
+    "localidad": "SANDINIES"
+  },
+  {
+    "localidad": "LOARRE"
+  },
+  {
+    "localidad": "NUEVALOS"
+  },
+  {
+    "localidad": "MONTEAGUDO DEL CASTILLO"
+  },
+  {
+    "localidad": "LA ZOMA"
+  },
+  {
+    "localidad": "SANTA ENGRACIA"
+  },
+  {
+    "localidad": "LA PUEBLA DE CASTRO"
+  },
+  {
+    "localidad": "CORBALAN"
+  },
+  {
+    "localidad": "SOBRADIEL"
+  },
+  {
+    "localidad": "CUCALON"
+  },
+  {
+    "localidad": "VIVEL DEL RIO MARTIN"
+  },
+  {
+    "localidad": ""
+  },
+  {
+    "localidad": "ALCALA DE LA SELVA"
+  },
+  {
+    "localidad": "TORRALBA DE LOS SISONES"
+  },
+  {
+    "localidad": "FIGUERUELAS"
+  },
+  {
+    "localidad": "TRASOBARES"
+  },
+  {
+    "localidad": "ALFOCEA"
+  },
+  {
+    "localidad": "BLANCAS"
+  },
+  {
+    "localidad": "ESTICHE DE CINCA"
+  },
+  {
+    "localidad": "ARTIEDA"
+  },
+  {
+    "localidad": "ALBETA"
+  },
+  {
+    "localidad": "AINZON"
+  },
+  {
+    "localidad": "PALLARUELO DE MONEGROS"
+  },
+  {
+    "localidad": "COLLADOS"
+  },
+  {
+    "localidad": "MARGARITA"
+  },
+  {
+    "localidad": "PUENTE DE MONTANANA"
+  },
+  {
+    "localidad": "CELADAS"
+  },
+  {
+    "localidad": "PUEYO"
+  },
+  {
+    "localidad": "BINACED"
+  },
+  {
+    "localidad": "AZARA"
+  },
+  {
+    "localidad": "GALLUR"
+  },
+  {
+    "localidad": "NOVILLAS"
+  },
+  {
+    "localidad": "OTO"
+  },
+  {
+    "localidad": "SANTALECINA"
+  },
+  {
+    "localidad": "AMBEL"
+  },
+  {
+    "localidad": "ALMUDEVAR"
+  },
+  {
+    "localidad": "URBANIZACION VIRGEN DE LA COLUMNA"
+  },
+  {
+    "localidad": "EJEA DE LOS CABALLEROS"
+  },
+  {
+    "localidad": "ALCALA DE GURREA"
+  },
+  {
+    "localidad": "CODO"
+  },
+  {
+    "localidad": "ALBENTOSA"
+  },
+  {
+    "localidad": "EL CASTELLAR"
+  },
+  {
+    "localidad": "ESTADILLA"
+  },
+  {
+    "localidad": "BANAGUAS"
+  },
+  {
+    "localidad": "POZAN DE VERO"
+  },
+  {
+    "localidad": "POMAR DE CINCA"
+  },
+  {
+    "localidad": "ESTACION"
+  },
+  {
+    "localidad": "ALBELDA"
+  },
+  {
+    "localidad": "BELCHITE"
+  },
+  {
+    "localidad": "VILLARREAL DE HUERVA"
+  },
+  {
+    "localidad": "MORA DE RUBIELOS"
+  },
+  {
+    "localidad": "LINARES DE MORA"
+  },
+  {
+    "localidad": "UR AMELIA"
+  },
+  {
+    "localidad": "FRESCANO"
+  },
+  {
+    "localidad": "CAMINREAL"
+  },
+  {
+    "localidad": "MALUENDA"
+  },
+  {
+    "localidad": "ALBERO BAJO"
+  },
+  {
+    "localidad": "BOLEA"
+  },
+  {
+    "localidad": "CODOS"
+  },
+  {
+    "localidad": "GRANJA DE SANTA INES"
+  },
+  {
+    "localidad": "MOYUELA"
+  },
+  {
+    "localidad": "ALCOLEA DE CINCA"
+  },
+  {
+    "localidad": "BURETA"
+  },
+  {
+    "localidad": "INOGES"
+  },
+  {
+    "localidad": "MONZALBARBA"
+  },
+  {
+    "localidad": "BENASQUE"
+  },
+  {
+    "localidad": "PERACENSE"
+  },
+  {
+    "localidad": "PITARQUE"
+  },
+  {
+    "localidad": "LA IGLESUELA DEL CID"
+  },
+  {
+    "localidad": "POMPENILLO"
+  },
+  {
+    "localidad": "LA CARTUJA DE MONEGROS"
+  },
+  {
+    "localidad": "CASTRALVO"
+  },
+  {
+    "localidad": "DOS TORRES DE MERCADER"
+  },
+  {
+    "localidad": "EL FRASNO"
+  },
+  {
+    "localidad": "LUESIA"
+  },
+  {
+    "localidad": "CASAS DEL CANAL EL CABEZO"
+  },
+  {
+    "localidad": "SESA"
+  },
+  {
+    "localidad": "BUJARALOZ"
+  },
+  {
+    "localidad": "HUERMEDA"
+  },
+  {
+    "localidad": "LALUENGA"
+  },
+  {
+    "localidad": "VERA DE MONCAYO"
+  },
+  {
+    "localidad": "CUEVAS DE ALMUDEN"
+  },
+  {
+    "localidad": "CAMANAS"
+  },
+  {
+    "localidad": "CASCANTE DEL RIO"
+  },
+  {
+    "localidad": "RUBIELOS DE MORA"
+  },
+  {
+    "localidad": "CASTEL DE CABRA"
+  },
+  {
+    "localidad": "SECASTILLA"
+  },
+  {
+    "localidad": "ALCUBIERRE"
+  },
+  {
+    "localidad": "TORRIJO DEL CAMPO"
+  },
+  {
+    "localidad": "MALON"
+  },
+  {
+    "localidad": "SORRIPAS"
+  },
+  {
+    "localidad": "ATECA"
+  },
+  {
+    "localidad": "MAELLA"
+  },
+  {
+    "localidad": "URBANIZACION LAGO AZUL"
+  },
+  {
+    "localidad": "ALCONCHEL DE ARIZA"
+  },
+  {
+    "localidad": "TORRE DE ESERA"
+  },
+  {
+    "localidad": "BUESA"
+  },
+  {
+    "localidad": "GELSA DE EBRO"
+  },
+  {
+    "localidad": "VALFONDA DE SANTA ANA"
+  },
+  {
+    "localidad": "POLIGONO INDUSTRIAL CADRETE"
+  },
+  {
+    "localidad": "VILLADOZ"
+  },
+  {
+    "localidad": "ANGUES"
+  },
+  {
+    "localidad": "MORILLO DE TOU"
+  },
+  {
+    "localidad": "BELMONTE DE SAN JOSE"
+  },
+  {
+    "localidad": "PUERTO ASTUN"
+  },
+  {
+    "localidad": "PENAFLOR"
+  },
+  {
+    "localidad": "COSUENDA"
+  },
+  {
+    "localidad": "GRANJA DE SAN PEDRO"
+  },
+  {
+    "localidad": "BERDUN"
+  },
+  {
+    "localidad": "CUEVAS LABRADAS"
+  },
+  {
+    "localidad": "DAROCA"
+  },
+  {
+    "localidad": "VILLANUA"
+  },
+  {
+    "localidad": "MARTIN DEL RIO"
+  },
+  {
+    "localidad": "LATAS"
+  },
+  {
+    "localidad": "CASTEJON DE MONEGROS"
+  },
+  {
+    "localidad": "BIEL"
+  },
+  {
+    "localidad": "OSERA DE EBRO"
+  },
+  {
+    "localidad": "ESTACION PORTAZGO"
+  },
+  {
+    "localidad": "VALMADRID"
+  },
+  {
+    "localidad": "MOROS"
+  },
+  {
+    "localidad": "BADAGUAS"
+  },
+  {
+    "localidad": "TOLVA"
+  },
+  {
+    "localidad": "PERALES DEL ALFAMBRA"
+  },
+  {
+    "localidad": "EMBID DE ARIZA"
+  },
+  {
+    "localidad": "VIERLAS"
+  },
+  {
+    "localidad": "VENTA DEL OLIVAR"
+  },
+  {
+    "localidad": "GELSA"
+  },
+  {
+    "localidad": "TORRES DEL OBISPO"
+  },
+  {
+    "localidad": "CANDANCHU"
+  },
+  {
+    "localidad": "LOS VILLANUEVAS"
+  },
+  {
+    "localidad": "PUEYO DE FANANAS"
+  },
+  {
+    "localidad": "CALACEITE"
+  },
+  {
+    "localidad": "PIEDRATAJADA"
+  },
+  {
+    "localidad": "MALPICA"
+  },
+  {
+    "localidad": "VENCILLON"
+  },
+  {
+    "localidad": "FISCAL"
+  },
+  {
+    "localidad": "BIELSA"
+  },
+  {
+    "localidad": "QUICENA"
+  },
+  {
+    "localidad": "CERVERA DE LA CANADA"
+  },
+  {
+    "localidad": "LECHAGO"
+  },
+  {
+    "localidad": "SAN JUAN DEL FLUMEN"
+  },
+  {
+    "localidad": "BUBIERCA"
+  },
+  {
+    "localidad": "OSSO DE CINCA"
+  },
+  {
+    "localidad": "VALDEALGORFA"
+  },
+  {
+    "localidad": "POLIGONO INDUSTRIAL LA CUESTA"
+  },
+  {
+    "localidad": "ALCALA DEL OBISPO"
+  },
+  {
+    "localidad": "ALLEPUZ"
+  },
+  {
+    "localidad": "FORTANETE"
+  },
+  {
+    "localidad": "GOTOR"
+  },
+  {
+    "localidad": "JARABA"
+  },
+  {
+    "localidad": "JORCAS"
+  },
+  {
+    "localidad": "COFITA"
+  },
+  {
+    "localidad": "VILLANOVA"
+  },
+  {
+    "localidad": "ISABENA"
+  },
+  {
+    "localidad": "LAGUERUELA"
+  },
+  {
+    "localidad": "MANZANERA"
+  },
+  {
+    "localidad": "LOS OLMOS"
+  },
+  {
+    "localidad": "ADAHUESCA"
+  },
+  {
+    "localidad": "CONTAMINA"
+  },
+  {
+    "localidad": "AGON"
+  },
+  {
+    "localidad": "ANDORRA"
+  },
+  {
+    "localidad": "FRAGA"
+  },
+  {
+    "localidad": "URREA DE GAEN"
+  },
+  {
+    "localidad": "VILLAFELICHE"
+  },
+  {
+    "localidad": "SANTA FE"
+  },
+  {
+    "localidad": "EL CAMPILLO"
+  },
+  {
+    "localidad": "JARQUE DE LA VAL"
+  },
+  {
+    "localidad": "SANTA MARIA DE DULCIS"
+  },
+  {
+    "localidad": "ARANDIGA"
+  },
+  {
+    "localidad": "PERALTA DE ALCOFEA"
+  },
+  {
+    "localidad": "MOZOTA"
+  },
+  {
+    "localidad": "LUCENA DE JALON"
+  },
+  {
+    "localidad": "BIERGE"
+  },
+  {
+    "localidad": "BORAU"
+  },
+  {
+    "localidad": "TORRES DE ALCANADRE"
+  },
+  {
+    "localidad": "GALVE"
+  },
+  {
+    "localidad": "LA GINEBROSA"
+  },
+  {
+    "localidad": "MONESMA Y CAJIGAR"
+  },
+  {
+    "localidad": "ALCAINE"
+  },
+  {
+    "localidad": "CABRA DE MORA"
+  },
+  {
+    "localidad": "AZANUY"
+  },
+  {
+    "localidad": "SALAS ALTAS"
+  },
+  {
+    "localidad": "SARINENA"
+  },
+  {
+    "localidad": "VAL DE SAN MARTIN"
+  },
+  {
+    "localidad": "ALCAMPELL"
+  },
+  {
+    "localidad": "LASCUARRE"
+  },
+  {
+    "localidad": "TORRALBA DE ARAGON"
+  },
+  {
+    "localidad": "MURALLAS DE SANTA FE"
+  },
+  {
+    "localidad": "EL PUEYO DE ARAGUAS"
+  },
+  {
+    "localidad": "PERDIGUERA"
+  },
+  {
+    "localidad": "ABENA"
+  },
+  {
+    "localidad": "ONTINENA"
+  },
+  {
+    "localidad": "MAS DE LAS MATAS"
+  },
+  {
+    "localidad": "POZUELO DE ARAGON"
+  },
+  {
+    "localidad": "NAVARRETE DEL RIO"
+  },
+  {
+    "localidad": "PUENTE LA REINA DE JACA"
+  },
+  {
+    "localidad": "SESTRICA"
+  },
+  {
+    "localidad": "ZAIDIN"
+  }
+]
+    }
+  }
+}
